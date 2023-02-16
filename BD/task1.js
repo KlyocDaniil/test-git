@@ -18,7 +18,7 @@ arr = arr.split("\n")
 //Function Task1(),Task2(),Task3(),Task4(),Task5(),countString(),createDirectory(),showall()
 //Task1()
 
-Task5()
+showall()
 
 
 function showall(){
@@ -52,7 +52,6 @@ function Task1 (){
                         flag: "a+",
                         mode: 0o666
                       });
-                  
             }
         });
 }
