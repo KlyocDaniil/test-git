@@ -20,7 +20,6 @@ arr = arr.split("\n")
 
 showall()
 
-
 function showall(){
   arr.forEach(element =>{
     console.log(element)
