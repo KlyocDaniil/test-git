@@ -18,7 +18,7 @@ arr = arr.split("\n")
 //Function Task1(),Task2(),Task3(),Task4(),Task5(),countString(),createDirectory(),showall()
 //Task1()
 
-showall()
+Task5()
 
 
 function showall(){
@@ -43,10 +43,7 @@ function Task1 (){
     arr.forEach(element => {
             const currentCity = '"England"';
             const city = element.split(",")[3];
-            // console.log(`${city} === ${currentCity} ${city === currentCity}`)
             if (city === currentCity){
-                // console.log(element)
-                for (let i = 0; i < 1; i++) {
                   // Write file
                     fs.writeFileSync("BD/outputs/output1TASK.txt",
                         element + "\n",
@@ -55,7 +52,7 @@ function Task1 (){
                         flag: "a+",
                         mode: 0o666
                       });
-                  }
+                  
             }
         });
 }
@@ -69,7 +66,7 @@ function Task2(){
         const weight = element.split(",")[4]
         if (weight >= 110 && weight <=120){
             // console.log(element)
-            for (let i = 0; i < 1; i++) {
+            
                 fs.writeFileSync("BD/outputs/output2TASK.txt",
                     element + "\n",
                   {
@@ -77,7 +74,7 @@ function Task2(){
                     flag: "a+",
                     mode: 0o666
                   });
-              }
+              
         }
 })}
 
@@ -88,7 +85,7 @@ function Task3(){
     const name = element.split(",")[1]
     if (name.includes("Darv")){
         // console.log(element)
-        for (let i = 0; i < 1; i++) {
+        
             fs.writeFileSync("BD/outputs/output3TASK.txt",
                 element + "\n",
               {
@@ -96,7 +93,7 @@ function Task3(){
                 flag: "a+",
                 mode: 0o666
               });
-          }
+          
     }
 })}
 
@@ -107,7 +104,7 @@ function Task4(){
    const surname = element.split(",")[2]
    if (surname.length < 8){
     // console.log(element)
-    for (let i = 0; i < 1; i++) {
+    
         fs.writeFileSync("BD/outputs/output4TASK.txt",
             element + "\n",
           {
@@ -115,7 +112,7 @@ function Task4(){
             flag: "a+",
             mode: 0o666
           });
-      }
+      
    }
 })}
 
@@ -129,7 +126,7 @@ function Task5 (){
     let solution = weight / BMIheight;
     let fin = element + ',' + solution.toFixed(2)
 
-    for (let i = 0; i < 1; i++) {
+    
         fs.writeFileSync("BD/outputs/output5TASK.txt",
             fin + "\n",
           {
@@ -137,7 +134,7 @@ function Task5 (){
             flag: "a+",
             mode: 0o666
           });
-      }
+      
   }
 )}
 
