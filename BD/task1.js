@@ -9,7 +9,6 @@ const data = fs.readFileSync(
             err ? console.log(err) : console.log(data) // 2 rev
   })
 
-
 arr = data.toString()
 arr = arr.split("\n")
 
@@ -18,6 +17,7 @@ function showall() {
     console.log(element)
   })
 }
+// showall()
 // countString(0)
 function countString(whatTask) {
   if (whatTask === 0){
@@ -28,17 +28,18 @@ function countString(whatTask) {
   tmp = mail.split('\n')
   // console.log(tmp[tmp.length - 1])
   console.log(tmp.length-1)
+  
 }
-
-function createDirectory() {
-  fs.mkdir('BD/outputs', err => {
+createDirectory(321)
+function createDirectory(nameFolder) {
+  fs.mkdir('BD/' + nameFolder, err => {
     if(err) throw err; 
     console.log('Папка успешно создана');
  });
 }
 
 function createOutput(result,whatTask) {
-  fs.writeFileSync("BD/outputs/" +  "output" + whatTask + "TASK.txt",
+  file = fs.writeFileSync("BD/outputs/" +  "output" + whatTask + "TASK.txt",
   result + "\n",
 {
   encoding: "utf8",
@@ -47,7 +48,9 @@ function createOutput(result,whatTask) {
 });
 }
 
-Task1('"England"')
+
+// Task2()
+// Task1('"England"')
 // All people who have nationality England
 function Task1 (cityNow) {
     arr.forEach(element => {
