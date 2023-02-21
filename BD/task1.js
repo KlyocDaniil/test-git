@@ -1,6 +1,6 @@
 // Read file
 const fs = require('fs');
-
+const path = require('path')
 const data = fs.readFileSync(
   'BD/input_data.csv',
   {encoding:'utf8', flag:'r'},
@@ -17,7 +17,7 @@ function showall() {
   })
 }
 
-function countString(whatTask) {
+function countStringAndNameFile(whatTask) {
   if (whatTask === 0){
      mail = fs.readFileSync("BD/input_data.csv").toString()
   }else {
@@ -25,6 +25,9 @@ function countString(whatTask) {
   }
   tmp = mail.split('\n')
   console.log(tmp.length-1)
+
+  const infoAboutFile = "BD/outputs/" +  "output" + whatTask + "TASK.txt"
+  console.log(path.basename(infoAboutFile))
 }
 
 function createDirectory(nameFolder) {
@@ -44,6 +47,7 @@ function createOutput(result,whatTask) {
 });
 }
 
+Task5()
 function Task1 (nationality) {
     arr.forEach(element => {
             const currentCity = nationality;
@@ -52,7 +56,8 @@ function Task1 (nationality) {
               createOutput(element,1) 
             }
         });
-        countString(1)
+        countStringAndNameFile(1)
+        
 }
 
 function Task2() { 
@@ -62,7 +67,7 @@ function Task2() {
                 createOutput(element,2)
         }
 })
-        countString(2) 
+countStringAndNameFile(2) 
 }
 
 function Task3() {
@@ -72,7 +77,7 @@ function Task3() {
         createOutput(element,3)
     }
 })
-        countString(3)
+countStringAndNameFile(3)
 }
 
 function Task4() {
@@ -82,7 +87,7 @@ function Task4() {
         createOutput(element,4)
    }
 })
-      countString(4)
+countStringAndNameFile(4)
 }
 
 function Task5 () {
@@ -101,5 +106,5 @@ function Task5 () {
           createOutput(resultNeverExist,5)
         }      
     }
-    countString(5)
+    countStringAndNameFile(5)
 }
