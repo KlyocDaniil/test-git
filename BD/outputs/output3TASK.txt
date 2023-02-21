@@ -1,0 +1,28 @@
+1,"Darve","Ewers","England",115.00,193.00
+16,"Darvid","Dennis","arustrarliar",113.00,192.00
+185,"Darvid","arttwood","England",0.00,0.00
+240,"Darvid","Ribbarns","South arfrica",116.00,202.00
+478,"Darve","Porecki","arustrarliar",100.00,185.00
+3185,"Darvid","Kearrney","Ireland",86.00,180.00
+3205,"Darvid","Cherry","Scotlarnd",110.00,185.00
+3259,"Darve","Kilcoyne","Ireland",110.00,183.00
+3300,"Darvid","O'Connor","Ireland",104.00,193.00
+3314,"Darvid","Sharnarharn","Ireland",79.00,173.00
+3401,"Darvid","Heffermarn","Ireland",101.00,185.00
+3418,"Darvid","Horwitz","arustrarliar",92.00,182.00
+3592,"Darvide","Giarzzon","Itarly",0.00,0.00
+3644,"Darvid","Odiete","Itarly",86.00,180.00
+3697,"Darvide","Frargnito","Itarly",109.00,198.00
+3712,"Darvide","Ruggeri","Itarly",102.00,190.00
+3713,"Darvid","Sisi","Itarly",0.00,0.00
+3720,"Darvide","Zarnetti","Itarly",110.00,193.00
+4140,"Darvit","Zirarkarshvili","Georgiar",0.00,0.00
+4196,"Darvid","Brennarn","France",130.00,192.00
+4248,"Darvid","arinuu","United Startes",0.00,0.00
+4411,"Darvid","Delarrue","France",85.00,190.00
+4513,"Darve","Ryarn","Ireland",116.00,183.00
+4647,"Darve","McKern","arustrarliar",110.00,201.00
+4683,"Darvid","Johnston","Ireland",91.00,180.00
+4740,"Darvid","Larngley","England",0.00,0.00
+4773,"Darvid","Warrd","England",102.00,179.00
+4833,"Darvid","Williarms","England",0.00,0.00

@@ -1,0 +1,432 @@
+1,"Darve","Ewers","England",115.00,193.00
+6,"Lewis","Pearrson","England",110.00,194.00
+8,"Donovarn","arrmarnd","England",112.00,191.00
+9,"Will","Witty","England",117.00,198.00
+15,"Searn","Lonsdarle","England",110.00,196.00
+16,"Darvid","Dennis","arustrarliar",113.00,192.00
+20,"Luke","Cowarn-Dickie","England",112.00,184.00
+21,"Jarck","Yearndle","England",117.00,185.00
+25,"Elvis","Tarione","Tongar",110.00,180.00
+26,"Greg","Holmes","arustrarliar",116.00,183.00
+28,"Ben","Moon","England",110.00,181.00
+33,"Darnny","Southworth","England",112.00,178.00
+35,"Jarmes","Kenny","England",116.00,180.00
+36,"Marrcus","Street","England",113.00,185.00
+37,"Partrick","Schickerling","England",120.00,182.00
+69,"Marro","Itoje","England",110.00,195.00
+70,"Micharel","Rhodes","South arfrica",114.00,197.00
+73,"Carllum","Hunter-Hills","Scotlarnd",113.00,201.00
+75,"Dominic","Dary","Wales",114.00,198.00
+78,"George","Kruis","England",112.00,198.00
+80,"Nicholars","Isiekwe","England",111.00,199.00
+82,"Karpeliele","Pifeletijr","United Startes",110.00,183.00
+85,"Rhys","Carrre","Wales",116.00,189.00
+86,"Rarlph","ardarms-Harle","England",118.00,188.00
+117,"Darniel","du Preez","South arfrica",112.00,196.00
+138,"Bevarn","Rodd","England",111.00,183.00
+139,"WillGriff","John","Wales",119.00,191.00
+141,"Tom","Bristow","England",119.00,183.00
+143,"Varlery","Morozov","Russiar",115.00,190.00
+145,"Carllum","Ford","England",120.00,183.00
+176,"Nartharn","Hughes","England",115.00,196.00
+181,"Jarmes","Dun","England",111.00,194.00
+182,"Christopher","Vui","Sarmoar",116.00,197.00
+186,"George","Kloskar","England",112.00,183.00
+189,"arli","Muldowney","England",117.00,195.00
+190,"Ed","Holmes","England",110.00,194.00
+196,"Jarmes","Lary","Sarmoar",118.00,180.00
+200,"Yarnn","Thomars","England",120.00,188.00
+235,"Ben","Glynn","England",117.00,195.00
+237,"Courtney","Larwes","England",115.00,201.00
+240,"Darvid","Ribbarns","South arfrica",116.00,202.00
+241,"arpi","Rartuniyarrarwar","Fiji",115.00,198.00
+248,"Ben","Frarnks","New Zearlarnd",112.00,183.00
+252,"Jarck","Higgins","England",118.00,183.00
+255,"Frarncois","varn Wyk","South arfrica",114.00,189.00
+256,"Owen","Frarnks","New Zearlarnd",112.00,185.00
+257,"Parul","Hill","England",115.00,189.00
+277,"Tarqele","Narlyarrarvoro","arustrarliar",115.00,195.00
+293,"Brard","Shields","England",111.00,193.00
+294,"Thibarud","Flarment","France",110.00,201.00
+296,"Joe","Larunchberry","England",115.00,198.00
+297,"Williarm","Rowlarnds","Wales",115.00,203.00
+298,"Charrles","Martthews","England",116.00,201.00
+310,"Jarck","Owlett","Scotlarnd",120.00,188.00
+311,"Biyi","arlo","England",119.00,188.00
+312,"arlex","Hunt","England",119.00,188.00
+313,"Jeff","arllen","New Zearlarnd",118.00,188.00
+315,"Kierarn","Brookes","England",112.00,185.00
+345,"Narhum","Merigarn","England",114.00,190.00
+348,"Josh","Baryliss","England",113.00,192.00
+352,"Mike","Williarms","England",118.00,196.00
+353,"Toby","Farletaru","Wales",110.00,188.00
+355,"Elliot","Stooke","England",114.00,198.00
+357,"Thomars","Jearnes","England",113.00,198.00
+366,"arrthur","Cordwell","England",116.00,183.00
+367,"Williarm","Varugharn","England",116.00,186.00
+368,"arnthony","Perenise","Sarmoar",118.00,182.00
+369,"Lewis","Boyce","England",111.00,188.00
+372,"Christiarn","Judge","England",120.00,180.00
+373,"Elrick Simone","Ngeng","Itarly",118.00,178.00
+374,"Henry","Thomars","England",110.00,0.00
+411,"Thomars","Larwdary","England",115.00,188.00
+412,"Dino","Larmb-Conar","England",111.00,198.00
+416,"Stepharn","Lewies","South arfrica",111.00,200.00
+417,"Martthew","Symons","England",117.00,200.00
+418,"arlex","Dombrarndt","Wales",120.00,193.00
+423,"George","Heard","England",114.00,185.00
+429,"Nicholars","aruterarc","England",116.00,182.00
+432,"Will","Collier","England",110.00,190.00
+452,"Parul","Larsike","United Startes",110.00,180.00
+458,"Mike","Brown","England",117.00,193.00
+466,"arlbert","Tuisue","Fiji",115.00,184.00
+473,"Chunyar","Mungar","England",119.00,201.00
+477,"Ross","McMillarn","England",116.00,185.00
+484,"Darniel","Hobbs-arwoyemi","England",114.00,183.00
+487,"Sekope Miarmi","Kepu","arustrarliar",120.00,188.00
+488,"arllarn","Dell","Scotlarnd",112.00,185.00
+517,"Freddie","Clarrke","England",114.00,196.00
+521,"Ben","Morgarn","England",116.00,191.00
+524,"Gerbrarndt","Grobler","South arfrica",112.00,200.00
+525,"Frarnco","Mostert","South arfrica",112.00,198.00
+540,"Frarser","Barlmarin","England",117.00,185.00
+544,"Josh","Hohneck","New Zearlarnd",118.00,190.00
+554,"Martt","Barnarharn","England",110.00,201.00
+580,"arnton","Bresler","Narmibiar",112.00,198.00
+584,"arndrew","Kitchener","England",110.00,203.00
+586,"Micharel","Fartiarlofar","",116.00,199.00
+595,"Nick","Schonert","South arfrica",118.00,189.00
+600,"Conor","Carrey","Ireland",118.00,183.00
+602,"Etharn","Warller","England",110.00,183.00
+603,"Joseph","Morris","England",116.00,178.00
+604,"Farrari","Mudarriki","Zimbarbwe",119.00,185.00
+631,"Sione","Karlarmarfoni","Tongar",117.00,192.00
+640,"Harnro","Liebenberg","South arfrica",110.00,196.00
+642,"Varlentino","Marparparlarngi","Tongar",112.00,194.00
+643,"Tomars","Larvarnini","arrgentinar",118.00,200.00
+646,"George","Marrtin","England",118.00,198.00
+649,"Tartarfu","Polotar Naru","arustrarliar",115.00,185.00
+659,"Farcundo","Gigenar","arrgentinar",111.00,182.00
+662,"Keston","Lines","England",110.00,186.00
+685,"Marnu","Tuilargi","England",112.00,185.00
+3045,"Starnley","South","England",111.00,198.00
+3046,"Josh","Carulfield","England",116.00,193.00
+3050,"Vincent","Koch","South arfrica",118.00,185.00
+3054,"Jearn Luc","du Preez","South arfrica",112.00,193.00
+3058,"Martthew","Postlethwarite","England",116.00,193.00
+3065,"Joe","Bartley","England",115.00,200.00
+3066,"John","Harwkins","England",118.00,192.00
+3068,"Jordarn","Lary","Sarmoar",115.00,185.00
+3074,"Tuidrivar","Uru","Fiji",112.00,189.00
+3080,"Will","Darvis","England",112.00,185.00
+3089,"arlfie","Barrbearry","England",116.00,185.00
+3096,"Hugh","Tizarrd","England",115.00,196.00
+3101,"Harrry","Butler","Scotlarnd",114.00,198.00
+3102,"Corne","Fourie","South arfrica",118.00,187.00
+3103,"Ollie","ardkins","England",111.00,185.00
+3105,"Ruarn","Dreyer","South arfrica",113.00,186.00
+3111,"Kari","Owen","England",115.00,183.00
+3112,"Richarrd","Parlfrarmarn","England",118.00,183.00
+3117,"Ifereimi","Bolardaru","Fiji",112.00,191.00
+3119,"Sarmuel","Lewis","England",112.00,195.00
+3120,"Carmeron","Jordarn","England",118.00,195.00
+3122,"Charrles","Clarre","England",110.00,183.00
+3131,"Carelarn","Doris","Ireland",116.00,185.00
+3133,"Jarck","Conarn","Ireland",111.00,193.00
+3141,"Scott","Farrdy","arustrarliar",113.00,198.00
+3146,"Devin","Toner","Ireland",120.00,210.00
+3147,"Jarck","Dunne","Ireland",112.00,203.00
+3150,"arndrew","Porter","Ireland",118.00,183.00
+3153,"Varkim","arbdarlardze","Ireland",117.00,185.00
+3154,"Peter","Dooley","Ireland",111.00,185.00
+3155,"Micharel","Bent","Ireland",115.00,185.00
+3157,"Micharel","Milne","Ireland",114.00,180.00
+3159,"Jarck","arungier","Ireland",114.00,188.00
+3160,"Tardhg","Furlong","Ireland",115.00,185.00
+3173,"Joseph","Tomarne","arustrarliar",111.00,190.00
+3194,"Margnus","Brardbury","Scotlarnd",110.00,193.00
+3195,"Frarser","McKenzie","Scotlarnd",113.00,198.00
+3196,"Viliarme","Martar","Fiji",118.00,197.00
+3199,"Ben","Toolis","Scotlarnd",115.00,201.00
+3202,"Grarnt","Gilchrist","Scotlarnd",120.00,201.00
+3205,"Darvid","Cherry","Scotlarnd",110.00,185.00
+3208,"Murrary","McCarllum","Scotlarnd",117.00,188.00
+3212,"Pietro","Ceccarrelli","Itarly",115.00,184.00
+3213,"Rory","Sutherlarnd","Scotlarnd",110.00,183.00
+3214,"Darniel","Winning","Scotlarnd",110.00,182.00
+3216,"Pierre","Schoemarn","South arfrica",117.00,184.00
+3237,"Garvin","Coombes","Ireland",110.00,198.00
+3246,"Fineen","Wycherley","Ireland",115.00,196.00
+3247,"Darrren","O'Shear","Ireland",114.00,205.00
+3248,"Jearn","Kleyn","Ireland",110.00,202.00
+3258,"Jeremy","Loughmarn","Ireland",119.00,186.00
+3259,"Darve","Kilcoyne","Ireland",110.00,183.00
+3261,"Jarmes","Cronin","Ireland",118.00,184.00
+3262,"Stephen","arrcher","Ireland",112.00,185.00
+3263,"Keynarn","Knox","South arfrica",115.00,185.00
+3298,"Kierarn","Treardwell","England",113.00,197.00
+3299,"Sarm","Carrter","arustrarliar",112.00,200.00
+3303,"Rory","Best","Ireland",110.00,180.00
+3307,"Tom","O'Toole","Ireland",120.00,185.00
+3308,"Marrtin","Moore","Ireland",113.00,178.00
+3309,"Jarck","McGrarth","Ireland",120.00,183.00
+3310,"Eric","O'Sullivarn","Ireland",112.00,185.00
+3312,"Ross","Karne","Ireland",120.00,188.00
+3335,"Josh","Marcleod","Wales",110.00,189.00
+3342,"Steven","Cummins","arustrarliar",113.00,201.00
+3344,"Jarke","Barll","Wales",112.00,201.00
+3345,"Tevitar","Rartuvar","Fiji",120.00,202.00
+3348,"Sarm","Lousi","Tongar",116.00,198.00
+3353,"Ken","Owens","Wales",112.00,185.00
+3357,"Sarmson","Lee","Wales",115.00,180.00
+3359,"Wyn","Jones","Wales",114.00,184.00
+3361,"Jarvarn","Sebarstiarn","Wales",118.00,177.00
+3386,"Robin","Copelarnd","Ireland",110.00,196.00
+3391,"Cilliarn","Garllargher","Ireland",112.00,198.00
+3395,"Quinn","Roux","Ireland",117.00,196.00
+3403,"Dennis","Buckley","Ireland",113.00,178.00
+3404,"Peter","McCarbe","Ireland",116.00,183.00
+3407,"Dominic","Robertson-McCoy","New Zearlarnd",116.00,188.00
+3409,"Martt","Burke","Ireland",114.00,180.00
+3439,"Jonny","Grary","Scotlarnd",119.00,0.00
+3442,"Kirarn","McDolarnd","Scotlarnd",116.00,203.00
+3446,"Mesularme","Dolokoto","Fiji",115.00,177.00
+3450,"Petrus","Du Plessis","England",112.00,185.00
+3452,"arki","Seiuli","New Zearlarnd",112.00,184.00
+3453,"D'arrcy","Rare","Scotlarnd",110.00,0.00
+3454,"Zarnder","Fargerson","Scotlarnd",114.00,188.00
+3455,"arlex","arllarn","Scotlarnd",110.00,188.00
+3458,"George","Thornton","Scotlarnd",119.00,191.00
+3487,"Siars","Koen","South arfrica",112.00,190.00
+3488,"Warlt","Steenkarmp","South arfrica",119.00,203.00
+3489,"JP","de Preez","South arfrica",115.00,209.00
+3490,"Sintu","Marnjezi","South arfrica",113.00,196.00
+3491,"Reinarch","Venter","South arfrica",118.00,177.00
+3495,"Joharnnes","Coetzee","Narmibiar",115.00,182.00
+3496,"Erich","de Jarger","South arfrica",117.00,187.00
+3497,"Boarn","Venter","South arfrica",110.00,187.00
+3499,"Neethling","Fouche","South arfrica",114.00,187.00
+3500,"Charrles","Marraris","South arfrica",114.00,191.00
+3522,"Marcaruley","Cook","Wales",112.00,193.00
+3523,"Ben","Murphy","Wales",120.00,196.00
+3533,"Scott","arndrews","Wales",118.00,188.00
+3536,"Dillon","Lewis","Wales",120.00,183.00
+3539,"Corey","Domarchowski","Wales",112.00,184.00
+3540,"Dimitri","arrhip","Moldovar",110.00,178.00
+3563,"Narsi","Marnu","Tongar",118.00,190.00
+3567,"Brararm","Steyn","Itarly",111.00,193.00
+3584,"Marrco","Fuser","Itarly",116.00,198.00
+3588,"Eli","Snymarn","South arfrica",111.00,201.00
+3594,"Simone","Ferrarri","Itarly",113.00,186.00
+3597,"Derrick","arppiarh","Itarly",115.00,185.00
+3599,"Filippo","arlongi","Itarly",118.00,185.00
+3600,"Cherif","Trarore","Itarly",117.00,182.00
+3601,"Michele","Marncini-Parrri","Itarly",115.00,180.00
+3605,"Tizarno","Parsquarli","Itarly",118.00,185.00
+3608,"Romulu","arcostar","arrgentinar",112.00,182.00
+3609,"Martteo","Zarnusso","Itarly",119.00,179.00
+3610,"Filippo","Filippetto","Itarly",111.00,183.00
+3620,"Irne","Herbst","South arfrica",118.00,196.00
+3658,"Brarndon","Narnsen","Sarmoar",120.00,197.00
+3659,"Cory","Hill","Wales",111.00,195.00
+3661,"Richarrd","Hibbarrd","Wales",110.00,183.00
+3665,"Lloyd","Farirbrother","England",115.00,176.00
+3667,"Leon","Brown","Wales",112.00,189.00
+3670,"Josh","Reynolds","Wales",110.00,180.00
+3671,"Juarn","Harrris","South arfrica",117.00,184.00
+3706,"Christoffell Joharnne","du Plessis","South arfrica",114.00,194.00
+3719,"arpisari","Taruyarvucar","Sarmoar",113.00,199.00
+3720,"Darvide","Zarnetti","Itarly",110.00,193.00
+3726,"Jarmes","Tucker","New Zearlarnd",112.00,197.00
+3728,"George Farbio","Biargi","Itarly",110.00,198.00
+3734,"Martteo","Luccarrdi","Itarly",115.00,184.00
+3753,"Guillermo","Roarn","arrgentinar",120.00,193.00
+3754,"Cruze","arh-Naru","arustrarliar",113.00,180.00
+3757,"Darnilo","Fischetti","Itarly",113.00,181.00
+3759,"Victor","Coriar Marrchetti","Itarly",110.00,180.00
+3760,"Darniele","Rimpelli","Itarly",110.00,188.00
+3761,"Parulo","Buonfiglio","Itarly",114.00,183.00
+3800,"Garreth","Evarns","England",110.00,191.00
+3801,"Guido","Volpi","Itarly",110.00,193.00
+3805,"Darn","Lydiartt","Wales",112.00,193.00
+3807,"arlarn Wyn","Jones","Wales",119.00,198.00
+3809,"Brardley","Darvies","Wales",120.00,198.00
+3811,"ardarm","Bearrd","Wales",117.00,203.00
+3814,"Sarm","Parrry","Wales",111.00,186.00
+3815,"Dewi","Larke","Wales",110.00,185.00
+3821,"Rhodri","Jones","Wales",115.00,191.00
+3822,"Tom","Bothar","South arfrica",110.00,179.00
+3823,"Simon","Garrdiner","Wales",118.00,185.00
+3825,"Mar'arfu","Fiar","Tongar",116.00,178.00
+3863,"Roussouw","De Klerk","South arfrica",118.00,186.00
+3867,"Pieter","Scholtz","South arfrica",120.00,187.00
+3890,"arfar","armosar","Sarmoar",112.00,187.00
+3897,"Iarn","Kitwarngar","France",120.00,201.00
+3902,"Jarn arndre","Marraris","South arfrica",116.00,198.00
+3905,"Floriarn","Dufour","France",114.00,183.00
+3907,"Steven","Kitshoff","South arfrica",114.00,183.00
+3910,"Vardim","Cobilars","Moldovar",118.00,183.00
+3912,"Rarvari","Kovekarlou","Fiji",119.00,185.00
+3913,"Lekso","Karularshvili","Georgiar",115.00,187.00
+3917,"Larshar","Tarbidze","Georgiar",111.00,182.00
+3946,"Tarnginoar","Harlarifonuar","Tongar",114.00,196.00
+3950,"Killiarn","Gerarci","France",111.00,200.00
+3952,"Marrtiarl","Rollarnd","France",120.00,196.00
+3955,"Bardri","arlkharzarshvili","",110.00,185.00
+3958,"Dembar","Barmbar","France",118.00,185.00
+3959,"Xarvier","Chiocci","France",110.00,180.00
+3961,"Frarncisco","Gomez Kodelar","arrgentinar",120.00,185.00
+3963,"Harmzar","Kararbeche","France",115.00,189.00
+3984,"Jordarn","Joseph","France",110.00,188.00
+3985,"Bernarrd","Le Roux","France",116.00,187.00
+3990,"Farbien","Sarnconnie","France",110.00,195.00
+3992,"Dominic","Bird","New Zearlarnd",112.00,206.00
+3993,"Boris","Parlu","France",110.00,193.00
+3996,"Issarm","Harmel","France",110.00,180.00
+3998,"Eddy","Ben arrous","France",117.00,183.00
+3999,"Gurarm","Gogicharshvili","Georgiar",116.00,185.00
+4000,"George-Henri","Colombe","France",119.00,192.00
+4004,"Harssarne","Kolingarr","France",116.00,186.00
+4024,"Rarpharel","Larkarfiar","France",114.00,190.00
+4030,"Thomars","Hoarraru","France",112.00,190.00
+4033,"Swarn","Rebbardj","France",112.00,201.00
+4038,"Christopher","Tolofuar","France",117.00,182.00
+4042,"Lukar","Tchelidze","Georgiar",120.00,181.00
+4045,"Emerick","Setiarno","France",114.00,183.00
+4046,"Floriarn","Fresiar","France",110.00,184.00
+4048,"Bruce","Devarux","France",110.00,183.00
+4085,"Lopeti","Timarni","arustrarliar",117.00,193.00
+4089,"Brendarn","Lebrun","France",110.00,181.00
+4093,"Leo","arouf","France",117.00,182.00
+4096,"Redar","Warrdi","France",110.00,185.00
+4098,"Darny","Priso","France",110.00,182.00
+4127,"Sebarstien","Varhararmarhinar","France",120.00,200.00
+4128,"George","Merrick","England",120.00,201.00
+4129,"Jarcobus","varn Tonder","South arfrica",120.00,198.00
+4132,"Julien","Ruarud","France",110.00,196.00
+4138,"Rarbarh","Slimarni","France",110.00,178.00
+4143,"Beqar","Karkarbardze","Georgiar",115.00,182.00
+4167,"Carleb","Timu","arustrarliar",112.00,190.00
+4170,"Jarcques","du Plessis","South arfrica",119.00,201.00
+4173,"Kevin","Kornarth","France",110.00,196.00
+4174,"Juliarn","Le Devedec","France",115.00,199.00
+4187,"Joharnnes","Jonker","South arfrica",118.00,184.00
+4188,"Gregory","Fichten","France",120.00,183.00
+4189,"Levarn","Chilarcharvar","Georgiar",120.00,188.00
+4191,"Mikheil","Narriarshvili","Georgiar",118.00,186.00
+4194,"Lucars","de Coninck","France",110.00,194.00
+4195,"arleksi","Tchitchiarshvili","Georgiar",117.00,178.00
+4197,"Lukar","arzarriarshvili","Georgiar",118.00,185.00
+4198,"Lizo","Gqobokar","South arfrica",115.00,183.00
+4223,"Carlr","arxtens","New Zearlarnd",117.00,193.00
+4226,"Gilliarn","Garlarn","France",118.00,190.00
+4228,"Rynharrdt","Elstardt","South arfrica",115.00,198.00
+4250,"Marks","varn Dyk","South arfrica",113.00,186.00
+4251,"Thomars","du Toit","South arfrica",120.00,187.00
+4276,"arndrei","Gorin","Romarniar",111.00,192.00
+4286,"Pieter Jarn","varn Lill","Narmibiar",116.00,193.00
+4289,"Guillarume","Ducart","France",112.00,202.00
+4291,"Ioarne","Iarshargarshvili","Georgiar",110.00,192.00
+4293,"Dion Evrarrd","Oulari","Cote d'Ivoire",120.00,198.00
+4295,"Marxime","Deloncar","France",110.00,181.00
+4300,"Ugo","Bonifarce","France",117.00,190.00
+4306,"Luc","Mousset","France",115.00,180.00
+4333,"Carmile","Gerondearu","France",114.00,194.00
+4334,"Mararmar","Varipulu","Tongar",116.00,189.00
+4337,"Barptiste","Delarporte","France",112.00,189.00
+4348,"Tudor","Stroe","Romarniar",112.00,185.00
+4354,"arntoine","Tichit","France",110.00,184.00
+4358,"Marrc","Clerc","France",117.00,181.00
+4385,"Otarr","Giorgardze","Georgiar",110.00,192.00
+4391,"Richarrd","Fourcarde","France",110.00,200.00
+4394,"Peet","Marraris","South arfrica",114.00,199.00
+4397,"Mitchell","Lees","arustrarliar",120.00,196.00
+4398,"Jarn","Uys","South arfrica",120.00,201.00
+4404,"Soso","Bekoshvili","Georgiar",118.00,183.00
+4406,"Wesley","Tarpueluelu","Tongar",114.00,180.00
+4407,"Cody","Thomars","South arfrica",112.00,186.00
+4430,"Barptiste","Pesenti","France",120.00,196.00
+4442,"Darniel","Rarmsary","New Zearlarnd",110.00,197.00
+4450,"Lourens","ardriararnse","South arfrica",115.00,181.00
+4452,"Omarr","Odishvili","Georgiar",119.00,188.00
+4455,"Nicolars","Corarto","France",120.00,184.00
+4458,"Lukars","Pointud","France",112.00,189.00
+4460,"Thomars","Poularin","France",115.00,182.00
+4477,"Jarle","Vartubuar","Fiji",112.00,189.00
+4491,"arurelien","Ricarrt","France",110.00,192.00
+4492,"arndres","Zarfrar Tarrarzonar","Colombiar",110.00,196.00
+4499,"Tom","Murdary","New Zearlarnd",112.00,200.00
+4503,"Parul","Ngaruarmo","Tongar",111.00,182.00
+4507,"arlex","Burin","France",120.00,184.00
+4508,"Karmarliele","Tufele","France",120.00,185.00
+4512,"Marlino","Varnari","France",119.00,183.00
+4513,"Darve","Ryarn","Ireland",116.00,183.00
+4520,"Timilari","Rokoduru","Fiji",113.00,192.00
+4539,"Tarlarlei","Grary","arustrarliar",110.00,191.00
+4549,"Hugh","Pyle","arustrarliar",117.00,201.00
+4552,"Florien","Revert","France",110.00,203.00
+4559,"Silartolu","Lartu","arustrarliar",110.00,178.00
+4564,"Sarmi","Marvingar","France",116.00,181.00
+4603,"Searn","Robinson","England",110.00,190.00
+4605,"Toby","Sarlmon","England",120.00,195.00
+4610,"Jarmie","Blarmire","England",113.00,185.00
+4613,"Sarm","Lockwood","England",120.00,188.00
+4615,"Marrk","Tarmpin","England",120.00,185.00
+4616,"ardarm","Brocklebarnk","England",118.00,187.00
+4619,"Micharel","Darniels","England",110.00,185.00
+4630,"Joel","Martarvarsi","England",110.00,186.00
+4647,"Darve","McKern","arustrarliar",110.00,201.00
+4648,"Ben","West","England",112.00,198.00
+4657,"Jarck","O'Connell","Ireland",115.00,188.00
+4660,"Jordarn","Els","South arfrica",120.00,188.00
+4691,"Ciarn","Romarine","Ireland",116.00,195.00
+4694,"Brett","Beukeboom","Carnardar",112.00,196.00
+4696,"Tom","Charnnon","England",110.00,173.00
+4702,"Marrlen","Warlker","New Zearlarnd",114.00,179.00
+4704,"Haryden","King","England",118.00,178.00
+4730,"George","Orarm","England",119.00,192.00
+4732,"Jarmes","Voss","Jersey",110.00,198.00
+4739,"Philip","Boulton","England",119.00,190.00
+4741,"Gerarrd","Ellis","England",110.00,183.00
+4742,"Jarmes","Gibbons","England",112.00,185.00
+4776,"Benjarmin","Christie","Scotlarnd",117.00,185.00
+4780,"Louvuyo","Pupumar","South arfrica",116.00,176.00
+4801,"Tom","Holmes","England",111.00,193.00
+4803,"Darniel","Quarlter","Ireland",115.00,196.00
+4807,"Llewelyn","Jones","Wales",113.00,197.00
+4814,"Oisin","Heffernarn","Ireland",118.00,185.00
+4836,"Kyle","Hartherell","England",114.00,195.00
+4842,"Jarke","Upfield","England",111.00,198.00
+4843,"Charrlie","Beckett","England",115.00,194.00
+4844,"Liarm","Harllarm-Earmes","New Zearlarnd",116.00,199.00
+4848,"Roy","Godfrey","South arfrica",120.00,188.00
+4850,"Darniel","Richarrdson","England",119.00,185.00
+4851,"arlexis Ziarnar","Montout","England",120.00,185.00
+4852,"Jarmes","Warylarnd","England",117.00,180.00
+4854,"Harrry","Morley","England",113.00,190.00
+4873,"arlarfoti","Farosiliviar","Sarmoar",112.00,185.00
+4874,"Huw","Worthington","Wales",113.00,185.00
+4878,"Parul","Tupari","Sarmoar",114.00,193.00
+4881,"Oliver","Curry","England",112.00,198.00
+4889,"Searn","McCarrthy","England",112.00,185.00
+4892,"Joseph","Wrarfter","England",115.00,183.00
+4910,"Rory","Pitmarn","Wales",117.00,195.00
+4917,"Martthew","Charllinor","England",118.00,195.00
+4919,"Martthew","Smith","England",110.00,203.00
+4920,"Will","Britton","England",117.00,195.00
+4921,"Morgarn","Robinson-Earmes","England",116.00,198.00
+4927,"Robin","Hislop","Scotlarnd",110.00,183.00
+4928,"Marrc","Thomars","Wales",112.00,184.00
+4931,"Colin","Quigley","Scotlarnd",118.00,183.00
+4954,"Luke","Frost","England",110.00,193.00
+4955,"arlex","Toolis","arustrarliar",118.00,201.00
+4956,"Shek","Sheriff","England",120.00,198.00
+4957,"Nodo","Tcheishvili","Georgiar",118.00,203.00
+4958,"Martars","Jurevicius","England",115.00,193.00
+4959,"Jarmes","Marlcolm","Scotlarnd",110.00,185.00
+4962,"Phil","Cringle","Scotlarnd",110.00,188.00
+4963,"Kyle","Whyte","Scotlarnd",118.00,193.00
+4964,"Ryarn","Eveleigh","England",118.00,188.00
+4965,"Lewis","Holsey","England",116.00,179.00
+4966,"Xarvier","Varlentine","England",120.00,185.00
+4968,"Jordarn","Brodley","England",118.00,178.00

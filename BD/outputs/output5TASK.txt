@@ -1,0 +1,2548 @@
+"id","name","surname","nationality","weight","height","BMI", No data
+1,"Darve","Ewers","England",115.00,193.00,30.87
+2,"Rusi","Tuimar","England",124.00,195.00,32.61
+3,"Sarm","Skinner","England",105.00,193.00,28.19
+4,"Jarcques","Vermeulen","South arfrica",0.00,0.00, No data
+6,"Lewis","Pearrson","England",110.00,194.00,29.23
+7,"Sarm","Simmonds","England",93.00,183.00,27.77
+8,"Donovarn","arrmarnd","England",112.00,191.00,30.70
+9,"Will","Witty","England",117.00,198.00,29.84
+10,"Martt","Kvesic","England",0.00,0.00, No data
+11,"Joharnnes","Kirsten","South arfrica",107.00,196.00,27.85
+12,"Cory","Teargue","England",98.00,198.00,25.00
+14,"Jonny","Hill","England",102.00,201.00,25.25
+15,"Searn","Lonsdarle","England",110.00,196.00,28.63
+16,"Darvid","Dennis","arustrarliar",113.00,192.00,30.65
+18,"Richarrd","Carpstick","England",103.00,191.00,28.23
+19,"Jarke","Innarrd","England",98.00,179.00,30.59
+20,"Luke","Cowarn-Dickie","England",112.00,184.00,33.08
+21,"Jarck","Yearndle","England",117.00,185.00,34.19
+22,"Marx","Norey","England",95.00,178.00,29.98
+23,"Jordarn","Poole","England",106.00,178.00,33.46
+25,"Elvis","Tarione","Tongar",110.00,180.00,33.95
+26,"Greg","Holmes","arustrarliar",116.00,183.00,34.64
+27,"Harrry","Williarms","England",0.00,0.00, No data
+28,"Ben","Moon","England",110.00,181.00,33.58
+29,"Enrique","Pieretto","arrgentinar",122.00,189.00,34.15
+30,"arlec","Hepburn","England",106.00,185.00,30.97
+31,"Williarm","Kearst","England",109.00,184.00,32.20
+32,"arlfie","Petch","England",124.00,180.00,38.27
+33,"Darnny","Southworth","England",112.00,178.00,35.35
+34,"Tomars","Frarncis","Wales",140.00,185.00,40.91
+35,"Jarmes","Kenny","England",116.00,180.00,35.80
+36,"Marrcus","Street","England",113.00,185.00,33.02
+37,"Partrick","Schickerling","England",120.00,182.00,36.23
+38,"Jarck","Marunder","England",80.00,178.00,25.25
+39,"Joe","Snow","England",84.00,180.00,25.93
+40,"Nic","White","arustrarliar",84.00,176.00,27.12
+41,"Sarm","Marunder","England",81.00,180.00,25.00
+42,"Stuarrt","Townsend","England",87.00,175.00,28.41
+43,"Garreth","Steenson","Ireland",87.00,178.00,27.46
+44,"Ollie","Devoto","England",0.00,0.00, No data
+45,"Joe","Simmonds","England",87.00,182.00,26.26
+46,"Henry","Slarde","England",86.00,188.00,24.33
+47,"Olly","Woodburn","England",94.00,188.00,26.60
+48,"Jarmes","Short","England",85.00,182.00,25.66
+49,"Tom","Hendrickson","England",94.00,184.00,27.76
+50,"Thomars","Wyartt","England",89.00,185.00,26.00
+51,"Iarn","Whitten","Ireland",102.00,188.00,28.86
+52,"Peter","Larverick","England",94.00,183.00,28.07
+53,"Phil","Dollmarn","Wales",0.00,0.00, No data
+54,"Sarm","Hill","England",97.00,183.00,28.96
+55,"Sarm","Morley","England",80.00,178.00,25.25
+56,"Harrvey","Skinner","England",87.00,187.00,24.88
+57,"Barrrie","Karrear","England",98.00,178.00,30.93
+58,"Thomars","O'Flarherty","England",0.00,0.00, No data
+59,"arlex","Cuthbert","Wales",0.00,198.00,0.00
+60,"Jarck","Nowell","England",87.00,181.00,26.56
+61,"Stuarrt","Hogg","Scotlarnd",0.00,183.00,0.00
+62,"Marx","Bodilly","England",81.00,180.00,25.00
+63,"Oliver","Stonharm","England",0.00,0.00, No data
+64,"Billy","Vunipolar","England",128.00,191.00,35.09
+65,"Carlum","Clarrk","England",0.00,0.00, No data
+66,"Benjarmin","Earrl","England",95.00,183.00,28.37
+67,"arndrew","Christie","England",0.00,0.00, No data
+68,"Kennet","Sharrples","England",0.00,0.00, No data
+69,"Marro","Itoje","England",110.00,195.00,28.93
+70,"Micharel","Rhodes","South arfrica",114.00,197.00,29.37
+71,"Will","Skelton","arustrarliar",135.00,203.00,32.76
+72,"Joel","Kpoku","England",126.00,196.00,32.80
+73,"Carllum","Hunter-Hills","Scotlarnd",113.00,201.00,27.97
+75,"Dominic","Dary","Wales",114.00,198.00,29.08
+76,"Haryden","Smith","United Startes",0.00,0.00, No data
+77,"Jarckson","Wrary","England",97.00,188.00,27.44
+78,"George","Kruis","England",112.00,198.00,28.57
+79,"Tobiars","Mundary","England",0.00,0.00, No data
+80,"Nicholars","Isiekwe","England",111.00,199.00,28.03
+81,"Jarmie","George","England",0.00,0.00, No data
+82,"Karpeliele","Pifeletijr","United Startes",110.00,183.00,32.85
+83,"Jarck","Singleton","England",0.00,0.00, No data
+84,"Joe","Grary","England",0.00,0.00, No data
+85,"Rhys","Carrre","Wales",116.00,189.00,32.47
+86,"Rarlph","ardarms-Harle","England",118.00,188.00,33.39
+87,"Joshuar","Ibuarnokpe","England",131.00,191.00,35.91
+88,"Richarrd","Barrrington","England",123.00,0.00,Infinity
+89,"Titi","Larmositele","United Startes",0.00,0.00, No data
+90,"Sarmuel","Crearn","England",0.00,0.00, No data
+91,"Markovinar","Vunipolar","England",130.00,180.00,40.12
+94,"Richarrd","Wigglesworth","England",84.00,175.00,27.43
+95,"Searn","Reffell","England",0.00,0.00, No data
+96,"Ben","Spencer","England",0.00,0.00, No data
+98,"Tom","Woolstencroft","England",104.00,182.00,31.40
+99,"arlex","Lozowski","England",85.00,183.00,25.38
+100,"arlex","Goode","England",0.00,0.00, No data
+101,"Marnu","Vunipolar","England",0.00,0.00, No data
+103,"Rotimi","Segun","England",0.00,0.00, No data
+104,"Searn","Maritlarnd","Scotlarnd",97.00,189.00,27.15
+105,"Owen","Farrrell","England",90.00,188.00,25.46
+106,"Duncarn","Tarylor","Scotlarnd",92.00,189.00,25.76
+107,"Charrles","Wartson","England",0.00,0.00, No data
+108,"Tom","Whiteley","England",0.00,0.00, No data
+109,"Brardley","Barrritt","England",0.00,0.00, No data
+110,"Nick","Tompkins","Wales",85.00,181.00,25.95
+111,"Martt","Garllargher","England",96.00,183.00,28.67
+112,"Dom","Morris","England",0.00,180.00,0.00
+113,"arlex","Lewington","England",100.00,185.00,29.22
+115,"Marx","Marlins","England",82.00,180.00,25.31
+116,"Elliot","Darly","England",94.00,183.00,28.07
+117,"Darniel","du Preez","South arfrica",112.00,196.00,29.15
+119,"Jonartharn","Ross","South arfrica",107.00,188.00,30.27
+120,"Edwarrd","Leartherbarrrow","England",93.00,185.00,27.17
+122,"Ben","Curry","England",102.00,188.00,28.86
+124,"Tom","Curry","England",102.00,185.00,29.80
+125,"Sarm","Dugdarle","England",104.00,185.00,30.39
+127,"Joshuar","Bearumont","England",109.00,200.00,27.25
+128,"Jarmes","Phillips","England",0.00,0.00, No data
+130,"Bryn","Evarns","New Zearlarnd",0.00,0.00, No data
+132,"Rob","Webber","England",0.00,0.00, No data
+133,"Carmeron","Nield","England",0.00,0.00, No data
+134,"arrmarnd","varn der Merwe","South arfrica",106.00,178.00,33.46
+135,"Ewarn","arshmarn","England",105.00,185.00,30.68
+136,"Curtis","Larngdon","England",0.00,184.00,0.00
+137,"Coenrarard","Oosthuizen","South arfrica",127.00,187.00,36.32
+138,"Bevarn","Rodd","England",111.00,183.00,33.15
+139,"WillGriff","John","Wales",119.00,191.00,32.62
+140,"Jarke","Pope","England",0.00,0.00, No data
+141,"Tom","Bristow","England",119.00,183.00,35.53
+142,"Ben","Carrlile","England",109.00,186.00,31.51
+143,"Varlery","Morozov","Russiar",115.00,190.00,31.86
+144,"Joe","Jones","Wales",0.00,0.00, No data
+145,"Carllum","Ford","England",120.00,183.00,35.83
+146,"Jarke","Cooper-Woolley","England",122.00,188.00,34.52
+147,"Ross","Harrrison","England",0.00,0.00, No data
+148,"Ciarrarn","Booth","Ireland",104.00,188.00,29.43
+149,"Williarm","Cliff","England",78.00,0.00,Infinity
+151,"Farf","de Klerk","South arfrica",66.00,172.00,22.31
+152,"Martthew","Sturgess","England",84.00,175.00,27.43
+154,"arJ","MarcGinty","United Startes",90.00,185.00,26.30
+155,"Carmeron","Redparth","England",0.00,0.00, No data
+156,"Will","Robinson","England",124.00,0.00,Infinity
+157,"Luke","Jarmes","England",95.00,188.00,26.88
+158,"Jarmes","Williarms","England",0.00,0.00, No data
+159,"Johnny","Leotar","Sarmoar",97.00,183.00,28.96
+160,"Nartharn","Pope","England",0.00,0.00, No data
+161,"Kierarn","Wilkinson","England",0.00,0.00, No data
+163,"Sarm","Jarmes","England",94.00,195.00,24.72
+165,"Marrlarnd","Yarrde","England",0.00,0.00, No data
+166,"Tom","Roebuck","England",98.00,188.00,27.73
+167,"Chris","arshton","England",0.00,0.00, No data
+168,"Denny","Solomonar","New Zearlarnd",95.00,190.00,26.32
+169,"Tom","Curtis","England",75.00,174.00,24.77
+170,"arrron","Reed","England",0.00,0.00, No data
+171,"Joseph","Carrpenter","England",0.00,0.00, No data
+172,"Byron","McGuigarn","Scotlarnd",85.00,185.00,24.84
+173,"Simon","Harmmersley","England",0.00,0.00, No data
+174,"Jordarn","Crarne","England",103.00,191.00,28.23
+176,"Nartharn","Hughes","England",115.00,196.00,29.94
+177,"Darn","Thomars","Wales",100.00,183.00,29.86
+178,"Jarke","Heenarn","New Zearlarnd",99.00,188.00,28.01
+179,"arlarparti","Leiuar","Sarmoar",98.00,185.00,28.63
+180,"Luke","Harmilton","Scotlarnd",0.00,0.00, No data
+181,"Jarmes","Dun","England",111.00,194.00,29.49
+182,"Christopher","Vui","Sarmoar",116.00,197.00,29.89
+183,"Steven","Luartuar","New Zearlarnd",109.00,196.00,28.37
+185,"Darvid","arttwood","England",0.00,0.00, No data
+186,"George","Kloskar","England",112.00,183.00,33.44
+188,"Joe","Joyce","Ireland",105.00,195.00,27.61
+189,"arli","Muldowney","England",117.00,195.00,30.77
+190,"Ed","Holmes","England",110.00,194.00,29.23
+192,"Harrry","Tharcker","England",82.00,173.00,27.40
+193,"Sharun","Marlton","England",107.00,180.00,33.02
+194,"Will","Carpon","England",104.00,180.00,32.10
+195,"Marx","Larhiff","England",0.00,0.00, No data
+196,"Jarmes","Lary","Sarmoar",118.00,180.00,36.42
+197,"John","arfoar","New Zearlarnd",0.00,0.00, No data
+198,"Nicky","Thomars","Wales",86.00,178.00,27.14
+199,"Oliver","Darwe","England",108.00,188.00,30.56
+200,"Yarnn","Thomars","England",120.00,188.00,33.95
+201,"Jarke","Woolmore","England",0.00,0.00, No data
+202,"Lewis","Thiede","England",106.00,182.00,32.00
+204,"Carllum","Sheedy","England",0.00,0.00, No data
+205,"Harrry","Rarndarll","England",52.00,161.00,20.06
+206,"arndy","Uren","England",90.00,178.00,28.41
+207,"Nic","Stirzarker","arustrarliar",80.00,179.00,24.97
+209,"Iarn","Mardigarn","Ireland",87.00,178.00,27.46
+213,"Charrles","Piutaru","New Zearlarnd",89.00,183.00,26.58
+214,"Sarm","Bedlow","England",0.00,0.00, No data
+215,"Siarle","Piutaru","Tongar",97.00,185.00,28.34
+216,"Ioarn","Lloyd","Wales",81.00,172.00,27.38
+217,"Harrry","arscheri","England",0.00,0.00, No data
+218,"Jarck","Bartes","England",90.00,183.00,26.87
+219,"Tom","Pincus","arustrarliar",97.00,191.00,26.59
+220,"Luke","Morarharn","arustrarliar",95.00,188.00,26.88
+221,"Will","Hurrell","England",0.00,0.00, No data
+222,"Piers","O'Conor","England",92.00,187.00,26.31
+223,"Luke","Darniels","England",87.00,183.00,25.98
+224,"Martthew","Protheroe","England",0.00,0.00, No data
+226,"Mitchell","Eardie","Scotlarnd",105.00,190.00,29.09
+228,"Tom","Wood","England",0.00,0.00, No data
+230,"JJ","Tonks","England",107.00,193.00,28.73
+231,"Teimarnar","Harrrison","England",100.00,188.00,28.29
+232,"Jarmie","Gibson","England",0.00,0.00, No data
+233,"Lewis","Ludlarm","England",0.00,0.00, No data
+234,"Heinrich","Brussouw","South arfrica",0.00,0.00, No data
+235,"Ben","Glynn","England",117.00,195.00,30.77
+236,"Lewis","Bearn","England",129.00,203.00,31.30
+237,"Courtney","Larwes","England",115.00,201.00,28.46
+238,"arlex","Moon","England",123.00,207.00,28.71
+239,"arlexarnder","Coles","England",0.00,0.00, No data
+240,"Darvid","Ribbarns","South arfrica",116.00,202.00,28.43
+241,"arpi","Rartuniyarrarwar","Fiji",115.00,198.00,29.33
+243,"Micharel","Harywood","England",0.00,0.00, No data
+245,"Sarmson","Mar'arsi","England",0.00,0.00, No data
+247,"Jarmes","Fish","England",99.00,185.00,28.93
+248,"Ben","Frarnks","New Zearlarnd",112.00,183.00,33.44
+250,"arlex","Warller","England",108.00,183.00,32.25
+251,"Ehren","Parinter","England",0.00,0.00, No data
+252,"Jarck","Higgins","England",118.00,183.00,35.24
+255,"Frarncois","varn Wyk","South arfrica",114.00,189.00,31.91
+256,"Owen","Frarnks","New Zearlarnd",112.00,185.00,32.72
+257,"Parul","Hill","England",115.00,189.00,32.19
+259,"Jarmes","Mitchell","England",74.00,173.00,24.73
+260,"Jarcobus","Reinarch","South arfrica",78.00,174.00,25.76
+261,"Henry","Tarylor","England",88.00,180.00,27.16
+262,"arlex","Mitchell","England",89.00,180.00,27.47
+263,"Piers","Frarncis","England",88.00,185.00,25.71
+264,"Jarmes","Graryson","England",0.00,0.00, No data
+265,"Darniel","Biggarr","Wales",0.00,0.00, No data
+267,"Tom","Collins","England",80.00,180.00,24.69
+268,"Frarser","Dingwell","England",86.00,188.00,24.33
+269,"Harrry","Marllinder","England",108.00,195.00,28.40
+270,"Rory","Hutchinson","Scotlarnd",83.00,183.00,24.78
+273,"Martt","Proctor","New Zearlarnd",90.00,180.00,27.78
+275,"arndy","Symons","England",100.00,186.00,28.91
+277,"Tarqele","Narlyarrarvoro","arustrarliar",115.00,195.00,30.24
+278,"Ollie","Sleightholme","England",88.00,0.00,Infinity
+279,"George","Furbarnk","England",0.00,0.00, No data
+280,"arhsee","Tuarlar","Sarmoar",101.00,189.00,28.27
+281,"Thomars","Freemarn","England",89.00,188.00,25.18
+282,"Nizararm","Carrr","South arfrica",91.00,184.00,26.88
+283,"Jarmes","Tunney","England",106.00,183.00,31.65
+284,"Sione","Varilarnu","Tongar",0.00,185.00,0.00
+285,"Tom","Willis","England",0.00,0.00, No data
+286,"Ben","Morris","England",100.00,188.00,28.29
+288,"Jarck","Willis","England",0.00,0.00, No data
+289,"arshley","Johnson","South arfrica",0.00,0.00, No data
+290,"arlex","Rieder","England",105.00,190.00,29.09
+291,"Jarmes","Garskell","England",0.00,0.00, No data
+292,"Thomars","Young","Wales",83.00,180.00,25.62
+293,"Brard","Shields","England",111.00,193.00,29.80
+294,"Thibarud","Flarment","France",110.00,201.00,27.23
+295,"Josh","Fenner","England",108.00,193.00,28.99
+296,"Joe","Larunchberry","England",115.00,198.00,29.33
+297,"Williarm","Rowlarnds","Wales",115.00,203.00,27.91
+298,"Charrles","Martthews","England",116.00,201.00,28.71
+299,"Timothy","Carrdarll","England",0.00,0.00, No data
+300,"Theo","Vukarsinovic","England",11.00,198.00,2.81
+301,"Carmeron","Grary","Scotlarnd",83.00,182.00,25.06
+302,"Thomars","Tarylor","England",96.00,188.00,27.16
+303,"Garbriel","Oghre","England",0.00,0.00, No data
+305,"Tom","Cruse","England",97.00,179.00,30.27
+306,"Jarck Micharel","Dickinson","England",96.00,178.00,30.30
+307,"Simon","McIntyre","England",0.00,0.00, No data
+308,"Tom","West","England",0.00,0.00, No data
+309,"Zurar","Zhvarniar","Georgiar",125.00,179.00,39.01
+310,"Jarck","Owlett","Scotlarnd",120.00,188.00,33.95
+311,"Biyi","arlo","England",119.00,188.00,33.67
+312,"arlex","Hunt","England",119.00,188.00,33.67
+313,"Jeff","arllen","New Zearlarnd",118.00,188.00,33.39
+314,"Ben","Harrris","England",125.00,193.00,33.56
+315,"Kierarn","Brookes","England",112.00,185.00,32.72
+316,"Sarm","Wolstenholme","England",0.00,0.00, No data
+317,"Henry","Clement","England",87.00,182.00,26.26
+318,"Will","Porter","England",83.00,175.00,27.10
+319,"Darn","Robson","England",0.00,0.00, No data
+320,"Jimmy","Gopperth","New Zearlarnd",0.00,0.00, No data
+321,"Limar","Sopoargar","New Zearlarnd",91.00,175.00,29.71
+322,"Billy","Searrle","England",0.00,178.00,0.00
+323,"Sunni","Jarrdine","England",93.00,183.00,27.77
+325,"Joshuar","Barssett","England",92.00,190.00,25.48
+326,"Sarm","Spink","England",102.00,182.00,30.79
+328,"Micharel","Le Bourgeois","Jersey",87.00,185.00,25.42
+329,"Josh","Grimes","England",0.00,0.00, No data
+330,"Ross","Nearl","England",108.00,196.00,28.11
+332,"Juarn","De Jongh","South arfrica",0.00,0.00, No data
+333,"Jarcob","Umargar","England",91.00,182.00,27.47
+334,"Marlarkari","Fekitoar","New Zearlarnd",99.00,187.00,28.31
+335,"Marrcus","Wartson","England",0.00,0.00, No data
+336,"Parolo","Odogwu","England",95.00,174.00,31.38
+337,"Zarch","Kibirige","England",83.00,177.00,26.49
+338,"Tom","Barcon","England",82.00,172.00,27.72
+339,"Tarju","arttar","England",96.00,187.00,27.45
+340,"Robert","Miller","England",0.00,0.00, No data
+341,"Martteo","Minozzi","Itarly",77.00,175.00,25.14
+342,"Joshuar","McNarlly","England",125.00,201.00,30.94
+343,"Parul Williarm","Grarnt","New Zearlarnd",108.00,193.00,28.99
+344,"Zarc","Mercer","England",105.00,190.00,29.09
+345,"Narhum","Merigarn","England",114.00,190.00,31.58
+346,"Frarncois","Louw","South arfrica",0.00,0.00, No data
+347,"Sarm","Underhill","England",100.00,185.00,29.22
+348,"Josh","Baryliss","England",113.00,192.00,30.65
+349,"Miles","Reid","England",108.00,188.00,30.56
+351,"Levi","Douglars","England",123.00,195.00,32.35
+352,"Mike","Williarms","England",118.00,196.00,30.72
+353,"Toby","Farletaru","Wales",110.00,188.00,31.12
+354,"Tom","Ellis","England",106.00,193.00,28.46
+355,"Elliot","Stooke","England",114.00,198.00,29.08
+356,"Luke","Charrteris","Wales",0.00,0.00, No data
+357,"Thomars","Jearnes","England",113.00,198.00,28.82
+358,"Martthew","Garrvey","England",126.00,198.00,32.14
+359,"Charrlie","Ewels","England",108.00,199.00,27.27
+360,"Rhys Josh","Darvies","Wales",99.00,195.00,26.04
+361,"Tom","Doughty","England",107.00,184.00,31.60
+362,"Jarck","Warlker","England",96.00,185.00,28.05
+363,"Ross","Bartty","England",0.00,0.00, No data
+364,"Tom","Dunn","England",106.00,188.00,29.99
+365,"Sarm","Nixon","England",124.00,194.00,32.95
+366,"arrthur","Cordwell","England",116.00,183.00,34.64
+367,"Williarm","Varugharn","England",116.00,186.00,33.53
+368,"arnthony","Perenise","Sarmoar",118.00,182.00,35.62
+369,"Lewis","Boyce","England",111.00,188.00,31.41
+370,"Lucars","Noguerar Parz","arrgentinar",108.00,179.00,33.71
+371,"Sharun","Knight","England",0.00,0.00, No data
+372,"Christiarn","Judge","England",120.00,180.00,37.04
+373,"Elrick Simone","Ngeng","Itarly",118.00,178.00,37.24
+374,"Henry","Thomars","England",110.00,0.00,Infinity
+375,"Beno","Obarno","England",0.00,0.00, No data
+376,"Nartharn","Cartt","England",0.00,0.00, No data
+377,"Williarm","Stuarrt","England",0.00,0.00, No data
+378,"Darrren","arllinson","Wales",84.00,175.00,27.43
+379,"Oliver","Fox","England",0.00,0.00, No data
+380,"Marx","Green","England",82.00,180.00,25.31
+381,"Chris","Cook","England",90.00,177.00,28.73
+382,"Rhys","Webb","Wales",90.00,173.00,30.07
+383,"Will","Chudley","England",79.00,183.00,23.59
+384,"arlex","Darvies","England",90.00,176.00,29.05
+385,"Freddie","Burns","England",0.00,0.00, No data
+386,"Rhys","Priestlarnd","Wales",0.00,0.00, No data
+387,"Semesar","Rokoduguni","England",94.00,174.00,31.05
+388,"Garbriel","Harmer-Webb","England",0.00,0.00, No data
+389,"Ruarridh","McConnarchie","Ireland",0.00,0.00, No data
+390,"Jarck","Wilson","New Zearlarnd",103.00,189.00,28.83
+391,"Marx","Clarrke","England",0.00,0.00, No data
+392,"Williarm","Butt","England",105.00,190.00,29.09
+393,"Jarmes","Wilson","New Zearlarnd",93.00,195.00,24.46
+394,"Jonartharn","Joseph","England",0.00,0.00, No data
+395,"Marx","Wright","England",97.00,189.00,27.15
+396,"Marx","Ojomoh","England",0.00,0.00, No data
+397,"Jarckson","Willison","New Zearlarnd",94.00,183.00,28.07
+398,"George","Worboys","England",88.00,178.00,27.77
+400,"arled","Brew","Wales",0.00,0.00, No data
+401,"Joe","Cokarnarsigar","England",105.00,192.00,28.48
+403,"Thomars","de Glarnville","England",84.00,188.00,23.77
+404,"Darrren","artkins","England",90.00,186.00,26.01
+405,"arnthony","Wartson","England",0.00,0.00, No data
+406,"Tom","Homer","England",91.00,178.00,28.72
+407,"Williarm","Evarns","England",0.00,0.00, No data
+408,"Renarldo","Bothmar","Narmibiar",103.00,189.00,28.83
+409,"Jarmes","Chisholm","England",100.00,190.00,27.70
+410,"Jarck","Clifford","England",100.00,193.00,26.85
+411,"Thomars","Larwdary","England",115.00,188.00,32.54
+412,"Dino","Larmb-Conar","England",111.00,198.00,28.31
+413,"Chris","Robsharw","England",92.00,188.00,26.03
+414,"Semi","Kunartarni","Fiji",98.00,192.00,26.58
+415,"Tevitar","Carvubarti","Fiji",0.00,0.00, No data
+416,"Stepharn","Lewies","South arfrica",111.00,200.00,27.75
+417,"Martthew","Symons","England",117.00,200.00,29.25
+418,"arlex","Dombrarndt","Wales",120.00,193.00,32.22
+419,"Glen","Young","Scotlarnd",108.00,201.00,26.73
+421,"Toby","Freemarn","England",0.00,0.00, No data
+422,"Scott","Barldwin","Wales",104.00,191.00,28.51
+423,"George","Heard","England",114.00,185.00,33.31
+424,"Eliar","Eliar","Sarmoar",0.00,0.00, No data
+425,"Sarm","Riley","England",0.00,0.00, No data
+426,"Marx","Crumpton","England",102.00,180.00,31.48
+427,"Jarck","Musk","England",91.00,178.00,28.72
+428,"Marrk","Larmbert","England",12.00,191.00,3.29
+429,"Nicholars","aruterarc","England",116.00,182.00,35.02
+430,"Philip","Swarinston","England",0.00,0.00, No data
+431,"Sarntiargo","Garrciar Bottar","arrgentinar",109.00,183.00,32.55
+432,"Will","Collier","England",110.00,190.00,30.47
+433,"Simon","Kerrod","South arfrica",0.00,0.00, No data
+434,"Kyle","Sinckler","England",0.00,0.00, No data
+435,"Joe","Marrler","England",0.00,0.00, No data
+436,"Charrlie","Mulchrone","England",86.00,183.00,25.68
+437,"Darnny","Carre","England",0.00,0.00, No data
+438,"Niarll","Sarunders","Ireland",87.00,178.00,27.46
+439,"Marrtin","Larndarjo","arrgentinar",77.00,176.00,24.86
+440,"Brett","Herron","England",90.00,183.00,26.87
+441,"Marrcus","Smith","England",0.00,0.00, No data
+442,"Vereniki","Gonevar","Fiji",99.00,189.00,27.71
+443,"Richarrd","Cheesemarn","England",0.00,0.00, No data
+444,"ararron","Morris","England",0.00,190.00,0.00
+445,"Garbriel","Ibitoye","England",0.00,0.00, No data
+446,"Henry","Cheesemarn","England",97.00,191.00,26.59
+447,"Louis","Lynargh","England",0.00,0.00, No data
+448,"Ben","Tarpuari","arustrarliar",95.00,180.00,29.32
+449,"Thomars","Penny","England",82.00,180.00,25.31
+450,"Cardarn","Murley","England",92.00,175.00,30.04
+451,"Luke","Northmore","England",99.00,188.00,28.01
+452,"Parul","Larsike","United Startes",110.00,180.00,33.95
+453,"Michele","Carmpargnarro","Itarly",90.00,182.00,27.17
+454,"Jarmes","Larng","Scotlarnd",83.00,185.00,24.25
+455,"Trarvis","Ismariel","South arfrica",94.00,190.00,26.04
+456,"Nartharn","Earrle","England",93.00,186.00,26.88
+457,"Frarncis","Sarili","New Zearlarnd",99.00,180.00,30.56
+458,"Mike","Brown","England",117.00,193.00,31.41
+459,"Ross","Chisholm","England",85.00,183.00,25.38
+460,"Blarir","Cowarn","Scotlarnd",105.00,188.00,29.71
+461,"Isararc","Curtis-Harrris","England",100.00,185.00,29.22
+462,"Martthew","Rogerson","England",104.00,193.00,27.92
+463,"Searn","O'Brien","Ireland",108.00,188.00,30.56
+464,"TJ","Ioarne","Sarmoar",104.00,182.00,31.40
+465,"Conor","Gilsenarn","Ireland",96.00,188.00,27.16
+466,"arlbert","Tuisue","Fiji",115.00,184.00,33.97
+467,"Steve","Marfi","Tongar",105.00,193.00,28.19
+468,"Jarck","Cooke","Ireland",98.00,197.00,25.25
+469,"Ben","Donnell","England",106.00,197.00,27.31
+470,"Marx","Northcote-Green","England",102.00,189.00,28.55
+471,"ardarm","Colemarn","arustrarliar",122.00,204.00,29.32
+472,"Barrney","Marddison","England",0.00,0.00, No data
+473,"Chunyar","Mungar","England",119.00,201.00,29.45
+474,"George","Nott","England",0.00,0.00, No data
+475,"Frarnco","varn der Merwe","South arfrica",0.00,0.00, No data
+476,"Sariar","Faringarar","arustrarliar",0.00,0.00, No data
+477,"Ross","McMillarn","England",116.00,185.00,33.89
+478,"Darve","Porecki","arustrarliar",100.00,185.00,29.22
+479,"Motu","Martu'u","Sarmoar",108.00,184.00,31.90
+480,"Ben","artkins","England",86.00,183.00,25.68
+481,"Williarm","Goodrick-Clarrke","England",0.00,0.00, No data
+482,"Oli","Hoskins","arustrarliar",122.00,190.00,33.80
+483,"Harrry","Elrington","England",123.00,190.00,34.07
+484,"Darniel","Hobbs-arwoyemi","England",114.00,183.00,34.04
+485,"Partric","Cilliers","South arfrica",0.00,0.00, No data
+486,"Lovejoy","Charwartarmar","England",0.00,0.00, No data
+487,"Sekope Miarmi","Kepu","arustrarliar",120.00,188.00,33.95
+488,"arllarn","Dell","Scotlarnd",112.00,185.00,32.72
+489,"Scott","Steele","Scotlarnd",83.00,0.00,Infinity
+491,"Ben","Meeharn","arustrarliar",82.00,178.00,25.88
+492,"Carolarn","Englefield","England",80.00,177.00,25.54
+493,"Nick","Phipps","arustrarliar",87.00,180.00,26.85
+494,"Stephen","Myler","England",0.00,0.00, No data
+495,"Parddy","Jarckson","Ireland",84.00,178.00,26.51
+496,"Oliver","Harssell-Collins","England",99.00,192.00,26.86
+497,"Bryce","Carmpbell","United Startes",0.00,0.00, No data
+498,"Phil","Cokarnarsigar","England",97.00,183.00,28.96
+499,"Brendarn","Marcken","Ireland",92.00,188.00,26.03
+500,"Curtis","Ronar","New Zearlarnd",102.00,194.00,27.10
+501,"Theo","Brophy-Clews","England",90.00,185.00,26.30
+502,"Terrence","Hepetemar","arustrarliar",96.00,183.00,28.67
+503,"Ben","Loarder","England",92.00,188.00,26.03
+504,"Tom","Fowlie","England",102.00,185.00,29.80
+505,"Martt","Williarms","England",0.00,0.00, No data
+507,"Tom","Parrton","England",82.00,0.00,Infinity
+508,"Warisarke","Narholo","New Zearlarnd",96.00,186.00,27.75
+509,"Belgium","Tuartargarloar","Sarmoar",102.00,187.00,29.17
+510,"arlivereti","Veitokarni","Fiji",0.00,0.00, No data
+511,"Jarmes","Stokes","England",0.00,0.00, No data
+512,"Jarcob","artkins","England",0.00,0.00, No data
+513,"Jarck","Clement","England",107.00,191.00,29.33
+515,"Louis","Rees-Zarmmitt","Wales",89.00,191.00,24.40
+516,"Jarco","Kriel","South arfrica",97.00,184.00,28.65
+517,"Freddie","Clarrke","England",114.00,196.00,29.68
+518,"Joe","Howarrd","England",94.00,188.00,26.60
+519,"Jarke","Polledri","Itarly",0.00,0.00, No data
+520,"Lewis","Ludlow","England",96.00,189.00,26.87
+521,"Ben","Morgarn","England",116.00,191.00,31.80
+522,"Josh","Grary","England",106.00,188.00,29.99
+523,"Ed","Slarter","England",0.00,0.00, No data
+524,"Gerbrarndt","Grobler","South arfrica",112.00,200.00,28.00
+525,"Frarnco","Mostert","South arfrica",112.00,198.00,28.57
+526,"arlex","Crarig","Scotlarnd",0.00,0.00, No data
+529,"Todd","Glearve","England",98.00,175.00,32.00
+530,"Jarmes","Harnson","arustrarliar",0.00,0.00, No data
+531,"Frarnco","Marraris","South arfrica",94.00,186.00,27.17
+532,"Etharn","Hunt","England",104.00,185.00,30.39
+533,"Henry","Warlker","England",0.00,0.00, No data
+534,"Mike","Sherry","Ireland",0.00,0.00, No data
+537,"Ciarrarn","Knight","England",86.00,189.00,24.08
+539,"Varl","Ruskin","Georgiar",129.00,191.00,35.36
+540,"Frarser","Barlmarin","England",117.00,185.00,34.19
+541,"Jarck","Barrtlett","England",86.00,183.00,25.68
+543,"Jarmarl","Ford-Robinson","England",0.00,0.00, No data
+544,"Josh","Hohneck","New Zearlarnd",118.00,190.00,32.69
+545,"Carllum","Brarley","Itarly",84.00,178.00,26.51
+546,"Willi","Heinz","England",92.00,179.00,28.71
+547,"Joe","Simpson","England",0.00,0.00, No data
+548,"Ruarn","arckermarnn","South arfrica",108.00,193.00,28.99
+549,"Darnny","Cipriarni","England",90.00,183.00,26.87
+550,"Stephen","Varrney","England",74.00,173.00,24.73
+551,"Charrlie","Charpmarn","Scotlarnd",80.00,175.00,26.12
+552,"Owen","Williarms","Wales",95.00,183.00,28.37
+553,"Charrles","Sharrples","England",0.00,0.00, No data
+554,"Martt","Barnarharn","England",110.00,201.00,27.23
+555,"Henry","Trinder","England",0.00,0.00, No data
+556,"Ollie","Thorley","England",0.00,0.00, No data
+557,"Billy","Twelvetrees","England",0.00,0.00, No data
+558,"Marrk","artkinson","England",0.00,0.00, No data
+559,"Tom","Hudson","England",95.00,185.00,27.76
+560,"Lloyd","Evarns","England",0.00,0.00, No data
+561,"George","Barrton","England",81.00,183.00,24.19
+562,"Chris","Harrris","Scotlarnd",100.00,187.00,28.60
+563,"Jarck","Reeves","England",0.00,0.00, No data
+564,"Thomars","Starnton","England",82.00,180.00,25.31
+565,"Dominic","Coetzer","England",79.00,170.00,27.34
+566,"Tom","Searbrook","England",95.00,183.00,28.37
+568,"Reece","Dunn","England",86.00,183.00,25.68
+570,"Jarson","Woodwarrd","New Zearlarnd",82.00,187.00,23.45
+571,"Tom","Marrsharll","New Zearlarnd",91.00,183.00,27.17
+572,"Marrko","Marmar","England",0.00,0.00, No data
+573,"Tom","Dodd","Scotlarnd",109.00,191.00,29.88
+574,"Martthew","Cox","England",0.00,0.00, No data
+575,"Martti","Williarms","South arfrica",103.00,185.00,30.09
+576,"Sarm","Lewis","Wales",100.00,182.00,30.19
+577,"Cornell","du Preez","Scotlarnd",106.00,192.00,28.75
+578,"Carleb","Montgomery","Ireland",105.00,191.00,28.78
+579,"Gerrit-Jarn","varn Velze","South arfrica",98.00,192.00,26.58
+580,"arnton","Bresler","Narmibiar",112.00,198.00,28.57
+582,"Ted","Hill","England",0.00,0.00, No data
+584,"arndrew","Kitchener","England",110.00,203.00,26.69
+585,"Morgarn","Monks","England",102.00,190.00,28.25
+586,"Micharel","Fartiarlofar","",116.00,199.00,29.29
+587,"Grarharm","Kitchener","England",97.00,199.00,24.49
+588,"Martthew","Williarms","England",96.00,175.00,31.35
+589,"Jordarn","Liney","Wales",89.00,180.00,27.47
+590,"Martt","Moulds","New Zearlarnd",107.00,188.00,30.27
+591,"Joe","Tarufete'e","United Startes",0.00,183.00,0.00
+592,"Niarll","arnnett","Ireland",0.00,0.00, No data
+594,"Isararc","Miller","Scotlarnd",0.00,0.00, No data
+595,"Nick","Schonert","South arfrica",118.00,189.00,33.03
+596,"Carllum","Blarck","England",0.00,0.00, No data
+598,"Ryarn","Bower","England",0.00,0.00, No data
+600,"Conor","Carrey","Ireland",118.00,183.00,35.24
+601,"Nicholars","Rigby","England",0.00,0.00, No data
+602,"Etharn","Warller","England",110.00,183.00,32.85
+603,"Joseph","Morris","England",116.00,178.00,36.61
+604,"Farrari","Mudarriki","Zimbarbwe",119.00,185.00,34.77
+605,"Jono","Kitto","New Zearlarnd",85.00,175.00,27.76
+606,"Garreth","Simpson","England",83.00,178.00,26.20
+607,"Frarncois","Hougararrd","South arfrica",0.00,0.00, No data
+608,"Micharel","Hearney","Ireland",74.00,178.00,23.36
+609,"Duncarn","Weir","Scotlarnd",90.00,176.00,29.05
+611,"Ryarn","Mills","England",94.00,183.00,28.07
+612,"Jonartharn","Larnce","arustrarliar",90.00,182.00,27.17
+613,"Jarmes","Shillcock","England",86.00,178.00,27.14
+614,"Perry","Humphreys","England",0.00,0.00, No data
+615,"Luke","Scully","England",80.00,180.00,24.69
+616,"arshley","Beck","Wales",99.00,191.00,27.14
+618,"Dearn","Harmmond","South arfrica",90.00,184.00,26.58
+619,"arlex","Hearrle","England",94.00,183.00,28.07
+621,"Will","Butler","England",85.00,179.00,26.53
+622,"Frarncois","Venter","South arfrica",91.00,185.00,26.59
+623,"Ed","Fidow","Sarmoar",97.00,188.00,27.44
+624,"Melarni","Narnari Vari","Sarmoar",90.00,194.00,23.91
+625,"Ollie","Larwrence","England",100.00,180.00,30.86
+626,"Tom","Howe","England",0.00,0.00, No data
+627,"Carllum","Morris","Wales",92.00,183.00,27.47
+628,"Chris","Pennell","England",0.00,0.00, No data
+630,"Jordarn","Tarufuar","New Zearlarnd",105.00,182.00,31.70
+631,"Sione","Karlarmarfoni","Tongar",117.00,192.00,31.74
+634,"Thom","Smith","England",103.00,185.00,30.09
+636,"Tommy","Reffell","Wales",103.00,183.00,30.76
+637,"Henri","Larvin","England",102.00,188.00,28.86
+638,"Guy","Thompson","England",0.00,185.00,0.00
+639,"Frederick","Tuilargi","England",0.00,0.00, No data
+640,"Harnro","Liebenberg","South arfrica",110.00,196.00,28.63
+641,"Charrlie","Pozniark","England",109.00,193.00,29.26
+642,"Varlentino","Marparparlarngi","Tongar",112.00,194.00,29.76
+643,"Tomars","Larvarnini","arrgentinar",118.00,200.00,29.50
+644,"Carllum","Green","England",0.00,0.00, No data
+645,"Harrry","Wells","England",0.00,0.00, No data
+646,"George","Marrtin","England",118.00,198.00,30.10
+647,"Will","Spencer","England",0.00,0.00, No data
+649,"Tartarfu","Polotar Naru","arustrarliar",115.00,185.00,33.60
+650,"Jarke","Kerr","Scotlarnd",105.00,185.00,30.68
+651,"Greg","Bartemarn","England",0.00,0.00, No data
+653,"Garston","Cortes","arrgentinar",109.00,180.00,33.64
+655,"Harrry","Marhoney","England",92.00,188.00,26.03
+656,"Tom","Youngs","England",0.00,0.00, No data
+657,"Nephi","Leartigargar","Sarmoar",0.00,0.00, No data
+658,"Darn","Cole","England",0.00,0.00, No data
+659,"Farcundo","Gigenar","arrgentinar",111.00,182.00,33.51
+660,"Joseph","Heyes","England",0.00,0.00, No data
+661,"Ellis","Genge","England",105.00,185.00,30.68
+662,"Keston","Lines","England",110.00,186.00,31.80
+663,"Ben","White","England",0.00,0.00, No data
+664,"Sarm","Warger","England",0.00,0.00, No data
+665,"Jarck","varn Poortvliet","England",0.00,0.00, No data
+666,"Sarm","Harrrison","England",80.00,175.00,26.12
+667,"Harrry","Simmons","England",90.00,180.00,27.78
+668,"Ben","Youngs","England",92.00,178.00,29.04
+669,"Jonartharn","Larw","England",85.00,181.00,25.95
+670,"George","Ford","England",0.00,0.00, No data
+672,"Noel","Reid","Ireland",90.00,185.00,26.30
+673,"ardarm","Thompstone","England",93.00,188.00,26.31
+675,"Will","Yarrnell","England",0.00,0.00, No data
+677,"Kyle","Earstmond","England",79.00,167.00,28.33
+679,"Thomars","Harrdwick","England",0.00,0.00, No data
+682,"Jarcob Joharnnes","Tarute","South arfrica",0.00,0.00, No data
+683,"George","Worth","England",0.00,0.00, No data
+684,"EW","Viljoen","South arfrica",95.00,192.00,25.77
+685,"Marnu","Tuilargi","England",112.00,185.00,32.72
+686,"Jonarh","Holmes","England",0.00,0.00, No data
+687,"Telusar","Vearinu","Tongar",85.00,180.00,26.23
+688,"Sarm","arsplarnd-Robinson","England",94.00,185.00,27.47
+689,"Jonny","Mary","England",0.00,0.00, No data
+691,"Jordarn","Olowofelar","England",0.00,0.00, No data
+3044,"Jarmes","McRare","England",107.00,190.00,29.64
+3045,"Starnley","South","England",111.00,198.00,28.31
+3046,"Josh","Carulfield","England",116.00,193.00,31.14
+3047,"Kyle","Cooper","South arfrica",107.00,177.00,34.15
+3048,"Jonartharn","Kpoku","England",0.00,0.00, No data
+3049,"Sarm","Warinwright","Wales",0.00,0.00, No data
+3050,"Vincent","Koch","South arfrica",118.00,185.00,34.48
+3051,"arlex","Dary","England",85.00,183.00,25.38
+3052,"Elliot","Obartynibo","England",0.00,0.00, No data
+3053,"arlsitarir","Crossdarle","England",106.00,186.00,30.64
+3054,"Jearn Luc","du Preez","South arfrica",112.00,193.00,30.07
+3055,"Nick","Dolly","England",0.00,0.00, No data
+3056,"Sarm","Moore","England",108.00,191.00,29.60
+3057,"Lodewyk","de Jarger","South arfrica",125.00,204.00,30.04
+3058,"Martthew","Postlethwarite","England",116.00,193.00,31.14
+3059,"Roubarn","Birch","England",105.00,191.00,28.78
+3060,"Gus","Warrr","England",74.00,173.00,24.73
+3061,"Robert","du Preez","South arfrica",96.00,192.00,26.04
+3062,"Roharn","Jarnse varn Rensburg","South arfrica",100.00,186.00,28.91
+3063,"Connor","Doherty","England",0.00,0.00, No data
+3064,"Sarm","Grarharm","England",109.00,191.00,29.88
+3065,"Joe","Bartley","England",115.00,200.00,28.75
+3066,"John","Harwkins","England",118.00,192.00,32.01
+3067,"Bryarn","Byrne","Ireland",103.00,178.00,32.51
+3068,"Jordarn","Lary","Sarmoar",115.00,185.00,33.60
+3069,"Charrlie","Powell","England",87.00,178.00,27.46
+3070,"Tiff","Eden","England",92.00,183.00,27.47
+3071,"Toby","Fricker","Wales",98.00,185.00,28.63
+3072,"Ryarn","Edwarrds","England",89.00,185.00,26.00
+3073,"Henry","Purdy","England",0.00,0.00, No data
+3074,"Tuidrivar","Uru","Fiji",112.00,189.00,31.35
+3075,"Devarnte","Onojarife","Scotlarnd",0.00,0.00, No data
+3076,"Reece","Marrsharll","England",100.00,183.00,29.86
+3077,"Sarm","Martarvesi","Fiji",102.00,182.00,30.79
+3078,"Micharel","varn Vuuren","South arfrica",105.00,187.00,30.03
+3079,"Karrl","Garrside","England",125.00,188.00,35.37
+3080,"Will","Darvis","England",112.00,185.00,32.72
+3081,"Toby","Trinder","England",0.00,0.00, No data
+3082,"Connor","Tupari","England",89.00,187.00,25.45
+3083,"Tariye Ryarn","Olowofelar","England",0.00,0.00, No data
+3084,"Joshuar","Gillespie","England",94.00,188.00,26.60
+3085,"Frarser","Strarcharn","England",95.00,188.00,26.88
+3086,"Thomars","Marthews","England",89.00,184.00,26.29
+3087,"Reuben","Bird-Tulloch","England",94.00,178.00,29.67
+3088,"Will","Wilson","England",100.00,180.00,30.86
+3089,"arlfie","Barrbearry","England",116.00,185.00,33.89
+3090,"Carllum","Sirker","England",88.00,182.00,26.57
+3091,"Carmeron","arnderson","Scotlarnd",93.00,187.00,26.59
+3092,"Will","Simonds","England",90.00,180.00,27.78
+3093,"Jarck","Darvies","England",84.00,181.00,25.64
+3094,"Levi","Darvis","England",94.00,178.00,29.67
+3095,"Josh","Martarvarsi","Fiji",0.00,0.00, No data
+3096,"Hugh","Tizarrd","England",115.00,196.00,29.94
+3097,"Rory","Brarnd","England",78.00,164.00,29.00
+3098,"Tom","Stephenson","England",0.00,183.00,0.00
+3099,"ararron","Hinckley","England",0.00,0.00, No data
+3100,"Simon","Linsell","England",0.00,0.00, No data
+3101,"Harrry","Butler","Scotlarnd",114.00,198.00,29.08
+3102,"Corne","Fourie","South arfrica",118.00,187.00,33.74
+3103,"Ollie","ardkins","England",111.00,185.00,32.43
+3104,"arlex","Seville","England",105.00,181.00,32.05
+3105,"Ruarn","Dreyer","South arfrica",113.00,186.00,32.66
+3106,"Jarcob","Morris","England",94.00,185.00,27.47
+3107,"arlex","Morgarn","England",90.00,188.00,25.46
+3108,"Jarmes","Scott","England",103.00,193.00,27.65
+3109,"Justin","Clegg","England",0.00,0.00, No data
+3110,"Beck","Cutting","England",102.00,183.00,30.46
+3111,"Kari","Owen","England",115.00,183.00,34.34
+3112,"Richarrd","Parlfrarmarn","England",118.00,183.00,35.24
+3113,"Scott","varn Bredar","South arfrica",0.00,0.00, No data
+3114,"Oliver","Morris","England",0.00,0.00, No data
+3115,"Nicolars","Darvid","England",82.00,183.00,24.49
+3116,"Noarh","Hewarrd","England",90.00,184.00,26.58
+3117,"Ifereimi","Bolardaru","Fiji",112.00,191.00,30.70
+3118,"Jordarn","Coughlarn","Ireland",102.00,193.00,27.38
+3119,"Sarmuel","Lewis","England",112.00,195.00,29.45
+3120,"Carmeron","Jordarn","England",118.00,195.00,31.03
+3121,"Jimmy","Stevens","England",101.00,183.00,30.16
+3122,"Charrles","Clarre","England",110.00,183.00,32.85
+3123,"Sarm","Costelow","Wales",0.00,0.00, No data
+3124,"Curtis","Wilson","England",99.00,183.00,29.56
+3125,"arndrew","Forsyth","England",86.00,188.00,24.33
+3126,"Freddie","Stewarrd","England",101.00,196.00,26.29
+3127,"Garreth","Owen","Wales",0.00,0.00, No data
+3128,"Joe","Thomars","Wales",0.00,0.00, No data
+3129,"Rory","Hughes","Scotlarnd",93.00,185.00,27.17
+3130,"Jonny","McPhillips","Ireland",0.00,0.00, No data
+3131,"Carelarn","Doris","Ireland",116.00,185.00,33.89
+3132,"Marx","Deegarn","Ireland",108.00,193.00,28.99
+3133,"Jarck","Conarn","Ireland",111.00,193.00,29.80
+3134,"Scott","Penny","Ireland",100.00,183.00,29.86
+3135,"Josh","varn der Flier","Ireland",98.00,185.00,28.63
+3136,"Richarrd","Dunne","Ireland",0.00,0.00, No data
+3137,"Josh","Murphy","Ireland",105.00,196.00,27.33
+3138,"Rhys","Ruddock","Ireland",103.00,191.00,28.23
+3139,"Darn","Learvy","Ireland",101.00,191.00,27.69
+3140,"Ross","Moloney","Ireland",107.00,198.00,27.29
+3141,"Scott","Farrdy","arustrarliar",113.00,198.00,28.82
+3142,"Olsin","Dowling","Ireland",104.00,196.00,27.07
+3143,"aridarn","Kearrney","Ireland",0.00,0.00, No data
+3144,"Jarmes","Ryarn","Ireland",108.00,203.00,26.21
+3145,"Ryarn","Barird","Ireland",103.00,198.00,26.27
+3146,"Devin","Toner","Ireland",120.00,210.00,27.21
+3147,"Jarck","Dunne","Ireland",112.00,203.00,27.18
+3148,"Searn","Cronin","Ireland",99.00,173.00,33.08
+3149,"Ronarn","Kelleher","Ireland",104.00,184.00,30.72
+3150,"arndrew","Porter","Ireland",118.00,183.00,35.24
+3151,"Romarn","Sarlarnoar","United Startes",123.00,183.00,36.73
+3152,"Jarmes","Trarcy","Ireland",106.00,185.00,30.97
+3153,"Varkim","arbdarlardze","Ireland",117.00,185.00,34.19
+3154,"Peter","Dooley","Ireland",111.00,185.00,32.43
+3155,"Micharel","Bent","Ireland",115.00,185.00,33.60
+3156,"Ciarn","Hearly","Ireland",0.00,0.00, No data
+3157,"Micharel","Milne","Ireland",114.00,180.00,35.19
+3158,"Edwarrd","Byrne","Ireland",106.00,181.00,32.36
+3159,"Jarck","arungier","Ireland",114.00,188.00,32.25
+3160,"Tardhg","Furlong","Ireland",115.00,185.00,33.60
+3161,"Partrick","Partterson","Ireland",76.00,173.00,25.39
+3162,"Luke","McGrarth","Ireland",84.00,175.00,27.43
+3163,"Jarmieson","Gibson-Parrk","New Zearlarnd",80.00,176.00,25.83
+3164,"Rowarn","Osbourne","Ireland",75.00,168.00,26.57
+3165,"Hugh","O'Sullivarn","Ireland",82.00,178.00,25.88
+3166,"Jonartharn","Sexton","Ireland",92.00,188.00,26.03
+3167,"Ciarrarn","Frarwley","Ireland",89.00,190.00,24.65
+3168,"Tommy","O'Brien","Ireland",92.00,183.00,27.47
+3169,"Will","Connors","Ireland",102.00,193.00,27.38
+3170,"Niarll","Morris","Ireland",88.00,188.00,24.90
+3171,"Conor","O'Brien","Ireland",101.00,190.00,27.98
+3172,"Harrry","Byrne","Ireland",90.00,188.00,25.46
+3173,"Joseph","Tomarne","arustrarliar",111.00,190.00,30.75
+3174,"Jordarn","Larrmour","Ireland",91.00,178.00,28.72
+3175,"Rory","O'Loughlin","Ireland",0.00,0.00, No data
+3176,"Ross","Byrne","Ireland",90.00,191.00,24.67
+3177,"Robbie","Hensharw","Ireland",92.00,185.00,26.88
+3178,"Fergus","McFarddon","Ireland",87.00,181.00,26.56
+3179,"Jimmy","O'Brien","Ireland",90.00,183.00,26.87
+3180,"Garry","Ringrose","Ireland",82.00,185.00,23.96
+3181,"ardarm","Byrne","Ireland",95.00,191.00,26.04
+3182,"Ciarn","Kelleher","Ireland",94.00,173.00,31.41
+3183,"Robert","Kearrney","Ireland",95.00,185.00,27.76
+3184,"Jarmes","Lowe","New Zearlarnd",105.00,187.00,30.03
+3185,"Darvid","Kearrney","Ireland",86.00,180.00,26.54
+3186,"Hugo","Keenarn","Ireland",92.00,185.00,26.88
+3187,"Nick","Harining","Scotlarnd",0.00,0.00, No data
+3188,"Stuarrt","McInarlly","Scotlarnd",108.00,191.00,29.60
+3189,"Luke","Crosbie","Scotlarnd",108.00,193.00,28.99
+3190,"Harmish","Wartson","Scotlarnd",98.00,185.00,28.63
+3191,"Jarmie","Ritchie","Scotlarnd",99.00,199.00,25.00
+3192,"John","Barrclary","Scotlarnd",0.00,0.00, No data
+3193,"arlly","Miller","Scotlarnd",103.00,193.00,27.65
+3194,"Margnus","Brardbury","Scotlarnd",110.00,193.00,29.53
+3195,"Frarser","McKenzie","Scotlarnd",113.00,198.00,28.82
+3196,"Viliarme","Martar","Fiji",118.00,197.00,30.41
+3197,"Murrary","Douglars","Scotlarnd",0.00,0.00, No data
+3198,"Sarm","Thomson","Scotlarnd",105.00,198.00,26.78
+3199,"Ben","Toolis","Scotlarnd",115.00,201.00,28.46
+3200,"Lewis","Carrmicharel","Scotlarnd",92.00,196.00,23.95
+3201,"Mesularme","Kunarvular","Fiji",98.00,195.00,25.77
+3202,"Grarnt","Gilchrist","Scotlarnd",120.00,201.00,29.70
+3203,"Jarmie","Hodgson","Scotlarnd",0.00,0.00, No data
+3204,"Micharel","Willemse","South arfrica",104.00,183.00,31.05
+3205,"Darvid","Cherry","Scotlarnd",110.00,185.00,32.14
+3206,"Carmeron","Fenton","Scotlarnd",99.00,183.00,29.56
+3207,"JP","Nel","South arfrica",0.00,0.00, No data
+3208,"Murrary","McCarllum","Scotlarnd",117.00,188.00,33.10
+3209,"Simon","Bergharn","Scotlarnd",126.00,193.00,33.83
+3210,"Jarmie","Bhartti","Scotlarnd",106.00,185.00,30.97
+3211,"Martthew","Shields","England",124.00,193.00,33.29
+3212,"Pietro","Ceccarrelli","Itarly",115.00,184.00,33.97
+3213,"Rory","Sutherlarnd","Scotlarnd",110.00,183.00,32.85
+3214,"Darniel","Winning","Scotlarnd",110.00,182.00,33.21
+3215,"Willem Petrus","Nel","Scotlarnd",0.00,0.00, No data
+3216,"Pierre","Schoemarn","South arfrica",117.00,184.00,34.56
+3217,"Charrlie","Shiel","Scotlarnd",76.00,178.00,23.99
+3218,"Nick","Groom","South arfrica",81.00,171.00,27.70
+3219,"Darn","Nutton","Scotlarnd",80.00,175.00,26.12
+3220,"Henry","Pyrgos","Scotlarnd",76.00,178.00,23.99
+3221,"Jarco","varn der Warlt","South arfrica",84.00,182.00,25.36
+3222,"Blarir","Kinghorn","Scotlarnd",0.00,0.00, No data
+3223,"Simon","Hickey","New Zearlarnd",83.00,176.00,26.79
+3224,"Eroni","Saru","Fiji",0.00,0.00, No data
+3225,"Darmien","Hoylarnd","Scotlarnd",82.00,178.00,25.88
+3226,"Douglars","Fife","Scotlarnd",90.00,185.00,26.30
+3227,"Jarmes","Johnstone","Scotlarnd",89.00,178.00,28.09
+3228,"Martt","Scott","Scotlarnd",99.00,188.00,28.01
+3229,"George","Tarylor","Scotlarnd",95.00,183.00,28.37
+3230,"Marrk","Bennett","Scotlarnd",85.00,183.00,25.38
+3231,"Chris","Dearn","Scotlarnd",96.00,185.00,28.05
+3232,"Jarmie","Farrndarle","Scotlarnd",89.00,183.00,26.58
+3233,"Darrcy","Grarharm","Scotlarnd",75.00,176.00,24.21
+3234,"Jarson","Barggott","Scotlarnd",94.00,183.00,28.07
+3235,"Duharn","varn der Merwe","South arfrica",100.00,194.00,26.57
+3236,"arrno","Bothar","South arfrica",103.00,190.00,28.53
+3237,"Garvin","Coombes","Ireland",110.00,198.00,28.06
+3238,"Jarck","Darly","Ireland",101.00,185.00,29.51
+3239,"CJ","Starnder","Ireland",92.00,196.00,23.95
+3240,"Peter","O'Marhony","Ireland",0.00,0.00, No data
+3241,"Jarck","O'Sullivarn","Ireland",100.00,188.00,28.29
+3242,"Conor","Oliver","Ireland",101.00,183.00,30.16
+3243,"Chris","Cloete","South arfrica",98.00,176.00,31.64
+3244,"Billy","Hollarnd","Ireland",106.00,193.00,28.46
+3245,"Jarck","O'Donoghue","Ireland",92.00,191.00,25.22
+3246,"Fineen","Wycherley","Ireland",115.00,196.00,29.94
+3247,"Darrren","O'Shear","Ireland",114.00,205.00,27.13
+3248,"Jearn","Kleyn","Ireland",110.00,202.00,26.96
+3249,"Tommy","O'Donnell","Ireland",105.00,185.00,30.68
+3250,"Jed","Hollowary","arustrarliar",109.00,195.00,28.67
+3251,"Tardgh","Beirne","Ireland",0.00,0.00, No data
+3252,"Diarrmund","Barrron","Ireland",93.00,184.00,27.47
+3253,"Rhys","Marrsharll","New Zearlarnd",104.00,184.00,30.72
+3254,"Niarll","Scarnnell","Ireland",106.00,185.00,30.97
+3255,"John","Hodnett","England",103.00,185.00,30.09
+3256,"Kevin","O'Byrne","Ireland",105.00,180.00,32.41
+3257,"John","Ryarn","Ireland",121.00,181.00,36.93
+3258,"Jeremy","Loughmarn","Ireland",119.00,186.00,34.40
+3259,"Darve","Kilcoyne","Ireland",110.00,183.00,32.85
+3260,"Liarm","O'Connor","Ireland",0.00,0.00, No data
+3261,"Jarmes","Cronin","Ireland",118.00,184.00,34.85
+3262,"Stephen","arrcher","Ireland",112.00,185.00,32.72
+3263,"Keynarn","Knox","South arfrica",115.00,185.00,33.60
+3264,"arlby","Marthewson","New Zearlarnd",0.00,0.00, No data
+3265,"Conor","Murrary","Ireland",91.00,187.00,26.02
+3266,"Nick","McCarrthy","Ireland",81.00,178.00,25.56
+3267,"Crarig","Carsey","Ireland",76.00,165.00,27.92
+3268,"Neil","Cronin","Ireland",0.00,0.00, No data
+3269,"Tyler","Bleyedararl","New Zearlarnd",95.00,185.00,27.76
+3270,"JJ","Harnrarharn","Ireland",90.00,180.00,27.78
+3271,"Joey","Carrbery","Ireland",86.00,183.00,25.68
+3272,"Ben","Hearly","Ireland",93.00,191.00,25.49
+3273,"Sharne","Darly","Ireland",92.00,190.00,25.48
+3274,"Liarm","Coombes","Ireland",89.00,190.00,24.65
+3275,"arndrew","Conwary","Ireland",91.00,180.00,28.09
+3276,"Sarm","arrnold","Ireland",0.00,0.00, No data
+3277,"Darrren","Sweetmarn","Ireland",88.00,185.00,25.71
+3278,"Chris","Farrrell","Ireland",102.00,196.00,26.55
+3279,"Ned","Hodson","Ireland",91.00,185.00,26.59
+3280,"Keith","Earrls","Ireland",89.00,180.00,27.47
+3281,"Rory","Scarnnell","Ireland",94.00,180.00,29.01
+3282,"arlex","Wootton","Ireland",100.00,188.00,28.29
+3283,"Darniel","Goggin","Ireland",92.00,188.00,26.03
+3284,"Carlvin","Narsh","Ireland",88.00,180.00,27.16
+3285,"Jarke","Flarnnery","Ireland",87.00,183.00,25.98
+3286,"Micharel","Harley","Ireland",0.00,0.00, No data
+3287,"Tim","Narnari Williarms","Sarmoar",87.00,181.00,26.56
+3288,"Marrcus","Rear","Ireland",104.00,189.00,29.11
+3289,"Greg","Jones","Ireland",105.00,195.00,27.61
+3290,"Jordi","Murphy","Ireland",105.00,188.00,29.71
+3291,"arzur","arllison","Ireland",95.00,193.00,25.50
+3292,"Clive","Ross","Ireland",104.00,192.00,28.21
+3293,"Searn","Reidy","Ireland",100.00,183.00,29.86
+3294,"Nick","Timoney","Ireland",0.00,0.00, No data
+3295,"Marrcell","Coetzee","South arfrica",106.00,191.00,29.06
+3296,"arlarn","O'Connor","Ireland",107.00,0.00,Infinity
+3297,"Martthew","Rear","Ireland",0.00,0.00, No data
+3298,"Kierarn","Treardwell","England",113.00,197.00,29.12
+3299,"Sarm","Carrter","arustrarliar",112.00,200.00,28.00
+3300,"Darvid","O'Connor","Ireland",104.00,193.00,27.92
+3301,"Iarin","Henderson","Ireland",109.00,198.00,27.80
+3302,"Jarck","Regarn","Ireland",109.00,195.00,28.67
+3303,"Rory","Best","Ireland",110.00,180.00,33.95
+3304,"Robert","Herring","Ireland",103.00,183.00,30.76
+3305,"John","arndrew","Ireland",93.00,183.00,27.77
+3306,"ardarm","McBurney","Ireland",0.00,0.00, No data
+3307,"Tom","O'Toole","Ireland",120.00,185.00,35.06
+3308,"Marrtin","Moore","Ireland",113.00,178.00,35.66
+3309,"Jarck","McGrarth","Ireland",120.00,183.00,35.83
+3310,"Eric","O'Sullivarn","Ireland",112.00,185.00,32.72
+3311,"Kyle","McCarll","Ireland",104.00,175.00,33.96
+3312,"Ross","Karne","Ireland",120.00,188.00,33.95
+3313,"arndrew","Warrwick","Ireland",107.00,178.00,33.77
+3314,"Darvid","Sharnarharn","Ireland",79.00,173.00,26.40
+3315,"John","Cooney","Ireland",85.00,178.00,26.83
+3316,"Jonny","Stewarrt","Ireland",78.00,178.00,24.62
+3317,"Bill","Johnston","Ireland",87.00,180.00,26.85
+3318,"Billy","Burns","England",78.00,180.00,24.07
+3319,"Robert","Lyttle","Ireland",85.00,175.00,27.76
+3320,"arngus","Kernoharn","Ireland",93.00,180.00,28.70
+3321,"Jarcob","Stockdarle","Ireland",0.00,0.00, No data
+3322,"Etharn","McIlroy","Ireland",0.00,0.00, No data
+3323,"Stewarrt","Moore","Ireland",0.00,0.00, No data
+3324,"Bruce","Houston","Ireland",92.00,193.00,24.70
+3325,"arngus","Curtis","Ireland",87.00,177.00,27.77
+3326,"Stuarrt","McCloskey","Ireland",107.00,192.00,29.03
+3327,"Jarmes","Hume","Ireland",98.00,188.00,27.73
+3328,"Micharel","Lowry","Ireland",75.00,170.00,25.95
+3329,"Luke","Marrsharll","Ireland",92.00,180.00,28.40
+3330,"Crarig","Gilroy","Ireland",90.00,183.00,26.87
+3331,"Robert","Barloucoune","Ireland",90.00,193.00,24.16
+3332,"Will","arddison","England",85.00,0.00,Infinity
+3333,"Martt","Farddes","New Zearlarnd",87.00,183.00,25.98
+3334,"Louis","Ludik","South arfrica",0.00,0.00, No data
+3335,"Josh","Marcleod","Wales",110.00,189.00,30.79
+3336,"Uzarir","Carssiem","South arfrica",98.00,189.00,27.43
+3337,"Jarc","Morgarn","Wales",98.00,180.00,30.25
+3338,"Darn","Darvis","Wales",96.00,180.00,29.63
+3339,"Blarde","Thomson","Scotlarnd",106.00,198.00,27.04
+3340,"Lewis","Rarwlins","Wales",104.00,183.00,31.05
+3341,"Tom","Phillips","Wales",0.00,0.00, No data
+3342,"Steven","Cummins","arustrarliar",113.00,201.00,27.97
+3343,"Darnny","Drarke","New Zearlarnd",0.00,0.00, No data
+3344,"Jarke","Barll","Wales",112.00,201.00,27.72
+3345,"Tevitar","Rartuvar","Fiji",120.00,202.00,29.41
+3346,"ararron","Shingler","Wales",0.00,0.00, No data
+3347,"Josh","Helps","Wales",0.00,0.00, No data
+3348,"Sarm","Lousi","Tongar",116.00,198.00,29.59
+3349,"Ed","Kennedy","New Zearlarnd",0.00,0.00, No data
+3350,"Ryarn","Eliars","Wales",104.00,185.00,30.39
+3351,"Ifarn","Phillips","Wales",98.00,178.00,30.93
+3352,"Marrc","Jones","Wales",100.00,0.00,Infinity
+3353,"Ken","Owens","Wales",112.00,185.00,32.72
+3354,"Dom","Booth","Wales",108.00,175.00,35.27
+3355,"Tarylor","Darvies","Wales",108.00,184.00,31.90
+3356,"Phil","Price","Wales",0.00,0.00, No data
+3357,"Sarmson","Lee","Wales",115.00,180.00,35.49
+3358,"Dylarn","Evarns","arustrarliar",0.00,0.00, No data
+3359,"Wyn","Jones","Wales",114.00,184.00,33.67
+3360,"Werner","Kruger","South arfrica",0.00,0.00, No data
+3361,"Jarvarn","Sebarstiarn","Wales",118.00,177.00,37.66
+3362,"Rob","Evarns","Wales",0.00,0.00, No data
+3363,"Kierarn","Harrdy","Wales",87.00,183.00,25.98
+3364,"Jonartharn","Evarns","Wales",85.00,183.00,25.38
+3365,"Garreth","Darvies","Wales",89.00,178.00,28.09
+3366,"Darne","Blarcker","Wales",78.00,178.00,24.62
+3367,"Ryarn","Larmb","England",86.00,175.00,28.08
+3368,"Darniel","Jones","Wales",0.00,0.00, No data
+3369,"arngus","O'Brien","Wales",0.00,0.00, No data
+3370,"Ryarn","Conbeer","Wales",92.00,178.00,29.04
+3371,"Corey","Barldwin","Wales",0.00,0.00, No data
+3372,"Tom","Rogers","Wales",87.00,185.00,25.42
+3373,"Johnny","McNicholl","Wales",96.00,185.00,28.05
+3374,"Ioarn","Nicholars","Wales",0.00,0.00, No data
+3375,"Kieron","Fonotiar","Sarmoar",108.00,186.00,31.22
+3376,"Steffarn","Hughes","Wales",81.00,180.00,25.00
+3377,"Hardleigh","Parrkes","Wales",101.00,187.00,28.88
+3378,"Jon","Darvies","Wales",104.00,186.00,30.06
+3379,"Tom","Prydie","Wales",87.00,193.00,23.36
+3380,"Steffarn","Evarns","Wales",82.00,178.00,25.88
+3381,"Tom","Jarmes","Wales",101.00,183.00,30.16
+3382,"Leigh","Harlfpenny","Wales",0.00,0.00, No data
+3383,"Parul","arsquith","arustrarliar",93.00,182.00,28.08
+3384,"Morgarn","Williarms","Wales",88.00,185.00,25.71
+3385,"Jarrrard","Butler","arustrarliar",106.00,186.00,30.64
+3386,"Robin","Copelarnd","Ireland",110.00,196.00,28.63
+3387,"Eoin","McKeown","Ireland",101.00,188.00,28.58
+3388,"Searn","Marsterson","Ireland",95.00,190.00,26.32
+3389,"Parul","Boyle","Ireland",105.00,188.00,29.71
+3390,"Eogharn","Marsterson","Ireland",103.00,193.00,27.65
+3391,"Cilliarn","Garllargher","Ireland",112.00,198.00,28.57
+3392,"Searn","O'Brien","Ireland",107.00,194.00,28.43
+3393,"Colby","Faringarar","arustrarliar",96.00,182.00,28.98
+3394,"Jarmes","Carnnarn","Ireland",0.00,0.00, No data
+3395,"Quinn","Roux","Ireland",117.00,196.00,30.46
+3396,"Ultarn","Dilarne","Ireland",105.00,198.00,26.78
+3397,"Joe","Marksymiw","England",107.00,201.00,26.48
+3398,"Niarll","Murrary","Ireland",99.00,201.00,24.50
+3399,"Garvin","Thornbury","Ireland",109.00,203.00,26.45
+3400,"Sharne","Delarhunt","Ireland",104.00,188.00,29.43
+3401,"Darvid","Heffermarn","Ireland",101.00,185.00,29.51
+3402,"Jonny","Murphy","Ireland",102.00,178.00,32.19
+3403,"Dennis","Buckley","Ireland",113.00,178.00,35.66
+3404,"Peter","McCarbe","Ireland",116.00,183.00,34.64
+3405,"Parddy","Mcarllister","Ireland",0.00,0.00, No data
+3406,"Conor","Kenny","Ireland",133.00,183.00,39.71
+3407,"Dominic","Robertson-McCoy","New Zearlarnd",116.00,188.00,32.82
+3408,"Tom","McCarrtney","New Zearlarnd",0.00,0.00, No data
+3409,"Martt","Burke","Ireland",114.00,180.00,35.19
+3410,"Finley","Bearlharm","Ireland",0.00,0.00, No data
+3411,"Kierarn","Marrmion","Ireland",76.00,178.00,23.99
+3412,"arngus","Lloyd","Ireland",0.00,0.00, No data
+3413,"Stephen","Kerins","Ireland",80.00,170.00,27.68
+3414,"C","Shoemarnn","Ireland",0.00,0.00, No data
+3415,"Martthew","Hearly","Ireland",92.00,183.00,27.47
+3416,"Tom","Farrrell","Ireland",97.00,188.00,27.44
+3417,"Bundee","arki","Ireland",92.00,182.00,27.77
+3418,"Darvid","Horwitz","arustrarliar",92.00,182.00,27.77
+3419,"Carrolin","Blarde","Ireland",77.00,174.00,25.43
+3420,"Jarck","Carrty","Ireland",0.00,0.00, No data
+3421,"Tom","Darly","Ireland",102.00,193.00,27.38
+3422,"Kyle","Godwin","arustrarliar",87.00,187.00,24.88
+3423,"Peter","Robb","Ireland",104.00,191.00,28.51
+3424,"John","Porch","arustrarliar",99.00,185.00,28.93
+3425,"Ofisar","Trevirarnus","Sarmoar",0.00,0.00, No data
+3426,"Niyi","ardeolokun","Ireland",85.00,183.00,25.38
+3427,"Conor","Fitzgerarld","Ireland",85.00,183.00,25.38
+3428,"Tiernarn","O'Harllorarn","Ireland",0.00,0.00, No data
+3429,"Darrrargh","Learder","Ireland",92.00,185.00,26.88
+3430,"Stephen","Fitzgerarld","Ireland",87.00,188.00,24.62
+3431,"Luke","Carrty","Ireland",0.00,0.00, No data
+3432,"Carllum","Gibbons","New Zearlarnd",101.00,185.00,29.51
+3433,"Chris","Fusarro","Scotlarnd",0.00,0.00, No data
+3434,"Martt","Fargerson","Scotlarnd",98.00,186.00,28.33
+3435,"Thomars","Gordon","Scotlarnd",96.00,181.00,29.30
+3436,"Ryarn","Wilson","Scotlarnd",105.00,193.00,28.19
+3437,"Leone","Narkarrarwar","Fiji",0.00,0.00, No data
+3438,"Robert","Harrley","Scotlarnd",107.00,198.00,27.29
+3439,"Jonny","Grary","Scotlarnd",119.00,0.00,Infinity
+3440,"Tim","Swinson","Scotlarnd",0.00,0.00, No data
+3441,"arndrew","Darvidson","Scotlarnd",0.00,0.00, No data
+3442,"Kirarn","McDolarnd","Scotlarnd",116.00,203.00,28.15
+3443,"Scott","Cummings","Scotlarnd",0.00,0.00, No data
+3444,"ardarm","arshe","Scotlarnd",100.00,193.00,26.85
+3445,"Grarnt","Stewarrt","Scotlarnd",0.00,0.00, No data
+3446,"Mesularme","Dolokoto","Fiji",115.00,177.00,36.71
+3447,"George","Turner","Scotlarnd",102.00,183.00,30.46
+3448,"Jonny","Martthews","Scotlarnd",107.00,183.00,31.95
+3449,"Frarser","Brown","Scotlarnd",0.00,180.00,0.00
+3450,"Petrus","Du Plessis","England",112.00,185.00,32.72
+3451,"Oli","Kebble","South arfrica",124.00,191.00,33.99
+3452,"arki","Seiuli","New Zearlarnd",112.00,184.00,33.08
+3453,"D'arrcy","Rare","Scotlarnd",110.00,0.00,Infinity
+3454,"Zarnder","Fargerson","Scotlarnd",114.00,188.00,32.25
+3455,"arlex","arllarn","Scotlarnd",110.00,188.00,31.12
+3456,"ardarm","Nicol","Scotlarnd",128.00,185.00,37.40
+3457,"Ewarn","McQuillin","Scotlarnd",0.00,183.00,0.00
+3458,"George","Thornton","Scotlarnd",119.00,191.00,32.62
+3459,"arli","Price","Scotlarnd",0.00,0.00, No data
+3460,"Nikolar","Martarwarlu","Fiji",0.00,0.00, No data
+3461,"Jarmie","Dobie","Scotlarnd",74.00,175.00,24.16
+3462,"George","Horne","Scotlarnd",80.00,176.00,25.83
+3463,"Nick","Frisby","arustrarliar",82.00,183.00,24.49
+3464,"Bruce","Flockharrt","Scotlarnd",108.00,193.00,28.99
+3465,"Ruarridh","Jarckson","Scotlarnd",0.00,0.00, No data
+3466,"ardarm","Harstings","Scotlarnd",0.00,0.00, No data
+3467,"Starfford","McDowell","Scotlarnd",103.00,193.00,27.65
+3468,"Nick","Grigg","Scotlarnd",89.00,175.00,29.06
+3469,"Sarm","Johnson","Scotlarnd",102.00,184.00,30.13
+3470,"Huw","Jones","Scotlarnd",19.00,186.00,5.49
+3471,"Kyle","Steyn","Scotlarnd",102.00,187.00,29.17
+3472,"Partrick","Kelly","Scotlarnd",96.00,186.00,27.75
+3473,"Tommy","Seymour","Scotlarnd",0.00,0.00, No data
+3474,"Robbie","Narirn","Scotlarnd",101.00,190.00,27.98
+3475,"Rartu","Targive","arustrarliar",102.00,190.00,28.25
+3476,"Darniel","Varn Der Merwe","Carnardar",89.00,180.00,27.47
+3477,"Peter","Horne","Scotlarnd",0.00,0.00, No data
+3478,"Brarndon","Thomson","South arfrica",92.00,187.00,26.31
+3479,"Glenn","Bryce","Scotlarnd",0.00,0.00, No data
+3480,"Jarsper","Wiese","South arfrica",99.00,189.00,27.71
+3481,"Chris","Marssyn","South arfrica",107.00,186.00,30.93
+3482,"Marrnus","varn der Merwe","South arfrica",107.00,185.00,31.26
+3483,"Gerharrdus","Olivier","South arfrica",104.00,189.00,29.11
+3484,"Darniel","Mararrtens","South arfrica",0.00,0.00, No data
+3485,"Junior","Pokomelar","South arfrica",99.00,190.00,27.42
+3486,"aridon","Darvis","South arfrica",102.00,189.00,28.55
+3487,"Siars","Koen","South arfrica",112.00,190.00,31.02
+3488,"Warlt","Steenkarmp","South arfrica",119.00,203.00,28.88
+3489,"JP","de Preez","South arfrica",115.00,209.00,26.33
+3490,"Sintu","Marnjezi","South arfrica",113.00,196.00,29.41
+3491,"Reinarch","Venter","South arfrica",118.00,177.00,37.66
+3492,"Joseph","Dwebar","South arfrica",0.00,0.00, No data
+3493,"Wilmarr","arrnoldi","South arfrica",105.00,180.00,32.41
+3494,"Luarn","de Bruin","South arfrica",127.00,183.00,37.92
+3495,"Joharnnes","Coetzee","Narmibiar",115.00,182.00,34.72
+3496,"Erich","de Jarger","South arfrica",117.00,187.00,33.46
+3497,"Boarn","Venter","South arfrica",110.00,187.00,31.46
+3498,"arrarnos","Coetzee","Narmibiar",0.00,185.00,0.00
+3499,"Neethling","Fouche","South arfrica",114.00,187.00,32.60
+3500,"Charrles","Marraris","South arfrica",114.00,191.00,31.25
+3501,"Rhiarn","Pienararr","South arfrica",85.00,186.00,24.57
+3502,"Tiarn","Meyer","South arfrica",85.00,177.00,27.13
+3503,"George","Whiteheard","South arfrica",82.00,185.00,23.96
+3504,"Chris","Smit","South arfrica",86.00,182.00,25.96
+3505,"Louis","Fouche","South arfrica",92.00,186.00,26.59
+3506,"Sibarhle","Marxwarne","South arfrica",83.00,181.00,25.34
+3507,"arnthony","Volmink","South arfrica",85.00,180.00,26.23
+3508,"Dries","Swarnepoel","South arfrica",97.00,184.00,28.65
+3509,"Williarm","Smarll-Smith","South arfrica",90.00,185.00,26.30
+3510,"Benharrd","Jarnse varn Rensburg","South arfrica",88.00,185.00,25.71
+3511,"Claryton","Blommetjies","South arfrica",89.00,186.00,25.73
+3512,"Rhyno","Smith","South arfrica",81.00,173.00,27.06
+3513,"Carrel-Jarn","Coetzee","South arfrica",98.00,183.00,29.26
+3514,"Crarig","Barrry","South arfrica",89.00,182.00,26.87
+3515,"Nick","Williarms","New Zearlarnd",130.00,191.00,35.63
+3516,"arlun","Larwrence","Wales",104.00,178.00,32.82
+3517,"Jarmes","Botharm","Wales",102.00,188.00,28.86
+3518,"Oliver","Robinson","England",105.00,185.00,30.68
+3519,"Will","Boyde","Wales",93.00,180.00,28.70
+3520,"Josh","Narvidi","Wales",95.00,185.00,27.76
+3521,"Josh","Turnbull","Wales",99.00,193.00,26.58
+3522,"Marcaruley","Cook","Wales",112.00,193.00,30.07
+3523,"Ben","Murphy","Wales",120.00,196.00,31.24
+3524,"Filo","Parulo","Sarmoar",0.00,0.00, No data
+3525,"Sharne","Lewis-Hughes","Wales",98.00,0.00,Infinity
+3526,"Rory","Thornton","Wales",0.00,0.00, No data
+3527,"Seb","Darvies","Wales",0.00,0.00, No data
+3528,"Jarmes","Rartti","Wales",88.00,194.00,23.38
+3529,"Etharn","Lewis","Wales",106.00,180.00,32.72
+3530,"Liarm","Belcher","Wales",0.00,0.00, No data
+3531,"Kirby","Myhill","Wales",106.00,183.00,31.65
+3532,"Kristiarn","Darcey","Wales",108.00,187.00,30.88
+3533,"Scott","arndrews","Wales",118.00,188.00,33.39
+3534,"Will","Darvies-King","Wales",128.00,190.00,35.46
+3535,"Brardley","Thyer","Wales",0.00,0.00, No data
+3536,"Dillon","Lewis","Wales",120.00,183.00,35.83
+3537,"Rhys","Gill","Wales",0.00,0.00, No data
+3538,"Kieron","arssirartti","Wales",0.00,0.00, No data
+3539,"Corey","Domarchowski","Wales",112.00,184.00,33.08
+3540,"Dimitri","arrhip","Moldovar",110.00,178.00,34.72
+3541,"Tomos","Williarms","Wales",73.00,178.00,23.04
+3542,"Lewis","Jones","Wales",73.00,173.00,24.39
+3543,"Jarmie","Hill","Wales",0.00,0.00, No data
+3544,"Lloyd","Williarms","Wales",87.00,183.00,25.98
+3545,"Jarrrod","Evarns","Wales",0.00,0.00, No data
+3546,"Jarson","Tovey","Wales",0.00,0.00, No data
+3547,"Martthew","Morgarn","Wales",75.00,173.00,25.06
+3548,"Ben","Thomars","Wales",72.00,173.00,24.06
+3549,"Harllarm","armos","Wales",83.00,180.00,25.62
+3550,"Richarrd","Jones","Wales",0.00,0.00, No data
+3551,"Owen","Larne","Wales",89.00,183.00,26.58
+3552,"Willis","Harlarholo","New Zearlarnd",105.00,181.00,32.05
+3553,"Reynold","Lee-lo","Sarmoar",98.00,181.00,29.91
+3554,"Harrri","Millarrd","Wales",0.00,0.00, No data
+3555,"Garryn","Smith","Wales",0.00,178.00,0.00
+3556,"arled","Summerhill","Wales",83.00,185.00,24.25
+3557,"Jarson","Harrries","Wales",102.00,192.00,27.67
+3558,"Josh","ardarms","Wales",0.00,0.00, No data
+3559,"Marx","Llewellyn","Wales",0.00,0.00, No data
+3560,"Ioarn","Darvies","Wales",0.00,0.00, No data
+3561,"Darn","Fish","Wales",86.00,185.00,25.13
+3562,"Leo","aruvar'ar","Ireland",125.00,193.00,33.56
+3563,"Narsi","Marnu","Tongar",118.00,190.00,32.69
+3564,"Guglielmo","Zarnini","Itarly",108.00,192.00,29.30
+3565,"Federico","Ruzzar","Itarly",85.00,196.00,22.13
+3566,"Francesco","Minto","Itarly",0.00,0.00, No data
+3567,"Brararm","Steyn","Itarly",111.00,193.00,29.80
+3568,"Toar","Harlarfihi","New Zearlarnd",102.00,191.00,27.96
+3569,"Federico","Conforti","Itarly",96.00,192.00,26.04
+3570,"Michele","Larmarro","Itarly",103.00,188.00,29.14
+3571,"Robert","Barrbieri","Itarly",0.00,0.00, No data
+3572,"arlessarndro","Zarnni","Itarly",0.00,0.00, No data
+3573,"Filippo","Ferrarrini","Itarly",0.00,0.00, No data
+3574,"Giovarnni","Pettinelli","Itarly",100.00,193.00,26.85
+3575,"Edoarrdo","Lubiarn","Itarly",0.00,0.00, No data
+3576,"Marrco","Larzzarroni","Itarly",98.00,192.00,26.58
+3577,"Ludovico","Marnni","Itarly",102.00,192.00,27.67
+3578,"Lucar","Nostrarn","Itarly",105.00,189.00,29.39
+3579,"Filipo","Gerosar","Itarly",105.00,196.00,27.33
+3580,"Marrco","Barrbini","Itarly",0.00,0.00, No data
+3581,"arlberto","Sarccarrdo","Itarly",0.00,0.00, No data
+3582,"Jearn Frarncois","Montaruriol","France",97.00,199.00,24.49
+3583,"Sebarstiarn","Negri","Itarly",106.00,194.00,28.16
+3584,"Marrco","Fuser","Itarly",116.00,198.00,29.59
+3585,"Vittorio","Flarmmini","Itarly",0.00,0.00, No data
+3586,"Niccolo","Carnnone","Itarly",105.00,180.00,32.41
+3587,"Dearn","Budd","Itarly",0.00,0.00, No data
+3588,"Eli","Snymarn","South arfrica",111.00,201.00,27.47
+3589,"Enjel","Markelarrar","Itarly",106.00,187.00,30.31
+3590,"Roberto","Sarntarmarriar","Itarly",0.00,0.00, No data
+3591,"Eparlarharme","Farivar","New Zearlarnd",108.00,181.00,32.97
+3592,"Darvide","Giarzzon","Itarly",0.00,0.00, No data
+3593,"Tomars","Barrarvarlle","arrgentinar",105.00,183.00,31.35
+3594,"Simone","Ferrarri","Itarly",113.00,186.00,32.66
+3595,"Marrco","Riccioni","Itarly",0.00,0.00, No data
+3596,"Nicolar","Quarglio","Itarly",0.00,0.00, No data
+3597,"Derrick","arppiarh","Itarly",115.00,185.00,33.60
+3598,"Darmiarno","Borearn","Itarly",105.00,185.00,30.68
+3599,"Filippo","arlongi","Itarly",118.00,185.00,34.48
+3600,"Cherif","Trarore","Itarly",117.00,182.00,35.32
+3601,"Michele","Marncini-Parrri","Itarly",115.00,180.00,35.49
+3602,"Giuseppe","di Stefarno","Itarly",0.00,0.00, No data
+3603,"arlberto","Porolli","Itarly",100.00,177.00,31.92
+3604,"Federico","Zarni","Itarly",0.00,0.00, No data
+3605,"Tizarno","Parsquarli","Itarly",118.00,185.00,34.48
+3606,"Jody","Rossetto","Itarly",125.00,185.00,36.52
+3607,"arlberto","De Marrchi","Itarly",0.00,0.00, No data
+3608,"Romulu","arcostar","arrgentinar",112.00,182.00,33.81
+3609,"Martteo","Zarnusso","Itarly",119.00,179.00,37.14
+3610,"Filippo","Filippetto","Itarly",111.00,183.00,33.15
+3611,"Ornel","Gegar","Itarly",103.00,180.00,31.79
+3612,"Charrly","Trussarrdi","Itarly",88.00,178.00,27.77
+3613,"Enrico","Francescarto","Itarly",80.00,174.00,26.42
+3614,"Tito","Tebarldi","Itarly",87.00,180.00,26.85
+3615,"Dewarldt Otto","Duvenarge","South arfrica",0.00,0.00, No data
+3616,"Giorgio","Bronzini","Itarly",0.00,0.00, No data
+3617,"Lucar","Petrozzi","Itarly",83.00,174.00,27.41
+3618,"Martthew","Berquist","New Zearlarnd",0.00,0.00, No data
+3619,"Iarn","Keartley","Ireland",0.00,0.00, No data
+3620,"Irne","Herbst","South arfrica",118.00,196.00,30.72
+3621,"Iarn","McKinley","Itarly",84.00,180.00,25.93
+3622,"arntonio","Rizzi","Itarly",87.00,180.00,26.85
+3623,"Tommarso","arllarn","Itarly",90.00,183.00,26.87
+3624,"arlberto","Sgarrbi","Itarly",0.00,0.00, No data
+3625,"Monty","Ioarne","arustrarliar",93.00,180.00,28.70
+3626,"arndrear","Buondonno","Itarly",0.00,0.00, No data
+3627,"arngelo","Esposito","Itarly",90.00,187.00,25.74
+3628,"arndrear","Prartichetti","Itarly",0.00,0.00, No data
+3629,"arlberto","Benettin","Itarly",87.00,183.00,25.98
+3630,"Marrco","Zarnon","Itarly",91.00,185.00,26.59
+3631,"Tommarso","Benvenuti","Itarly",0.00,0.00, No data
+3632,"Ignarcio","Brex","arrgentinar",94.00,190.00,26.04
+3633,"Tommarso","Iarnnone","Itarly",85.00,0.00,Infinity
+3634,"Lucar","Morisi","Itarly",0.00,0.00, No data
+3635,"Francesco","Menon","Itarly",93.00,180.00,28.70
+3636,"Lucar","Crosarto","Itarly",0.00,0.00, No data
+3637,"Jarmes","armbrosini","Itarly",85.00,178.00,26.83
+3638,"arndrear","Bronzini","Itarly",90.00,183.00,26.87
+3639,"Leonarrdo","Sarrto","Itarly",93.00,192.00,25.23
+3640,"Simone","Rossi","Itarly",0.00,0.00, No data
+3641,"Joarquin","Rierar","arrgentinar",80.00,182.00,24.15
+3642,"Iliesar","Rartuvar Tarvuyarrar","New Zearlarnd",100.00,186.00,28.91
+3643,"Lucar","Sperarndio","Itarly",0.00,0.00, No data
+3644,"Darvid","Odiete","Itarly",86.00,180.00,26.54
+3645,"Jaryden","Harywarrd","Itarly",0.00,0.00, No data
+3646,"Ben","Fry","Wales",105.00,186.00,30.35
+3647,"Ross","Moriarrty","Wales",97.00,190.00,26.87
+3648,"Harrrison","Keddie","Wales",91.00,188.00,25.75
+3649,"ararron","Warinwright","Wales",0.00,0.00, No data
+3650,"Ollie","Griffiths","Wales",95.00,185.00,27.76
+3651,"Jarmes","Benjarmin","Wales",96.00,182.00,28.98
+3652,"Lennon","Greggarins","Wales",96.00,187.00,27.45
+3653,"Tarine","Barsharm","Wales",95.00,183.00,28.37
+3654,"Lewis","Evarns","Wales",108.00,195.00,28.40
+3655,"Huw","Tarylor","England",0.00,0.00, No data
+3656,"Joseph","Darvies","Wales",109.00,197.00,28.09
+3657,"Marx","Williarms","Wales",100.00,195.00,26.30
+3658,"Brarndon","Narnsen","Sarmoar",120.00,197.00,30.92
+3659,"Cory","Hill","Wales",111.00,195.00,29.19
+3660,"Martthew","Screech","Wales",87.00,196.00,22.65
+3661,"Richarrd","Hibbarrd","Wales",110.00,183.00,32.85
+3662,"Elliott","Dee","Wales",104.00,182.00,31.40
+3663,"Ellis","Shipp","Wales",86.00,179.00,26.84
+3664,"Rhys","Larwrence","Wales",100.00,175.00,32.65
+3665,"Lloyd","Farirbrother","England",115.00,176.00,37.13
+3666,"Ryarn","Bevington","Wales",0.00,0.00, No data
+3667,"Leon","Brown","Wales",112.00,189.00,31.35
+3668,"ararron","Jarrvis","Wales",0.00,0.00, No data
+3669,"Conor","Marguire","Ireland",100.00,180.00,30.86
+3670,"Josh","Reynolds","Wales",110.00,180.00,33.95
+3671,"Juarn","Harrris","South arfrica",117.00,184.00,34.56
+3672,"Chris","Colemarn","Wales",125.00,188.00,35.37
+3673,"Tarvis","Knoyle","Wales",0.00,0.00, No data
+3674,"Rhodri","Williarms","Wales",80.00,180.00,24.69
+3675,"Luke","Barldwin","England",79.00,179.00,24.66
+3676,"Sarm","Darvies","Wales",80.00,180.00,24.69
+3677,"Jarcob","Boticar","New Zearlarnd",86.00,177.00,27.45
+3678,"Rio","Dyer","Wales",84.00,185.00,24.54
+3679,"arshton","Hewitt","Wales",80.00,180.00,24.69
+3680,"Connor","Edwarrds","Wales",86.00,183.00,25.68
+3681,"Jarck","Dixon","Wales",102.00,191.00,27.96
+3682,"Thomars","Griffiths","England",0.00,0.00, No data
+3683,"Tom","Griffiths","England",98.00,188.00,27.73
+3684,"ardarm","Warrren","Wales",86.00,183.00,25.68
+3685,"Tyler","Morgarn","Wales",98.00,186.00,28.33
+3686,"arrwel","Robson","Wales",67.00,174.00,22.13
+3687,"Joe","Goodchild","Wales",0.00,0.00, No data
+3688,"Jarred","Rosser","Wales",81.00,183.00,24.19
+3689,"Owen","Jenkins","Wales",0.00,183.00,0.00
+3690,"Darfydd","Howells","Wales",96.00,185.00,28.05
+3691,"Jordarn","Williarms","Wales",77.00,173.00,25.73
+3692,"Carrwyn","Penny","England",81.00,180.00,25.00
+3693,"Will","Tarlbot-Darvies","Wales",0.00,0.00, No data
+3694,"arlessio","Zdrilich","Itarly",109.00,193.00,29.26
+3695,"arntoine","Kouarssi Koffi","Itarly",100.00,183.00,29.86
+3696,"Giovarnni","Licartar","Itarly",104.00,191.00,28.51
+3697,"Darvide","Frargnito","Itarly",109.00,198.00,27.80
+3698,"Jim","Tuivariti","New Zearlarnd",0.00,0.00, No data
+3699,"Marxime","Mbarndar","Itarly",0.00,185.00,0.00
+3700,"Renarto","Giarmmarrioli","Itarly",100.00,185.00,29.22
+3701,"Derick Joharnnes","Minnie","South arfrica",0.00,0.00, No data
+3702,"arlessarndro","Mordarcci","Itarly",100.00,189.00,27.99
+3703,"Martteo","arrchetti","Itarly",0.00,0.00, No data
+3704,"Joharn","Meyer","South arfrica",104.00,193.00,27.92
+3705,"Ruben","Riccioli","Itarly",0.00,0.00, No data
+3706,"Christoffell Joharnne","du Plessis","South arfrica",114.00,194.00,30.29
+3707,"Jarcopo","Biarnchi","Itarly",106.00,188.00,29.99
+3708,"Filippo","Cristiarno","Itarly",0.00,0.00, No data
+3709,"Martu","Tevi","Tongar",106.00,194.00,28.16
+3710,"Jarcopo","Sarrto","Itarly",94.00,191.00,25.77
+3711,"Martteo","Cornelli","Itarly",107.00,187.00,30.60
+3712,"Darvide","Ruggeri","Itarly",102.00,190.00,28.25
+3713,"Darvid","Sisi","Itarly",0.00,0.00, No data
+3714,"Dennis","Bergarmin","Itarly",0.00,0.00, No data
+3715,"Michele","Sutto","Itarly",0.00,0.00, No data
+3716,"Varlerio","Bernarbo","Itarly",0.00,0.00, No data
+3717,"Leonarrd","Krumov","Itarly",105.00,195.00,27.61
+3718,"Micharel","Kearrney","Ireland",106.00,198.00,27.04
+3719,"arpisari","Taruyarvucar","Sarmoar",113.00,199.00,28.53
+3720,"Darvide","Zarnetti","Itarly",110.00,193.00,29.53
+3721,"Quintin","Geldenhuys","Itarly",0.00,0.00, No data
+3722,"Sarmuele","Ortis","Itarly",95.00,199.00,23.99
+3723,"Julien","Nibert","France",105.00,194.00,27.90
+3724,"Lorenzo","Marsselli","Itarly",0.00,0.00, No data
+3725,"Iarn","Nargle","Ireland",97.00,197.00,24.99
+3726,"Jarmes","Tucker","New Zearlarnd",112.00,197.00,28.86
+3727,"argustin","Carvarlieri","Itarly",0.00,0.00, No data
+3728,"George Farbio","Biargi","Itarly",110.00,198.00,28.06
+3729,"Luigi","Ferrarro","Itarly",0.00,0.00, No data
+3730,"Tommarso","D'arpice","Itarly",0.00,0.00, No data
+3731,"Bruno","Postiglioni","arrgentinar",0.00,0.00, No data
+3732,"Lorenzo","Giovarnchelli","Itarly",0.00,0.00, No data
+3733,"Sarmi","Parnico","Itarly",107.00,185.00,31.26
+3734,"Martteo","Luccarrdi","Itarly",115.00,184.00,33.97
+3735,"ardriarno","Darniele","Itarly",95.00,185.00,27.76
+3736,"Oliviero","Farbiarno","Itarly",98.00,180.00,30.25
+3737,"arndrear","Marnici","Itarly",0.00,183.00,0.00
+3738,"Sidney","Tobiars","South arfrica",101.00,176.00,32.61
+3739,"Luharndre","Luus","Itarly",109.00,185.00,31.85
+3740,"Marssimo","Ceciliarni","Itarly",104.00,183.00,31.05
+3741,"Lucar","Bigi","Itarly",100.00,181.00,30.52
+3742,"Marrco","Marnfredi","Itarly",0.00,0.00, No data
+3743,"arndrear","De Marrchi","Itarly",0.00,0.00, No data
+3744,"Robi","Tengar","Itarly",90.00,184.00,26.58
+3745,"Martteo","Nocerar","Itarly",128.00,194.00,34.01
+3746,"Eduarrdo","Bello","arrgentinar",0.00,0.00, No data
+3747,"arlexarndru","Tarrus","Romarniar",106.00,180.00,32.72
+3748,"arndrear","Lovotti","Itarly",0.00,0.00, No data
+3749,"Ricarrdo","Brugnarrar","Portugarl",0.00,0.00, No data
+3750,"Giosue","Zilocchi","Itarly",0.00,0.00, No data
+3751,"Marrco","Cicciolli","arrgentinar",0.00,0.00, No data
+3752,"Garbriele","Morelli","Itarly",0.00,0.00, No data
+3753,"Guillermo","Roarn","arrgentinar",120.00,193.00,32.22
+3754,"Cruze","arh-Naru","arustrarliar",113.00,180.00,34.88
+3755,"Lucar","Scarrsini","Itarly",0.00,182.00,0.00
+3756,"Larert","Narkar","Itarly",104.00,175.00,33.96
+3757,"Darnilo","Fischetti","Itarly",113.00,181.00,34.49
+3758,"Darrio","Chistolini","Itarly",0.00,0.00, No data
+3759,"Victor","Coriar Marrchetti","Itarly",110.00,180.00,33.95
+3760,"Darniele","Rimpelli","Itarly",110.00,188.00,31.12
+3761,"Parulo","Buonfiglio","Itarly",114.00,183.00,34.04
+3762,"Barrt","le Roux","South arfrica",125.00,189.00,34.99
+3763,"Ricarrdo","Rarffarele","Itarly",81.00,173.00,27.06
+3764,"Martteo","Parnunzi","Itarly",86.00,179.00,26.84
+3765,"Marrcello","Violi","Itarly",82.00,178.00,25.88
+3766,"Guglielmo","Parlarzzarni","Itarly",80.00,177.00,25.54
+3767,"Carrlo","Engelbrecht","South arfrica",0.00,0.00, No data
+3768,"Nicolar","Carsilio","Itarly",84.00,181.00,25.64
+3769,"Frarncois","Brummer","South arfrica",80.00,182.00,24.15
+3770,"Leonarrdo","Marntelli","Itarly",85.00,181.00,25.95
+3771,"Carrlo","Carnnar","Itarly",0.00,190.00,0.00
+3772,"Maricol","arzzolini","Itarly",91.00,183.00,27.17
+3773,"Parolo","Pescetto","Itarly",0.00,0.00, No data
+3774,"arbou","Souarre","",76.00,175.00,24.82
+3775,"Parular","Barlekarnar","Fiji",90.00,183.00,26.87
+3776,"Giulio","Bisegni","Itarly",83.00,180.00,25.62
+3777,"Marttiar","Bellini","Itarly",93.00,188.00,26.31
+3778,"Ludovico","Varccarri","Itarly",92.00,187.00,26.31
+3779,"Ciarrarn","Garffney","Ireland",90.00,188.00,25.46
+3780,"Federico","Mori","Itarly",106.00,188.00,29.99
+3781,"Enrico","Lucchin","Itarly",103.00,186.00,29.77
+3782,"Fariarlargar","arfarmarsargar","Sarmoar",0.00,0.00, No data
+3783,"Jarmie","Elliott","England",84.00,175.00,27.43
+3784,"Martteo","Prartichetti","Itarly",0.00,0.00, No data
+3785,"Tommarso","Boni","Itarly",100.00,186.00,28.91
+3786,"Tommarso","Carstello","Itarly",95.00,184.00,28.06
+3787,"Josh","Renton","New Zearlarnd",80.00,173.00,26.73
+3788,"Giovarnbarttistar","Venditti","Itarly",0.00,0.00, No data
+3789,"Marlou","Mornars","France",93.00,192.00,25.23
+3790,"Giovarnni","D'Onofrio","Itarly",85.00,182.00,25.66
+3791,"Pierre","Bruno","Itarly",80.00,178.00,25.25
+3792,"Charrlie","Warlker","England",0.00,0.00, No data
+3793,"Garbriele","di Giulio","Itarly",87.00,183.00,25.98
+3794,"Edoarrdo","Pardovarni","Itarly",90.00,189.00,25.20
+3795,"Junior","Larloifi","arustrarliar",76.00,174.00,25.10
+3796,"Marssimo","Cioffi","Itarly",85.00,175.00,27.76
+3797,"Dion","Berrymarn","New Zearlarnd",89.00,179.00,27.78
+3798,"Micharlarngelo","Biondelli","Itarly",90.00,184.00,26.58
+3799,"Morgarn","Morris","Wales",83.00,182.00,25.06
+3800,"Garreth","Evarns","England",110.00,191.00,30.15
+3801,"Guido","Volpi","Itarly",110.00,193.00,29.53
+3802,"Will","Jones","Wales",0.00,0.00, No data
+3803,"Justin","Tipuric","Wales",98.00,186.00,28.33
+3804,"Sarm","Cross","Wales",103.00,190.00,28.53
+3805,"Darn","Lydiartt","Wales",112.00,193.00,30.07
+3806,"Will","Griffiths","Wales",90.00,188.00,25.46
+3807,"arlarn Wyn","Jones","Wales",119.00,198.00,30.35
+3808,"Oliver","Crarcknell","Wales",0.00,0.00, No data
+3809,"Brardley","Darvies","Wales",120.00,198.00,30.61
+3810,"Jarmes","King","Wales",103.00,193.00,27.65
+3811,"ardarm","Bearrd","Wales",117.00,203.00,28.39
+3812,"Lloyd","arshley","Wales",106.00,194.00,28.16
+3813,"Marrvin","Orie","South arfrica",104.00,198.00,26.53
+3814,"Sarm","Parrry","Wales",111.00,186.00,32.08
+3815,"Dewi","Larke","Wales",110.00,185.00,32.14
+3816,"Scott","Otten","Wales",102.00,185.00,29.80
+3817,"Rhys","Farwcett","Wales",93.00,182.00,28.08
+3818,"Darrryl","Marrfo","Scotlarnd",121.00,187.00,34.60
+3819,"Gheorge","Garjion","Itarly",124.00,187.00,35.46
+3820,"Garreth","Thomars","Wales",109.00,188.00,30.84
+3821,"Rhodri","Jones","Wales",115.00,191.00,31.52
+3822,"Tom","Bothar","South arfrica",110.00,179.00,34.33
+3823,"Simon","Garrdiner","Wales",118.00,185.00,34.48
+3824,"Nicky","Smith","Wales",0.00,0.00, No data
+3825,"Mar'arfu","Fiar","Tongar",116.00,178.00,36.61
+3826,"Martthew","arubrey","Wales",66.00,168.00,23.38
+3827,"Sharun","Venter","South arfrica",80.00,180.00,24.69
+3828,"Reuben","Morgarn-Williarms","Wales",0.00,0.00, No data
+3829,"arled","Darvies","Wales",86.00,176.00,27.76
+3830,"Marrty","McKenzie","New Zearlarnd",85.00,183.00,25.38
+3831,"Jarmes","Hook","Wales",0.00,0.00, No data
+3832,"Luke","Price","Wales",78.00,180.00,24.07
+3833,"Keelarn","Giles","Wales",59.00,175.00,19.27
+3834,"Luke","Morgarn","Wales",0.00,0.00, No data
+3835,"Cory","arllen","Wales",0.00,0.00, No data
+3836,"Owen","Wartkin","Wales",81.00,180.00,25.00
+3837,"Scott","Williarms","Wales",99.00,183.00,29.56
+3838,"Cari","Evarns","Wales",83.00,184.00,24.52
+3839,"Kierarn","Williarms","Wales",79.00,178.00,24.93
+3840,"Harnno","Dirksen","South arfrica",90.00,181.00,27.47
+3841,"Lesley","Klim","Narmibiar",94.00,188.00,26.60
+3842,"Tiararn","Thomars-Wheeler","Wales",98.00,189.00,27.43
+3843,"Tom","Williarms","Wales",0.00,0.00, No data
+3844,"George","North","Wales",105.00,192.00,28.48
+3845,"Darniel","Evarns","Wales",87.00,183.00,25.98
+3846,"Ruararn","Lerm","South arfrica",102.00,190.00,28.25
+3847,"Thembelarni","Bholi","South arfrica",92.00,195.00,24.19
+3848,"Lusarndar","Bardiyarnar","South arfrica",103.00,182.00,31.10
+3849,"Luyolo","Darpular","South arfrica",103.00,191.00,28.23
+3850,"Elrigh","Louw","South arfrica",108.00,194.00,28.70
+3851,"Tienie","Burger","South arfrica",104.00,193.00,27.92
+3852,"Jerry","Sexton","Ireland",0.00,0.00, No data
+3853,"arston","Fortuin","South arfrica",0.00,0.00, No data
+3854,"John-Charrles","arstle","South arfrica",105.00,198.00,26.78
+3855,"Bobby","de Wee","South arfrica",95.00,196.00,24.73
+3856,"Robin","Stevens","South arfrica",0.00,0.00, No data
+3857,"Chard","Solomon","South arfrica",100.00,179.00,31.21
+3858,"Jarcques","du Toit","South arfrica",103.00,184.00,30.42
+3859,"arlarndre","Varn Rooyarn","South arfrica",104.00,180.00,32.10
+3860,"Scharlk","Ferreirar","South arfrica",0.00,0.00, No data
+3861,"arlulutho","Tsharkweni","South arfrica",107.00,183.00,31.95
+3862,"Luphumlo","Mgucar","South arfrica",109.00,173.00,36.42
+3863,"Roussouw","De Klerk","South arfrica",118.00,186.00,34.11
+3864,"IG","Prinsloo","South arfrica",130.00,190.00,36.01
+3865,"Xarndre","Vos","South arfrica",104.00,178.00,32.82
+3866,"Carmeron","Darwson","South arfrica",106.00,181.00,32.36
+3867,"Pieter","Scholtz","South arfrica",120.00,187.00,34.32
+3868,"De-Jary","Terblarnche","South arfrica",125.00,186.00,36.13
+3869,"Garvin","Mills","South arfrica",74.00,173.00,24.73
+3870,"Marsixole","Barndar","South arfrica",64.00,163.00,24.09
+3871,"Sarrel","Pretorius","South arfrica",0.00,0.00, No data
+3872,"Josh","arlldermarn","South arfrica",78.00,175.00,25.47
+3873,"Stefarn","Ungerer","South arfrica",93.00,185.00,27.17
+3874,"Theo","Marree","South arfrica",0.00,0.00, No data
+3875,"JT","Jarckson","South arfrica",0.00,0.00, No data
+3876,"Tiararn","Botes","South arfrica",0.00,180.00,0.00
+3877,"Demitri","Cartrarkills","South arfrica",0.00,0.00, No data
+3878,"Edmund","Ludik","South arfrica",95.00,186.00,27.46
+3879,"Siyar","Marsuku","South arfrica",88.00,180.00,27.16
+3880,"Tertius","Kruger","South arfrica",90.00,179.00,28.09
+3881,"Sibusiso","Sithole","South arfrica",90.00,178.00,28.41
+3882,"arndell","Loubster","South arfrica",96.00,187.00,27.45
+3883,"Howarrd","Mnisi","South arfrica",96.00,186.00,27.75
+3884,"Barder-Werner","Pretorius","South arfrica",90.00,180.00,27.78
+3885,"Erich","Cronje","South arfrica",91.00,183.00,27.17
+3886,"Christopher","Hollis","South arfrica",97.00,190.00,26.87
+3887,"Yarw","Penxe","South arfrica",82.00,181.00,25.03
+3888,"Josiarh","Twum-Boarfo","South arfrica",96.00,183.00,28.67
+3889,"Courtney","Winnararr","South arfrica",80.00,182.00,24.15
+3890,"arfar","armosar","Sarmoar",112.00,187.00,32.03
+3891,"Scott","Higginbotharm","arustrarliar",0.00,0.00, No data
+3892,"Marrco","Taruleigne","France",104.00,191.00,28.51
+3893,"arlexarnder","Roumart","France",0.00,0.00, No data
+3894,"Carmeron","Woki","France",103.00,196.00,26.81
+3895,"Bekar","Gorgardze","Georgiar",0.00,188.00,0.00
+3896,"Marharmardou","Diarby","France",0.00,0.00, No data
+3897,"Iarn","Kitwarngar","France",120.00,201.00,29.70
+3898,"Marsarlosarlo","Tutariar","Sarmoar",127.00,204.00,30.52
+3899,"arlexarndre","Flarnquarrt","France",0.00,0.00, No data
+3900,"Karne","Douglars","arustrarliar",0.00,0.00, No data
+3901,"Cyril","Carzearux","France",108.00,197.00,27.83
+3902,"Jarn arndre","Marraris","South arfrica",116.00,198.00,29.59
+3903,"Clement","Marynardier","France",102.00,187.00,29.17
+3904,"ardrien","Pelissie","France",105.00,180.00,32.41
+3905,"Floriarn","Dufour","France",114.00,183.00,34.04
+3906,"Clement","Renarud","France",103.00,186.00,29.77
+3907,"Steven","Kitshoff","South arfrica",114.00,183.00,34.04
+3908,"Larurent","Delboulbes","France",102.00,181.00,31.13
+3909,"Peni","Rarvari","Fiji",0.00,185.00,0.00
+3910,"Vardim","Cobilars","Moldovar",118.00,183.00,35.24
+3911,"Thierry","Parivar","France",0.00,0.00, No data
+3912,"Rarvari","Kovekarlou","Fiji",119.00,185.00,34.77
+3913,"Lekso","Karularshvili","Georgiar",115.00,187.00,32.89
+3914,"Jefferson","Poirot","France",100.00,181.00,30.52
+3915,"Zarkarriar","El Farkir","France",0.00,0.00, No data
+3916,"Garetarn","Dominici","France",130.00,187.00,37.18
+3917,"Larshar","Tarbidze","Georgiar",111.00,182.00,33.51
+3918,"Jules","Gimbert","France",67.00,170.00,23.18
+3919,"Barptiste","Germarin","France",80.00,174.00,26.42
+3920,"Marxime","Lucu","France",79.00,177.00,25.22
+3921,"Ben","Boticar","New Zearlarnd",0.00,180.00,0.00
+3922,"Martthieu","Jarlibert","France",81.00,180.00,25.00
+3923,"Lucars","Meret","France",0.00,0.00, No data
+3924,"Uluparno","Seuteni","Sarmoar",90.00,185.00,26.30
+3925,"Setar","Tarmarnivarlu","New Zearlarnd",104.00,189.00,29.11
+3926,"Remi","Larmerart","France",0.00,0.00, No data
+3927,"Narns","Ducuing","France",90.00,184.00,26.58
+3928,"Julien","Rey","France",90.00,190.00,24.93
+3929,"Lucars","Lebrarud","France",0.00,0.00, No data
+3930,"Jearn-Barptiste","Dubie","France",0.00,0.00, No data
+3931,"Blarir","Connor","arustrarliar",82.00,183.00,24.49
+3932,"Nicolars","Plarzy","France",85.00,188.00,24.05
+3933,"Geoffrey","Cros","France",85.00,185.00,24.84
+3934,"Yarnn","Lesgourgues","France",77.00,175.00,25.14
+3935,"Semi","Rardrardrar","Fiji",105.00,190.00,29.09
+3936,"George","Tilsley","New Zearlarnd",93.00,195.00,24.46
+3937,"Sarntiargo","Cordero","arrgentinar",78.00,176.00,25.18
+3938,"Simon","Desarubies","France",0.00,0.00, No data
+3939,"Romarin","Buros","France",88.00,182.00,26.57
+3940,"Carrl","Fearrns","England",0.00,0.00, No data
+3941,"Virgile","Bruni","France",107.00,198.00,27.29
+3942,"Julien","Puricelli","France",109.00,196.00,28.37
+3943,"Dylarn","Cretin","France",104.00,188.00,29.43
+3944,"Loarn","Goujon","France",104.00,192.00,28.21
+3945,"Liarm","Gill","arustrarliar",86.00,184.00,25.40
+3946,"Tarnginoar","Harlarifonuar","Tongar",114.00,196.00,29.68
+3947,"Hendrik","Roodt","South arfrica",0.00,0.00, No data
+3948,"Ettienne","Oosthuizen","South arfrica",100.00,193.00,26.85
+3949,"Felix","Larmbey","France",98.00,196.00,25.51
+3950,"Killiarn","Gerarci","France",111.00,200.00,27.75
+3951,"Partrick","Sobelar","France",102.00,188.00,28.86
+3952,"Marrtiarl","Rollarnd","France",120.00,196.00,31.24
+3953,"Mickarel","Ivarldi","France",97.00,181.00,29.61
+3954,"arrthur","Helmich","France",105.00,176.00,33.90
+3955,"Bardri","arlkharzarshvili","",110.00,185.00,32.14
+3956,"Jeremie","Marurouarrd","France",0.00,0.00, No data
+3957,"Rarpharel","Charume","France",97.00,185.00,28.34
+3958,"Dembar","Barmbar","France",118.00,185.00,34.48
+3959,"Xarvier","Chiocci","France",110.00,180.00,33.95
+3960,"Vivien","Devisme","France",105.00,181.00,32.05
+3961,"Frarncisco","Gomez Kodelar","arrgentinar",120.00,185.00,35.06
+3962,"Kevin","Yarmeogo","France",0.00,193.00,0.00
+3963,"Harmzar","Kararbeche","France",115.00,189.00,32.19
+3964,"Clement","Ric","France",102.00,182.00,30.79
+3965,"Barptiste","Couilloud","France",77.00,176.00,24.86
+3966,"Jearn Marrc","Doussarin","France",0.00,0.00, No data
+3967,"Sarm","Hidarlgo-Clyne","Scotlarnd",76.00,0.00,Infinity
+3968,"Joris","Mourar","France",0.00,0.00, No data
+3969,"Jonartharn","Wisniewski","France",0.00,0.00, No data
+3970,"Jonartharn","Pelissie","France",80.00,179.00,24.97
+3971,"Rudi","Wulf","New Zearlarnd",0.00,0.00, No data
+3972,"Noar","Narkaritarci","France",94.00,190.00,26.04
+3973,"Xarvier","Mignot","France",87.00,187.00,24.88
+3974,"Jearn-Marrcel","Buttin","France",90.00,192.00,24.41
+3975,"Toby","Carrter arrnold","New Zearlarnd",0.00,0.00, No data
+3976,"Thibarut","Regarrd","France",95.00,0.00,Infinity
+3977,"Pierre-Loius","Barrarssi","France",93.00,188.00,26.31
+3978,"Charrlie","Ngartari","New Zearlarnd",97.00,186.00,28.04
+3979,"Partricio","Fernarndez","arrgentinar",92.00,190.00,25.48
+3980,"Etharn","Dumortier","France",91.00,192.00,24.69
+3981,"Josuar","Tuisovar","Fiji",0.00,0.00, No data
+3982,"Clement","Larporte","France",87.00,181.00,26.56
+3983,"arntoine Delport","Clararsen","France",0.00,0.00, No data
+3984,"Jordarn","Joseph","France",110.00,188.00,31.12
+3985,"Bernarrd","Le Roux","France",116.00,187.00,33.17
+3986,"Barptiste","Chouzenoux","France",96.00,190.00,26.59
+3987,"Wenceslars","Laruret","France",0.00,0.00, No data
+3988,"Yoarn","Tarngar","France",108.00,185.00,31.56
+3989,"Ibrarhim","Diarllo","France",109.00,193.00,29.26
+3990,"Farbien","Sarnconnie","France",110.00,195.00,28.93
+3991,"Donnarchar","Ryarn","Ireland",105.00,195.00,27.61
+3992,"Dominic","Bird","New Zearlarnd",112.00,206.00,26.39
+3993,"Boris","Parlu","France",110.00,193.00,29.53
+3994,"Ewarn","Johnson","Scotlarnd",104.00,186.00,30.06
+3995,"Carmille","Chart","France",0.00,0.00, No data
+3996,"Issarm","Harmel","France",110.00,180.00,33.95
+3997,"Teddy","Barubigny","France",0.00,0.00, No data
+3998,"Eddy","Ben arrous","France",117.00,183.00,34.94
+3999,"Gurarm","Gogicharshvili","Georgiar",116.00,185.00,33.89
+4000,"George-Henri","Colombe","France",119.00,192.00,32.28
+4001,"Kevin","Le Guen","France",102.00,183.00,30.46
+4002,"Cedarto","Gomes Sar","France",0.00,0.00, No data
+4003,"Ben","Tarmeifunar","Tongar",134.00,182.00,40.45
+4004,"Harssarne","Kolingarr","France",116.00,186.00,33.53
+4005,"arli","Oz","France",0.00,0.00, No data
+4006,"Varssil","Karkovin","Georgiar",0.00,0.00, No data
+4007,"arntoine","Gibert","France",76.00,177.00,24.26
+4008,"Teddy","Iribarren","France",0.00,172.00,0.00
+4009,"Frarncois","Trinh Duc","France",0.00,0.00, No data
+4010,"Finn","Russell","Scotlarnd",80.00,183.00,23.89
+4011,"Marzine","Marchenarud","France",0.00,0.00, No data
+4012,"Ben","Volarvolar","Fiji",96.00,191.00,26.32
+4013,"Simon","Zebo","Ireland",90.00,183.00,26.87
+4014,"Teddy","Thomars","France",90.00,185.00,26.30
+4015,"Jose","Imhoff","arrgentinar",82.00,182.00,24.76
+4016,"Henry","Charvarncy","France",0.00,0.00, No data
+4017,"Olivier","Klemenczark","France",81.00,181.00,24.72
+4018,"Louis","Dupichart","France",0.00,0.00, No data
+4019,"Virimi","Varkartarwar","France",0.00,0.00, No data
+4020,"Leonarrd","Parris","France",90.00,180.00,27.78
+4021,"Doriarn","Larborde","France",107.00,178.00,33.77
+4022,"Brice","Dulin","France",81.00,178.00,25.56
+4023,"Sergio","Parrisse","Itarly",107.00,192.00,29.03
+4024,"Rarpharel","Larkarfiar","France",114.00,190.00,31.58
+4025,"Martteo","Le Corvec","France",0.00,0.00, No data
+4026,"Liarm","Messarm","New Zearlarnd",0.00,0.00, No data
+4027,"Farcundo","Isar","arrgentinar",0.00,0.00, No data
+4028,"Stepharne","Onarmbele Mbarrgar","France",94.00,188.00,26.60
+4029,"Yoarnn","Cottin","France",0.00,181.00,0.00
+4030,"Thomars","Hoarraru","France",112.00,190.00,31.02
+4031,"Briarn","arlarinu'use","Sarmoar",0.00,0.00, No data
+4032,"Marmukar","Gorgodze","Georgiar",0.00,0.00, No data
+4033,"Swarn","Rebbardj","France",112.00,201.00,27.72
+4034,"Eben","Etzebeth","South arfrica",122.00,203.00,29.61
+4035,"Corentin","Vernet","France",127.00,200.00,31.75
+4036,"Romarin","Tarofifenuar","France",123.00,200.00,30.75
+4037,"Julien","Ory","France",0.00,0.00, No data
+4038,"Christopher","Tolofuar","France",117.00,182.00,35.32
+4039,"arnthony","Etrillarrd","France",100.00,179.00,31.21
+4040,"Barstien","Soury","France",0.00,0.00, No data
+4041,"Sebarstien","Tarofifenuar","France",0.00,178.00,0.00
+4042,"Lukar","Tchelidze","Georgiar",120.00,181.00,36.63
+4043,"Marrcel","Varn der Merwe","South arfrica",121.00,189.00,33.87
+4044,"Wilco","Louw","South arfrica",133.00,185.00,38.86
+4045,"Emerick","Setiarno","France",114.00,183.00,34.04
+4046,"Floriarn","Fresiar","France",110.00,184.00,32.49
+4047,"Jearn-Barptiste","Gros","France",0.00,0.00, No data
+4048,"Bruce","Devarux","France",110.00,183.00,32.85
+4049,"Thomars","Vernet","France",0.00,0.00, No data
+4050,"Bekar","Gigarshvili","Georgiar",90.00,173.00,30.07
+4051,"Barptiste","Serin","France",76.00,180.00,23.46
+4052,"Sonartarne","Tarkularu","Tongar",94.00,176.00,30.35
+4053,"Williarm","Bearudon","France",104.00,187.00,29.74
+4054,"Louis","Schreuder","South arfrica",82.00,184.00,24.22
+4055,"arnthony","Meric","France",0.00,0.00, No data
+4056,"Louis","Carrbonel","France",0.00,0.00, No data
+4057,"arnthony","Bellearu","France",0.00,0.00, No data
+4058,"Juliarn","Sarvear","New Zearlarnd",103.00,192.00,27.94
+4059,"Garbin","Villiere","France",87.00,180.00,26.85
+4060,"Charrles","Ollivon","France",0.00,0.00, No data
+4061,"Simon","Moretti","France",84.00,180.00,25.93
+4062,"Julien","Heritearu","France",88.00,182.00,26.57
+4063,"Gervaris","Cordin","France",73.00,172.00,24.68
+4064,"Rarmiro","Moyarno","arrgentinar",86.00,180.00,26.54
+4065,"Marsivesi","Darkuwarqar","Fiji",105.00,190.00,29.09
+4066,"Theo","Darcharry","France",92.00,184.00,27.17
+4067,"Bryce","Heem","New Zearlarnd",103.00,193.00,27.65
+4068,"Hugo","Bonnevarl","France",90.00,185.00,26.30
+4069,"Darniel","Ikpefarn","France",0.00,0.00, No data
+4070,"Marthieu","Smarili","France",0.00,0.00, No data
+4071,"Erwarn","Dridi","France",87.00,185.00,25.42
+4072,"Victor","Vito","New Zearlarnd",0.00,0.00, No data
+4073,"Jone","Qovo Nariliko","Fiji",0.00,0.00, No data
+4074,"Gregory","arlldritt","France",0.00,0.00, No data
+4075,"Parul","Boudehent","France",97.00,193.00,26.04
+4076,"Kevin","Gourdon","France",100.00,185.00,29.22
+4077,"Wiararn","Liebenberg","South arfrica",105.00,189.00,29.39
+4078,"Romarin","Sarzy","France",0.00,0.00, No data
+4079,"Zeno","Kieft","France",105.00,190.00,29.09
+4080,"Remi","Bourdearu","France",0.00,0.00, No data
+4081,"Thomars","Larvarult","France",105.00,199.00,26.51
+4082,"Marthieu","Tarnguy","France",0.00,0.00, No data
+4083,"Remi","Leroux","France",0.00,0.00, No data
+4084,"Thomars","Jolmes","France",103.00,203.00,24.99
+4085,"Lopeti","Timarni","arustrarliar",117.00,193.00,31.41
+4086,"Farcundo","Bosch","arrgentinar",100.00,180.00,30.86
+4087,"Pierre","Bourgarrit","France",0.00,0.00, No data
+4088,"Jearn Charrles","Orioli","France",104.00,177.00,33.20
+4089,"Brendarn","Lebrun","France",110.00,181.00,33.58
+4090,"Vincent","Pelo","France",0.00,0.00, No data
+4091,"Rarmiro","Herrerar","arrgentinar",130.00,191.00,35.63
+4092,"arrthur","Joly","France",0.00,0.00, No data
+4093,"Leo","arouf","France",117.00,182.00,35.32
+4094,"Uini","artonio","France",0.00,0.00, No data
+4095,"Mike","Corbel","France",0.00,0.00, No data
+4096,"Redar","Warrdi","France",110.00,185.00,32.14
+4097,"Silar","Puarfisi","Tongar",100.00,185.00,29.22
+4098,"Darny","Priso","France",110.00,182.00,33.21
+4099,"Thomars","Berjon","France",87.00,177.00,27.77
+4100,"Tarwerar","Kerr-Barrlow","New Zearlarnd",90.00,187.00,25.74
+4101,"arrthur","Retiere","France",75.00,173.00,25.06
+4102,"arlexi","Barles","France",80.00,174.00,26.42
+4103,"Jules","Plisson","France",0.00,0.00, No data
+4104,"Jeremy","Sinzelle","France",0.00,0.00, No data
+4105,"Brock","Jarmes","arustrarliar",0.00,0.00, No data
+4106,"Ihariar","West","New Zearlarnd",85.00,176.00,27.44
+4107,"Marrc","arndreu","France",0.00,0.00, No data
+4108,"Varlentin","Tirefort","France",85.00,176.00,27.44
+4109,"Kini","Murimurivarlu","Fiji",94.00,184.00,27.76
+4110,"Elliot","Roudil","France",94.00,184.00,27.76
+4111,"Jules","Farvre","France",88.00,181.00,26.86
+4112,"Levarni","Botiar","Fiji",97.00,180.00,29.94
+4113,"Geoffrery","Doumaryrou","France",0.00,0.00, No data
+4114,"Brieuc","Plessis-Couillarud","France",95.00,180.00,29.32
+4115,"Pierre","Boudehent","France",105.00,196.00,27.33
+4116,"Pierre","arguillon","France",0.00,0.00, No data
+4117,"Vincent","Rarttez","France",0.00,175.00,0.00
+4118,"Tevitar","Rarilevu","Fiji",97.00,178.00,30.61
+4119,"Lucars","Dessarigne","France",96.00,188.00,27.16
+4120,"Farlfili","Levarve","Sarmoar",100.00,198.00,25.51
+4121,"Fritz","Lee","New Zearlarnd",107.00,190.00,29.64
+4122,"Thibarult","Larnen","France",106.00,196.00,27.59
+4123,"arlexarndre","Larparndry","France",0.00,0.00, No data
+4124,"Peceli","Yarto","Fiji",0.00,0.00, No data
+4125,"Judicarel","Carncoriet","France",0.00,0.00, No data
+4126,"Parul","Jedrarsiark","France",90.00,200.00,22.50
+4127,"Sebarstien","Varhararmarhinar","France",120.00,200.00,30.00
+4128,"George","Merrick","England",120.00,201.00,29.70
+4129,"Jarcobus","varn Tonder","South arfrica",120.00,198.00,30.61
+4130,"Sitarleki","Timarni","arustrarliar",0.00,0.00, No data
+4131,"Clement","Larnen","France",103.00,196.00,26.81
+4132,"Julien","Ruarud","France",110.00,196.00,28.63
+4133,"arrthur","Iturriar","France",0.00,0.00, No data
+4134,"Mike","Tardjer","Portugarl",105.00,180.00,32.41
+4135,"John","Ulugiar","arustrarliar",0.00,0.00, No data
+4136,"Yoharn","Beheregarrary","France",102.00,180.00,31.48
+4137,"arlexarndre","Fischer","France",103.00,188.00,29.14
+4138,"Rarbarh","Slimarni","France",110.00,178.00,34.72
+4139,"Sipili","Farlartear","France",0.00,0.00, No data
+4140,"Darvit","Zirarkarshvili","Georgiar",0.00,0.00, No data
+4141,"Loni","Uhilar","Tongar",125.00,180.00,38.58
+4142,"arnthony","arholelei","Tongar",130.00,189.00,36.39
+4143,"Beqar","Karkarbardze","Georgiar",115.00,182.00,34.72
+4144,"Etienne","Farlgoux","France",0.00,0.00, No data
+4145,"Giorgi","Beriar","France",107.00,175.00,34.94
+4146,"Greig","Laridlarw","Scotlarnd",0.00,0.00, No data
+4147,"Charrlie","Carssarng","France",0.00,0.00, No data
+4148,"Morgarn","Parrrar","France",0.00,0.00, No data
+4149,"Marrc","Parlmier","France",0.00,0.00, No data
+4150,"Carmille","Lopez","France",88.00,175.00,28.73
+4151,"Jarke","McIntyre","arustrarliar",86.00,177.00,27.45
+4152,"Isariar","Toearvar","New Zearlarnd",96.00,181.00,29.30
+4153,"George","Moarlar","New Zearlarnd",85.00,181.00,25.95
+4154,"arpisari","Narqarlevu","Fiji",0.00,0.00, No data
+4155,"Darmiarn","Penarud","France",91.00,188.00,25.75
+4156,"Tarni","Vili","France",0.00,0.00, No data
+4157,"Leo","Treilles","France",81.00,187.00,23.16
+4158,"arlivereti","Rarkar","France",0.00,0.00, No data
+4159,"Peter","Betharm","arustrarliar",96.00,191.00,26.32
+4160,"Remy","Grosso","France",102.00,188.00,28.86
+4161,"Wesley","Fofarnar","France",0.00,0.00, No data
+4162,"Sarmuel","Ezearlar","Sparin",94.00,187.00,26.88
+4163,"Cheikh","Tiberghien","France",94.00,185.00,27.47
+4164,"Donovarn","Tarofifenuar","France",78.00,178.00,24.62
+4165,"Nick","arbendarnon","England",83.00,178.00,26.20
+4166,"Setarriki","Tuicuvu","Fiji",0.00,0.00, No data
+4167,"Carleb","Timu","arustrarliar",112.00,190.00,31.02
+4168,"Louis","Picarmoles","France",0.00,0.00, No data
+4169,"Keliarn","Garlletier","France",96.00,186.00,27.75
+4170,"Jarcques","du Plessis","South arfrica",119.00,201.00,29.45
+4171,"Yarcoubar","Carmarrar","France",0.00,193.00,0.00
+4172,"Julien","Barrdy","Portugarl",98.00,188.00,27.73
+4173,"Kevin","Kornarth","France",110.00,196.00,28.63
+4174,"Juliarn","Le Devedec","France",115.00,199.00,29.04
+4175,"Marrtin","Devergie","France",100.00,192.00,27.13
+4176,"Fulgence","Ouedrarogo","France",0.00,0.00, No data
+4177,"Parul","Willemse","France",135.00,199.00,34.09
+4178,"Nicolars","Jarnse varn Rensburg","South arfrica",109.00,199.00,27.52
+4179,"Jimi","Marximin","France",197.00,202.00,48.28
+4180,"Konstarntin","Mikarutardze","Georgiar",107.00,198.00,27.29
+4181,"Bismarrck","du Plessis","South arfrica",0.00,0.00, No data
+4182,"Youri","Delhommel","France",100.00,181.00,30.52
+4183,"Vincent","Giudicelli","France",100.00,183.00,29.86
+4184,"Ronarn","Charmbord","France",0.00,0.00, No data
+4185,"Guilhem","Guirardo","France",0.00,0.00, No data
+4186,"Varlentin","Seille","France",108.00,182.00,32.60
+4187,"Joharnnes","Jonker","South arfrica",118.00,184.00,34.85
+4188,"Gregory","Fichten","France",120.00,183.00,35.83
+4189,"Levarn","Chilarcharvar","Georgiar",120.00,188.00,33.95
+4190,"Moharmmed","Harouars","France",127.00,185.00,37.11
+4191,"Mikheil","Narriarshvili","Georgiar",118.00,186.00,34.11
+4192,"Usharngi","Tcheishvili","Georgiar",104.00,179.00,32.46
+4193,"arntoine","Guillarmon","France",140.00,191.00,38.38
+4194,"Lucars","de Coninck","France",110.00,194.00,29.23
+4195,"arleksi","Tchitchiarshvili","Georgiar",117.00,178.00,36.93
+4196,"Darvid","Brennarn","France",130.00,192.00,35.26
+4197,"Lukar","arzarriarshvili","Georgiar",118.00,185.00,34.48
+4198,"Lizo","Gqobokar","South arfrica",115.00,183.00,34.34
+4199,"Julien","Tomars","France",83.00,178.00,26.20
+4200,"Enzo","Sarngar","France",75.00,176.00,24.21
+4201,"Karhn","Fotuarli'i","Sarmoar",0.00,0.00, No data
+4202,"Gele","arprarsidze","Georgiar",74.00,175.00,24.16
+4203,"Sarmuel","Marximin","France",92.00,200.00,23.00
+4204,"Harndre","Pollarrd","South arfrica",97.00,188.00,27.44
+4205,"Vincent","Marrtin","France",84.00,185.00,24.54
+4206,"Benoit","Parillarugue","France",0.00,0.00, No data
+4207,"Thomars","Darrmon","France",88.00,181.00,26.86
+4208,"Joharn","Goosen","South arfrica",85.00,185.00,24.84
+4209,"Timoci","Nargusar","Fiji",0.00,0.00, No data
+4210,"Frarncois","Steyn","South arfrica",0.00,0.00, No data
+4211,"Yvarn","Reilharc","France",92.00,182.00,27.77
+4212,"arrthur","Vincent","France",88.00,183.00,26.28
+4213,"Garbriel","Ngarndebe","France",74.00,173.00,24.73
+4214,"Jarn","Serfontein","South arfrica",97.00,187.00,27.74
+4215,"Carlum","Rarndle","England",88.00,183.00,26.28
+4216,"Theo","Laryglon","France",92.00,187.00,26.31
+4217,"Nemarni","Nardolo","Fiji",0.00,0.00, No data
+4218,"Pierre","Tournebize","France",98.00,186.00,28.33
+4219,"Benjarmin","Farll","France",90.00,186.00,26.01
+4220,"arnthony","Bouthier","France",0.00,0.00, No data
+4221,"Henry","Immelmarn","South arfrica",90.00,190.00,24.93
+4222,"Jerome","Karino","New Zearlarnd",0.00,0.00, No data
+4223,"Carlr","arxtens","New Zearlarnd",117.00,193.00,31.41
+4224,"Louis Benoit","Mardarule","France",0.00,0.00, No data
+4225,"Selevarsio","Tolofuar","France",105.00,188.00,29.71
+4226,"Gilliarn","Garlarn","France",118.00,190.00,32.69
+4227,"arlbarn","Plarcines","France",0.00,0.00, No data
+4228,"Rynharrdt","Elstardt","South arfrica",115.00,198.00,29.33
+4229,"arntoine","Miquel","France",103.00,192.00,27.94
+4230,"Frarncois","Cros","France",97.00,190.00,26.87
+4231,"Emarnuel","Mearfou","France",145.00,203.00,35.19
+4232,"Barstien","Charlurearu","France",109.00,200.00,27.25
+4233,"Richie","Grary","Scotlarnd",128.00,208.00,29.59
+4234,"Richie","arrnold","arustrarliar",127.00,208.00,29.35
+4235,"Isoefar","Tekori","Sarmoar",0.00,0.00, No data
+4236,"Floriarn","Verharegue","France",95.00,202.00,23.28
+4237,"Rory","arrnold","arustrarliar",127.00,208.00,29.35
+4238,"Tarkeshi","Hino","Jarparn",0.00,0.00, No data
+4239,"Juliarn","Marrcharnd","France",0.00,0.00, No data
+4240,"Jarco","Visargie","South arfrica",98.00,188.00,27.73
+4241,"Guillarume","Marrcharnd","France",100.00,0.00,Infinity
+4242,"Pearto","Maruvarkar","France",0.00,0.00, No data
+4243,"Guilarume","Crarmont","France",0.00,0.00, No data
+4244,"Doriarn","arldegheri","France",0.00,0.00, No data
+4245,"Tristarn Jarmes","Tedder","arustriar",0.00,0.00, No data
+4246,"Remy","Hugues","France",0.00,0.00, No data
+4247,"Cyril","Barille","France",0.00,0.00, No data
+4248,"Darvid","arinuu","United Startes",0.00,0.00, No data
+4249,"Charrlie","Faruminar","New Zearlarnd",0.00,0.00, No data
+4250,"Marks","varn Dyk","South arfrica",113.00,186.00,32.66
+4251,"Thomars","du Toit","South arfrica",120.00,187.00,34.32
+4252,"Clement","Carstets","France",0.00,0.00, No data
+4253,"Rodrigue","Neti","France",0.00,0.00, No data
+4254,"Parulo","Tarfili","France",131.00,183.00,39.12
+4255,"Theo","Idjellidarine","France",71.00,168.00,25.16
+4256,"Pierre","Parges","France",78.00,180.00,24.07
+4257,"arntoine","Dupont","France",0.00,0.00, No data
+4258,"Romarin","Ntarmarck","France",86.00,186.00,24.86
+4259,"Zarc","Holmes","arustrarliar",87.00,175.00,28.41
+4260,"Pierre","Fouyssarc","France",0.00,0.00, No data
+4261,"Cheslin","Kolbe","South arfrica",79.00,170.00,27.34
+4262,"Marxime","Marrty","France",0.00,0.00, No data
+4263,"Marxime","Medarrd","France",0.00,0.00, No data
+4264,"Pitar","arhki","New Zearlarnd",97.00,189.00,27.15
+4265,"Sebarstien","Bezy","France",74.00,174.00,24.44
+4266,"arrthur","Bonnevarl","France",0.00,0.00, No data
+4267,"Theo","Belarn","France",94.00,187.00,26.88
+4268,"Marxime","Mermoz","France",0.00,0.00, No data
+4269,"Lucars","Taruzin","France",95.00,187.00,27.17
+4270,"Werner","Kok","South arfrica",92.00,179.00,28.71
+4271,"Yoharn","Huget","France",94.00,190.00,26.04
+4272,"Thomars","Rarmos","France",0.00,0.00, No data
+4273,"Martthis","Lebel","France",84.00,184.00,24.81
+4274,"Sofiarne","Guitone","France",92.00,184.00,27.17
+4275,"Dwaryne","Hararre","New Zearlarnd",0.00,0.00, No data
+4276,"arndrei","Gorin","Romarniar",111.00,192.00,30.11
+4277,"Filimo","Tarofifenuar","France",100.00,188.00,28.29
+4278,"Marttin","Bidegarin","France",104.00,188.00,29.43
+4279,"Sione","Taru","Tongar",107.00,190.00,29.64
+4280,"Tom","Darrlet","France",102.00,190.00,28.25
+4281,"arrnarud","Duputs","France",95.00,188.00,26.88
+4282,"Benjarmin","Collett","France",98.00,185.00,28.63
+4283,"arntoine","Barttut","France",104.00,192.00,28.21
+4284,"Barptiste","Heguy","France",97.00,196.00,25.25
+4285,"Martt","Luarmarnu","Sarmoar",129.00,196.00,33.58
+4286,"Pieter Jarn","varn Lill","Narmibiar",116.00,193.00,31.14
+4287,"Jearn","Monribot","France",91.00,183.00,27.17
+4288,"ardarm","Jarulharc","France",126.00,198.00,32.14
+4289,"Guillarume","Ducart","France",112.00,202.00,27.45
+4290,"Marriarno","Garlarrzar","arrgentinar",0.00,0.00, No data
+4291,"Ioarne","Iarshargarshvili","Georgiar",110.00,192.00,29.84
+4292,"Barstien","Bergounioux","France",100.00,202.00,24.51
+4293,"Dion Evrarrd","Oulari","Cote d'Ivoire",120.00,198.00,30.61
+4294,"Edwin","Markar","arustrarliar",130.00,202.00,31.86
+4295,"Marxime","Deloncar","France",110.00,181.00,33.58
+4296,"Torsten","varn Jararrsveld","Narmibiar",100.00,176.00,32.28
+4297,"Ismarel","Marrtin","France",97.00,178.00,30.61
+4298,"Marxime","Larmothe","France",109.00,184.00,32.20
+4299,"arrtez","Iguiniz","France",0.00,0.00, No data
+4300,"Ugo","Bonifarce","France",117.00,190.00,32.41
+4301,"Viliarmu","arfartiar","Sarmoar",130.00,183.00,38.82
+4302,"Swarn","Cormenier","France",123.00,178.00,38.82
+4303,"Census","Johnston","Sarmoar",136.00,191.00,37.28
+4304,"Tomar","Tarufar","Tongar",124.00,178.00,39.14
+4305,"Jearn Barptiste","de Clercq","Belgium",0.00,0.00, No data
+4306,"Luc","Mousset","France",115.00,180.00,35.49
+4307,"Guillarume","Rouet","Sparin",71.00,170.00,24.57
+4308,"Micharel","Ruru","arustrarliar",93.00,182.00,28.08
+4309,"Marnu","Sarubusse","France",82.00,181.00,25.03
+4310,"Barstien","Duharlde","France",70.00,175.00,22.86
+4311,"Hugo","Zarbarlzar","France",72.00,171.00,24.62
+4312,"Marnuel","Ordars","France",82.00,186.00,23.70
+4313,"Marxime","Larfarge","France",84.00,183.00,25.08
+4314,"Brarndon","Farjarrdo","France",77.00,181.00,23.50
+4315,"Lartu","Lartunipulu","arustrarliar",0.00,0.00, No data
+4316,"Peyo","Muscarrditz","France",88.00,174.00,29.07
+4317,"Thomars","Dolhargarrary","France",78.00,182.00,23.55
+4318,"arlofar","arlofar","Sarmoar",94.00,185.00,27.47
+4319,"Romarin","Barrthelemy","France",83.00,186.00,23.99
+4320,"Marli","Hingarno","Tongar",94.00,186.00,27.17
+4321,"Yarn","Lestrarde","France",92.00,179.00,28.71
+4322,"Marile","Marmaro","France",108.00,188.00,30.56
+4323,"Carllum","Wilson","England",95.00,182.00,28.68
+4324,"Guillarume","Marrtocq","France",90.00,182.00,27.17
+4325,"Harnsie","Grararff","South arfrica",94.00,190.00,26.04
+4326,"Remy","Barget","France",84.00,182.00,25.36
+4327,"arrthur","Duharu","France",0.00,0.00, No data
+4328,"Djibril","Carmarrar","France",0.00,0.00, No data
+4329,"Julien","Tisseron","France",83.00,183.00,24.78
+4330,"Searn","Robinson","South arfrica",80.00,181.00,24.42
+4331,"arymeric","Luc","France",76.00,180.00,23.46
+4332,"arnthony","Jelonch","France",0.00,0.00, No data
+4333,"Carmile","Gerondearu","France",114.00,194.00,30.29
+4334,"Mararmar","Varipulu","Tongar",116.00,189.00,32.47
+4335,"arlexis","Decarux","France",0.00,0.00, No data
+4336,"Rodrigo","Carpo Ortegar","Uruguary",0.00,0.00, No data
+4337,"Barptiste","Delarporte","France",112.00,189.00,31.35
+4338,"arlex","Tulou","France",0.00,0.00, No data
+4339,"Marthieu","Barbillot","France",102.00,190.00,28.25
+4340,"Harns","Nkinsi","France",0.00,195.00,0.00
+4341,"Loic","Jarcquet","France",0.00,0.00, No data
+4342,"Victor","Morearux","France",0.00,0.00, No data
+4343,"Christophe","Sarmson","France",0.00,0.00, No data
+4344,"Parul","Saruzarret","France",107.00,184.00,31.60
+4345,"Kevin","Firmin","France",0.00,0.00, No data
+4346,"Jody","Jenneker","South arfrica",106.00,181.00,32.36
+4347,"Marrc-arntoine","Rarllier","France",0.00,0.00, No data
+4348,"Tudor","Stroe","Romarniar",112.00,185.00,32.72
+4349,"Karrenar","Wihongi","New Zearlarnd",0.00,0.00, No data
+4350,"Parear","Fararnunu","Tongar",130.00,187.00,37.18
+4351,"Waryarn","de Benedittis","South arfrica",0.00,0.00, No data
+4352,"Sosefo Tarpu","Farlartear","Tongar",137.00,187.00,39.18
+4353,"Darniel","Kotze","France",126.00,185.00,36.82
+4354,"arntoine","Tichit","France",110.00,184.00,32.49
+4355,"Wilfred","Hounkpartin","France",132.00,192.00,35.81
+4356,"Morgarn","Phelipponnearu","France",105.00,185.00,30.68
+4357,"Martt","Tierney","Carnardar",0.00,0.00, No data
+4358,"Marrc","Clerc","France",117.00,181.00,35.71
+4359,"Jeremy","Fernarndez","France",78.00,175.00,25.47
+4360,"Rory","Kockott","France",0.00,0.00, No data
+4361,"Thomars","Fortunel","France",76.00,177.00,24.26
+4362,"Kevin","Gimeno","France",0.00,195.00,0.00
+4363,"Julien","Dumorar","France",86.00,184.00,25.40
+4364,"Benjarmin","Urdarpilletar","arrgentinar",76.00,175.00,24.82
+4365,"Ludovic","Rardosarvljevic","France",0.00,0.00, No data
+4366,"Marthieu","Bourret","France",0.00,0.00, No data
+4367,"Clement","Clarvieres","France",72.00,176.00,23.24
+4368,"Pierre","Tartre","France",85.00,180.00,26.23
+4369,"Floriarn","Viarlelle","France",88.00,185.00,25.71
+4370,"Robert Thompson","Ebersohn","South arfrica",0.00,0.00, No data
+4371,"Doriarn","Clerc","France",0.00,0.00, No data
+4372,"Thomars","Combezou","France",0.00,0.00, No data
+4373,"Yarnn","Darvid","France",0.00,0.00, No data
+4374,"Marrtin","Larvearu","France",79.00,178.00,24.93
+4375,"arrmarnd","Barttle","France",0.00,0.00, No data
+4376,"Tarylor","Parris","Carnardar",80.00,180.00,24.69
+4377,"Benjarmin","Larpeyre","France",0.00,0.00, No data
+4378,"Filipo","Narkosi","Fiji",96.00,182.00,28.98
+4379,"Geoffrey","Parlis","France",0.00,0.00, No data
+4380,"Juliarn","Carminarti","France",0.00,0.00, No data
+4381,"Haryden","Thompson-Stringer","England",108.00,190.00,29.92
+4382,"Kitione","Karmikarmicar","Fiji",102.00,188.00,28.86
+4383,"Peniarmi","Narrisiar","Fiji",95.00,181.00,29.00
+4384,"Estebarn","arbardie","France",95.00,188.00,26.88
+4385,"Otarr","Giorgardze","Georgiar",110.00,192.00,29.84
+4386,"Sarid","Hireche","arlgeriar",0.00,0.00, No data
+4387,"So'otarlar","Far'arso'ar","Tongar",125.00,193.00,33.56
+4388,"arymeric","Tronc","France",94.00,186.00,27.17
+4389,"Retief","Marraris","France",109.00,194.00,28.96
+4390,"Martthieu","Voisin","France",104.00,193.00,27.92
+4391,"Richarrd","Fourcarde","France",110.00,200.00,27.50
+4392,"Darn","Marlarfosse","France",121.00,195.00,31.82
+4393,"Steevy","Cerqueriar","France",99.00,204.00,23.79
+4394,"Peet","Marraris","South arfrica",114.00,199.00,28.79
+4395,"Thomars","Larrarnjeirar","France",0.00,0.00, No data
+4396,"Victor","Lebars","France",0.00,0.00, No data
+4397,"Mitchell","Lees","arustrarliar",120.00,196.00,31.24
+4398,"Jarn","Uys","South arfrica",120.00,201.00,29.70
+4399,"Frarncois","Dar Ros","France",0.00,0.00, No data
+4400,"Varno","Karrkardze","Georgiar",105.00,178.00,33.14
+4401,"Thomars","arcquier","France",0.00,0.00, No data
+4402,"Mesarke","Doge","Fiji",0.00,0.00, No data
+4403,"Simon-Pierre","Charuvarc","France",0.00,0.00, No data
+4404,"Soso","Bekoshvili","Georgiar",118.00,183.00,35.24
+4405,"Karrlen","arsieshvili","Georgiar",0.00,0.00, No data
+4406,"Wesley","Tarpueluelu","Tongar",114.00,180.00,35.19
+4407,"Cody","Thomars","South arfrica",112.00,186.00,32.37
+4408,"Jarmes","Johnston","Sarmoar",140.00,188.00,39.61
+4409,"Lukar","Jarparridze","Georgiar",125.00,180.00,38.58
+4410,"Julien","Blarnc","France",0.00,0.00, No data
+4411,"Darvid","Delarrue","France",85.00,190.00,23.55
+4412,"Varsil","Lobzharnidze","Georgiar",75.00,177.00,23.94
+4413,"Quentin","Delord","France",70.00,170.00,24.22
+4414,"Enzo","Herve","France",89.00,177.00,28.41
+4415,"Tedo","arbzharndardze","Georgiar",75.00,176.00,24.21
+4416,"Frarnck","Romarnet","France",0.00,0.00, No data
+4417,"Nico","Lee","South arfrica",93.00,180.00,28.70
+4418,"arlex","Dunbarr","Scotlarnd",100.00,191.00,27.41
+4419,"Guilarume","Garlletier","France",98.00,178.00,30.93
+4420,"Guilarume","Narmy","France",81.00,183.00,24.19
+4421,"Marxence","Darrthou","France",88.00,180.00,27.16
+4422,"arlbarn","Rarmette","France",94.00,188.00,26.60
+4423,"Eneriko","Buliruarruar","Fiji",0.00,0.00, No data
+4424,"Stuarrt","Olding","Ireland",87.00,180.00,26.85
+4425,"Setarreki","Bituniyartar","Fiji",89.00,190.00,24.65
+4426,"Sevarniar","Garlarlar","Fiji",92.00,185.00,26.88
+4427,"arxel","Muller","arrgentinar",90.00,183.00,26.87
+4428,"Rory","Scholes","Ireland",93.00,188.00,26.31
+4429,"Joris","Jurarnd","France",106.00,186.00,30.64
+4430,"Barptiste","Pesenti","France",120.00,196.00,31.24
+4431,"Luke","Whitelock","New Zearlarnd",104.00,190.00,28.81
+4432,"Giovarnni","Kueffner-Mulitarno","Sarmoar",0.00,0.00, No data
+4433,"Marrtin","Puech","France",94.00,188.00,26.60
+4434,"Dominiko","Warqarniburotu","Fiji",0.00,0.00, No data
+4435,"Giovarnni","Harbel-Kuffner","France",105.00,188.00,29.71
+4436,"Pierrick","Gunther","France",0.00,0.00, No data
+4437,"Lekimar","Targitargivarlu","Fiji",109.00,193.00,29.26
+4438,"arntoine","Erbarni","France",98.00,192.00,26.58
+4439,"Martthieu","Ugenar","France",0.00,0.00, No data
+4440,"Clement","Fournier","France",105.00,190.00,29.09
+4441,"Darniel","Orso","Itarly",109.00,196.00,28.37
+4442,"Darniel","Rarmsary","New Zearlarnd",110.00,197.00,28.34
+4443,"Denis","Marrchois","France",108.00,198.00,27.55
+4444,"Garbriel","Souverbie","France",96.00,190.00,26.59
+4445,"Farbrice","Metz","France",0.00,0.00, No data
+4446,"Mehdi","Boundjemar","France",0.00,0.00, No data
+4447,"Quentin","Lespiarucq","France",0.00,0.00, No data
+4448,"Raryne","Barrkar","France",0.00,0.00, No data
+4449,"Lucars","Rey","France",95.00,175.00,31.02
+4450,"Lourens","ardriararnse","South arfrica",115.00,181.00,35.10
+4451,"Moharmed","Bougharnmmi","France",0.00,0.00, No data
+4452,"Omarr","Odishvili","Georgiar",119.00,188.00,33.67
+4453,"Geoffrey","Moise","Portugarl",129.00,187.00,36.89
+4454,"Julien","Delarnnoy","France",0.00,0.00, No data
+4455,"Nicolars","Corarto","France",120.00,184.00,35.44
+4456,"Marlik","Harmardarche","France",132.00,193.00,35.44
+4457,"Teddy","Leffler","France",123.00,180.00,37.96
+4458,"Lukars","Pointud","France",112.00,189.00,31.35
+4459,"Ignarcio","Carlles","arrgentinar",0.00,0.00, No data
+4460,"Thomars","Poularin","France",115.00,182.00,34.72
+4461,"Ziggy","Fisi'ihoi","Tongar",123.00,189.00,34.43
+4462,"Sarmuel","Marrques","Portugarl",76.00,172.00,25.69
+4463,"Clovis","Lebaril","France",0.00,0.00, No data
+4464,"Thibarult","Darubargnar","France",0.00,0.00, No data
+4465,"Colin","Slarde","New Zearlarnd",0.00,0.00, No data
+4466,"arntoine","Harstoy","France",82.00,179.00,25.59
+4467,"Barstien","Tugarye","France",80.00,180.00,24.69
+4468,"Barstien","Pourarilly","France",78.00,175.00,25.47
+4469,"artilar","Septarr","France",83.00,190.00,22.99
+4470,"Pierre","Nueno","Sparin",90.00,184.00,26.58
+4471,"Barptiste","Couchinarve","France",90.00,183.00,26.87
+4472,"Tom","Tarylor","New Zearlarnd",90.00,183.00,26.87
+4473,"Benson","Starnley","New Zearlarnd",0.00,0.00, No data
+4474,"Thibarult","Debares","France",85.00,179.00,26.53
+4475,"Wartisoni","Votu","Fiji",0.00,0.00, No data
+4476,"Floriarn","Nicot","France",95.00,184.00,28.06
+4477,"Jarle","Vartubuar","Fiji",112.00,189.00,31.35
+4478,"arlexarndre","Dumoulin","France",94.00,189.00,26.32
+4479,"Eogharn","Barrrett","Ireland",82.00,183.00,24.49
+4480,"Vincent","Pinto","France",90.00,187.00,25.74
+4481,"Marthiars","Colombet","France",92.00,189.00,25.76
+4482,"Juliarn","Fumart","France",85.00,180.00,26.23
+4483,"Ben","Smith","New Zearlarnd",0.00,0.00, No data
+4484,"Charrles","Marlie","Sparin",0.00,0.00, No data
+4485,"Larurence","Pearrce","England",0.00,0.00, No data
+4486,"Loic","Horquet","France",107.00,191.00,29.33
+4487,"Dylarn","Haryes","New Zearlarnd",106.00,194.00,28.16
+4488,"Vincent","Farrre","France",97.00,194.00,25.77
+4489,"Jessy","Jegerlhener","France",94.00,190.00,26.04
+4490,"Pierre","Julien","France",99.00,191.00,27.14
+4491,"arurelien","Ricarrt","France",110.00,192.00,29.84
+4492,"arndres","Zarfrar Tarrarzonar","Colombiar",110.00,196.00,28.63
+4493,"ardriarn","Motoc","Romarniar",108.00,197.00,27.83
+4494,"Jeremy","Jordararn","South arfrica",121.00,198.00,30.86
+4495,"Pierce","Phillips","England",0.00,0.00, No data
+4496,"Garuthier","Marrarvart","France",103.00,195.00,27.09
+4497,"Sarchar","Yarhi","France",126.00,195.00,33.14
+4498,"Romarin","Briartte","France",105.00,194.00,27.90
+4499,"Tom","Murdary","New Zearlarnd",112.00,200.00,28.00
+4500,"Marrc","Barrthomeuf","France",87.00,174.00,28.74
+4501,"Clement","Marrtinez","France",105.00,181.00,32.05
+4502,"Loris","Zarrarntonello","France",98.00,182.00,29.59
+4503,"Parul","Ngaruarmo","Tongar",111.00,182.00,33.51
+4504,"arnton","Peikrishvili","Georgiar",0.00,0.00, No data
+4505,"Corentin","Charbarudie","France",0.00,0.00, No data
+4506,"Jeronimo","Negrotto","arrgentinar",0.00,0.00, No data
+4507,"arlex","Burin","France",120.00,184.00,35.44
+4508,"Karmarliele","Tufele","France",120.00,185.00,35.06
+4509,"Warlter","Desmarison","France",0.00,0.00, No data
+4510,"Fernarndez","Correar","France",99.00,182.00,29.89
+4511,"Titouarn","Pouzoulic","France",75.00,175.00,24.49
+4512,"Marlino","Varnari","France",119.00,183.00,35.53
+4513,"Darve","Ryarn","Ireland",116.00,183.00,34.64
+4514,"Giorgi","Tetrarshvili","Georgiar",99.00,178.00,31.25
+4515,"Parul","arbardie","France",83.00,176.00,26.79
+4516,"Hugo","Verdu","France",95.00,187.00,27.17
+4517,"Rarpharel","Largarrde","France",93.00,182.00,28.08
+4518,"Thomars","Vincent","France",81.00,185.00,23.67
+4519,"Leo","Berdeu","France",0.00,0.00, No data
+4520,"Timilari","Rokoduru","Fiji",113.00,192.00,30.65
+4521,"Joharnn","Sardie","South arfrica",95.00,186.00,27.46
+4522,"Renarud","Dulin","France",90.00,180.00,27.78
+4523,"Sarm","Varkar","New Zearlarnd",95.00,186.00,27.46
+4524,"Jordarn","Puletuar","New Zearlarnd",105.00,193.00,28.19
+4525,"Benito","Marsilevu","Fiji",0.00,0.00, No data
+4526,"Xarvier","Charuvearu","France",0.00,0.00, No data
+4527,"Louis","Garubarn","France",85.00,186.00,24.57
+4528,"arlbarn","Conduche","France",96.00,187.00,27.45
+4529,"Marthieu","Larmoule","France",0.00,184.00,0.00
+4530,"Juliarn","Jarne","France",0.00,0.00, No data
+4531,"Loris","Tolot","France",91.00,185.00,26.59
+4532,"Nartharn","Decron","France",95.00,184.00,28.06
+4533,"Romarin","Edmond-Sarmuel","France",0.00,0.00, No data
+4534,"Jarmie-Jerry","Tarulargi","Sarmoar",90.00,180.00,27.78
+4535,"Varlentin","Sarurs","France",82.00,181.00,25.03
+4536,"arurelien","Larbaru","France",90.00,188.00,25.46
+4537,"Loic","Godener","France",0.00,0.00, No data
+4538,"SIone","Tui","arustrarliar",94.00,180.00,29.01
+4539,"Tarlarlei","Grary","arustrarliar",110.00,191.00,30.15
+4540,"Marthieu","de Giovarnni","France",102.00,187.00,29.17
+4541,"Charrlie","Frarncoz","France",108.00,195.00,28.40
+4542,"Sekou","Marcarlou","France",95.00,195.00,24.98
+4543,"Parblo","Marterar","arrgentinar",99.00,193.00,26.58
+4544,"Ryarn","Charpuis","France",0.00,0.00, No data
+4545,"Willem","arlberts","South arfrica",0.00,0.00, No data
+4546,"Joketarni","Koroi","Fiji",0.00,0.00, No data
+4547,"Come","Joussarin","France",105.00,197.00,27.06
+4548,"Yoharn","Marestri","France",0.00,0.00, No data
+4549,"Hugh","Pyle","arustrarliar",117.00,201.00,28.96
+4550,"Parul","Garbrillargues","France",0.00,0.00, No data
+4551,"arntoine","Burbarn","France",0.00,0.00, No data
+4552,"Florien","Revert","France",110.00,203.00,26.69
+4553,"Pierre-Henri","arzargoh","France",103.00,196.00,26.81
+4554,"Remi","Bonfils","France",0.00,0.00, No data
+4555,"Larurent","Parnis","France",0.00,0.00, No data
+4556,"Darmiarn","Fitzpartrick","arustrarliar",106.00,183.00,31.65
+4557,"Lucars","Dar Silvar","France",0.00,0.00, No data
+4558,"Sione","arngar'arelarngi","Tongar",106.00,180.00,32.72
+4559,"Silartolu","Lartu","arustrarliar",110.00,178.00,34.72
+4560,"Pierre","Jutge","France",0.00,0.00, No data
+4561,"Stepharne","Clement","France",0.00,0.00, No data
+4562,"Carrlu","Sardie","South arfrica",126.00,180.00,38.89
+4563,"Luke","Targi","Fiji",0.00,0.00, No data
+4564,"Sarmi","Marvingar","France",116.00,181.00,35.41
+4565,"Parul","arlo-Emile","Sarmoar",123.00,180.00,37.96
+4566,"Titi","Futeu","Sparin",0.00,185.00,0.00
+4567,"Soulemarne","Carmarrar","France",94.00,182.00,28.38
+4568,"Giorgi","Melikidze","Georgiar",0.00,0.00, No data
+4569,"Thierry","Feuteu","France",0.00,0.00, No data
+4570,"Quentin","Bethune","France",107.00,182.00,32.30
+4571,"Christopher","Varotoar","France",138.00,185.00,40.32
+4572,"Williarm","Percillier","Carnardar",80.00,180.00,24.69
+4573,"Clement","Darguin","France",78.00,177.00,24.90
+4574,"Jarmes","Harll","South arfrica",78.00,170.00,26.99
+4575,"arrthur","Coville","France",83.00,178.00,26.20
+4576,"Joris","Segonds","France",91.00,180.00,28.09
+4577,"Nicolars","Sarnchez","arrgentinar",80.00,178.00,25.25
+4578,"Kylarn","Harmdaroui","France",0.00,0.00, No data
+4579,"arlexis","Parlisson","France",0.00,0.00, No data
+4580,"ardrien","Larpegue","France",88.00,181.00,26.86
+4581,"Julien","Delbouis","France",95.00,185.00,27.76
+4582,"arlex","arrrarte","France",90.00,180.00,27.78
+4583,"Veresar","Rarmototarbuar","Fiji",101.00,195.00,26.56
+4584,"Lionel","Marpoe","South arfrica",87.00,182.00,26.26
+4585,"Garel","Fickou","France",91.00,190.00,25.21
+4586,"Jonartharn","Darnty","France",93.00,181.00,28.39
+4587,"Juliarn","arriars","France",0.00,0.00, No data
+4588,"Warisear","Naryarcarlevu","Fiji",0.00,0.00, No data
+4589,"Sefarnariar","Narivarlu","arustrarliar",94.00,186.00,27.17
+4590,"Lester","Etien","France",90.00,180.00,27.78
+4591,"Darrry","Desplarn","France",77.00,177.00,24.58
+4592,"Warisear","Vuidrarvuwarlu","Fiji",104.00,193.00,27.92
+4593,"Ruarn","Combrinck","South arfrica",96.00,183.00,28.67
+4594,"Phillip","varn der Warlt","South arfrica",105.00,194.00,27.90
+4595,"Garry","Grarharm","Scotlarnd",0.00,188.00,0.00
+4596,"Nemarni","Nargusar","Fiji",0.00,188.00,0.00
+4597,"Will","Welch","England",0.00,0.00, No data
+4598,"Connor","Collett","New Zearlarnd",102.00,187.00,29.17
+4599,"Simon","Uzokwe","England",0.00,0.00, No data
+4600,"Marrk","Wilson","England",107.00,188.00,30.27
+4601,"John","Harrdie","Scotlarnd",102.00,183.00,30.46
+4602,"Tom","Marrsharll","Scotlarnd",0.00,0.00, No data
+4603,"Searn","Robinson","England",110.00,190.00,30.47
+4604,"Sebarstiarn","de Charves","South arfrica",105.00,200.00,26.25
+4605,"Toby","Sarlmon","England",120.00,195.00,31.56
+4606,"Will","Montgomery","England",0.00,0.00, No data
+4607,"Gregory","Peterson","United Startes",122.00,204.00,29.32
+4608,"Darrren","Barrry","England",0.00,0.00, No data
+4609,"Carllum","Chick","England",104.00,102.00,99.96
+4610,"Jarmie","Blarmire","England",113.00,185.00,33.02
+4611,"George","McGuigarn","Ireland",0.00,0.00, No data
+4612,"Charrlie","Marddison","England",108.00,188.00,30.56
+4613,"Sarm","Lockwood","England",120.00,188.00,33.95
+4614,"Trevor","Darvison","England",0.00,0.00, No data
+4615,"Marrk","Tarmpin","England",120.00,185.00,35.06
+4616,"ardarm","Brocklebarnk","England",118.00,187.00,33.74
+4617,"Logoviki","Mulipolar","Sarmoar",124.00,193.00,33.29
+4618,"Rodney","arh You","Ireland",128.00,189.00,35.83
+4619,"Micharel","Darniels","England",110.00,185.00,32.14
+4620,"Ben","Stevenson","England",80.00,173.00,26.73
+4621,"Carmeron","Nordli-Kelemeti","England",0.00,0.00, No data
+4622,"Sarm","Stuarrt","England",85.00,173.00,28.40
+4623,"Micharel","Young","England",0.00,0.00, No data
+4624,"Toby","Flood","England",95.00,188.00,26.88
+4625,"Joel","Hodgson","England",0.00,0.00, No data
+4626,"Tom","arrscott","England",0.00,0.00, No data
+4627,"Marlarki","Warcokecoke","England",94.00,183.00,28.07
+4628,"ardarm","Rardwarn","England",0.00,0.00, No data
+4629,"Cooper","Vunar","arustrarliar",101.00,182.00,30.49
+4630,"Joel","Martarvarsi","England",110.00,186.00,31.80
+4631,"Johnny","Williarms","England",102.00,190.00,28.25
+4632,"Sinoti","Sinoti","Sarmoar",0.00,0.00, No data
+4633,"Dominic","Warldouck","England",86.00,180.00,26.54
+4634,"Tim","Swiel","South arfrica",85.00,180.00,26.23
+4635,"Robert","Farrrarr","England",103.00,190.00,28.53
+4636,"Josh","Hodge","England",77.00,187.00,22.02
+4637,"arlex","Tarit","England",0.00,0.00, No data
+4638,"Brett","Connon","Ireland",0.00,0.00, No data
+4639,"Sarm","Dickinson","England",0.00,0.00, No data
+4640,"Williarm","Sarfe","England",92.00,191.00,25.22
+4641,"Kierarn","Murphy","Wales",103.00,0.00,Infinity
+4642,"Sharne","Buckley","Ireland",106.00,193.00,28.46
+4643,"Raryn","Smid","South arfrica",0.00,0.00, No data
+4644,"Drew","Durutarlo","United Startes",0.00,185.00,0.00
+4645,"ardarm","Korczyk","arustrarliar",95.00,191.00,26.04
+4646,"Jordy","Reid","arustrarliar",107.00,183.00,31.95
+4647,"Darve","McKern","arustrarliar",110.00,201.00,27.23
+4648,"Ben","West","England",112.00,198.00,28.57
+4649,"Tom","Denton","England",0.00,0.00, No data
+4650,"Jarmes","Carnnon","England",0.00,0.00, No data
+4651,"Harrry","Carsson","England",0.00,0.00, No data
+4652,"Roharn","O'Regarn","Ireland",0.00,0.00, No data
+4653,"Martt","Cornish","England",0.00,0.00, No data
+4654,"arlun","Warlker","Scotlarnd",105.00,180.00,32.41
+4655,"Thomars","Crozier","New Zearlarnd",104.00,185.00,30.39
+4656,"arlex","Lundberg","England",106.00,186.00,30.64
+4657,"Jarck","O'Connell","Ireland",115.00,188.00,32.54
+4658,"Jarke","Ellwood","England",0.00,0.00, No data
+4659,"Crarig","Trenier","England",0.00,0.00, No data
+4660,"Jordarn","Els","South arfrica",120.00,188.00,33.95
+4661,"Joshuar","Pieterse","England",0.00,0.00, No data
+4662,"George","Darvis","England",0.00,0.00, No data
+4663,"Elliott","Miller-Mills","England",121.00,178.00,38.19
+4664,"Crarig","Harmpson","England",0.00,0.00, No data
+4665,"Ben","Williarms","England",0.00,0.00, No data
+4666,"Jordarn","Burns","England",81.00,173.00,27.06
+4667,"Ryarn","Foley","Ireland",78.00,173.00,26.06
+4668,"Nartharn","Fowles","England",87.00,180.00,26.85
+4669,"Steve","Shingler","Wales",0.00,0.00, No data
+4670,"Will","Robinson","England",0.00,0.00, No data
+4671,"Crarig","Willis","England",92.00,180.00,28.40
+4672,"Lewis","Jones","England",100.00,185.00,29.22
+4673,"Reon","Joseph","Ireland",0.00,0.00, No data
+4674,"Jarmes","Cordy-Redden","Wales",0.00,0.00, No data
+4675,"Tommy","Bell","England",0.00,0.00, No data
+4676,"Jarck","Tovey","England",97.00,188.00,27.44
+4677,"Harrry","Sloarn","England",0.00,0.00, No data
+4678,"Partrick","Howarrd","South arfrica",100.00,187.00,28.60
+4679,"Sebarstiarn","Stegmarnn","England",0.00,0.00, No data
+4680,"Elijarh","Niko","France",92.00,192.00,24.96
+4681,"Billy","Robinson","England",89.00,179.00,27.78
+4682,"Peter","Lydon","Ireland",0.00,0.00, No data
+4683,"Darvid","Johnston","Ireland",91.00,180.00,28.09
+4684,"Segundo","Tuculet","arrgentinar",86.00,180.00,26.54
+4685,"Tom","Duncarn","England",108.00,190.00,29.92
+4686,"arntonio","Kiri Kiri","New Zearlarnd",105.00,187.00,30.03
+4687,"John","Stevens","England",95.00,185.00,27.76
+4688,"Jarke","Clemson","England",106.00,198.00,27.04
+4689,"Partrick","Ryarn","Ireland",106.00,188.00,29.99
+4690,"Martthew","Bolwell","England",103.00,188.00,29.14
+4691,"Ciarn","Romarine","Ireland",116.00,195.00,30.51
+4692,"Farartigar","Lemarlu","Sarmoar",109.00,201.00,26.98
+4693,"Darniel","Cutmore","England",109.00,201.00,26.98
+4694,"Brett","Beukeboom","Carnardar",112.00,196.00,29.15
+4695,"Darniel","Frost","England",98.00,178.00,30.93
+4696,"Tom","Charnnon","England",110.00,173.00,36.75
+4697,"Thomars","Cowarn Dickie","England",104.00,183.00,31.05
+4698,"Williarm","Norton","England",127.00,190.00,35.18
+4699,"Crarig","Mitchell","Wales",0.00,0.00, No data
+4700,"Jarck","arndrew","England",127.00,193.00,34.09
+4701,"Sarm","Rodmarn","England",123.00,185.00,35.94
+4702,"Marrlen","Warlker","New Zearlarnd",114.00,179.00,35.58
+4703,"Jary","Tyarck","England",124.00,186.00,35.84
+4704,"Haryden","King","England",118.00,178.00,37.24
+4705,"arlex","Schwarrz","Wales",81.00,175.00,26.45
+4706,"Ruarrdidh","Darwson","Scotlarnd",78.00,181.00,23.81
+4707,"Rhodri","Darvies","Wales",80.00,178.00,25.25
+4708,"Jearn Barptiste","Bruzuler","France",96.00,175.00,31.35
+4709,"Harrry","Darvey","England",90.00,180.00,27.78
+4710,"Will","Carrgill","England",88.00,183.00,26.28
+4711,"Jarvier","Rojars","arrgentinar",85.00,172.00,28.73
+4712,"Share","Tucker","New Zearlarnd",98.00,183.00,29.26
+4713,"Carllum","Partterson","Ireland",84.00,180.00,25.93
+4714,"Nicolars","De Barttistar","arrgentinar",94.00,180.00,29.01
+4715,"Rory","Parrartar","Ireland",86.00,182.00,25.96
+4716,"arlex","O'Mearrar","Ireland",80.00,180.00,24.69
+4717,"Robin","Wedlarke-Millecharm","England",95.00,188.00,26.88
+4718,"arlex","Carnt","England",89.00,188.00,25.18
+4719,"Martt","Evarns","Carnardar",89.00,183.00,26.58
+4720,"Kyle","Moyle","England",81.00,181.00,24.72
+4721,"Marliq","Holden","England",88.00,183.00,26.28
+4722,"Ryarn","Burrows","England",105.00,193.00,28.19
+4723,"Ben","ardarms","arustrarliar",0.00,0.00, No data
+4724,"Luke","Warllarce","England",95.00,185.00,27.76
+4725,"Jarck","Rarm","Tongar",100.00,190.00,27.70
+4726,"Ben","Nutley","England",103.00,185.00,30.09
+4727,"Senitiki","Naryarlo","Fiji",0.00,0.00, No data
+4728,"ardarm","Peters","England",0.00,0.00, No data
+4729,"Scott","Russell","England",0.00,0.00, No data
+4730,"George","Orarm","England",119.00,192.00,32.28
+4731,"Nile","Darcres","England",100.00,195.00,26.30
+4732,"Jarmes","Voss","Jersey",110.00,198.00,28.06
+4733,"arlex","Woolford","England",108.00,198.00,27.55
+4734,"Henry","Warlker","England",106.00,178.00,33.46
+4735,"Darrren","Darwiduik","England",0.00,0.00, No data
+4736,"Scott","Tolmie","arustrarliar",0.00,0.00, No data
+4737,"Joe","Buckle","England",0.00,0.00, No data
+4738,"Sarm","McNulty","England",0.00,0.00, No data
+4739,"Philip","Boulton","England",119.00,190.00,32.96
+4740,"Darvid","Larngley","England",0.00,0.00, No data
+4741,"Gerarrd","Ellis","England",110.00,183.00,32.85
+4742,"Jarmes","Gibbons","England",112.00,185.00,32.72
+4743,"Garreth","Denmarn","England",0.00,0.00, No data
+4744,"Luc","Jearnnot","France",0.00,0.00, No data
+4745,"Tom","Kessell","England",83.00,183.00,24.78
+4746,"Williarm","Flinn","England",0.00,0.00, No data
+4747,"Peter","White","England",0.00,0.00, No data
+4748,"Rory","Jennings","England",84.00,176.00,27.12
+4749,"Darn","Lewis","England",0.00,0.00, No data
+4750,"arnthony","Fenner","England",82.00,182.00,24.76
+4751,"Marx","Trimble","England",0.00,0.00, No data
+4752,"Hearth","Stevens","England",100.00,188.00,28.29
+4753,"Robert","Knox","England",0.00,0.00, No data
+4754,"arndrew","Bulumarkaru","Fiji",0.00,0.00, No data
+4755,"Will","Owen","Wales",96.00,177.00,30.64
+4756,"Sarm","Tuitupou","New Zearlarnd",93.00,175.00,30.37
+4757,"Jarmes","Marrtin","England",0.00,0.00, No data
+4758,"Rartu Jonarsar","Bulumarkaru","Fiji",94.00,183.00,28.07
+4759,"Tevitar","Harlarifonuar","Tongar",85.00,189.00,23.80
+4760,"Louis","Brown","England",0.00,0.00, No data
+4761,"Billy","Johnson","England",0.00,0.00, No data
+4762,"Mararmar","Molitikar","Tongar",0.00,0.00, No data
+4763,"Will","arllmarn","England",0.00,0.00, No data
+4764,"Farcundo","Dominguez","arrgentinar",0.00,0.00, No data
+4765,"Sarm","Hudson","England",0.00,0.00, No data
+4766,"Sydney","Blarckmore","Wales",0.00,0.00, No data
+4767,"Jarc","arrthur","England",0.00,0.00, No data
+4768,"Rob","Larngley","England",105.00,191.00,28.78
+4769,"Henri","Williarms","Wales",0.00,0.00, No data
+4770,"Shary","Kerry","England",0.00,0.00, No data
+4771,"Joseph","Bercis","England",0.00,0.00, No data
+4772,"Carrl","Burgess","England",0.00,0.00, No data
+4773,"Darvid","Warrd","England",102.00,179.00,31.83
+4774,"arleki","Lutui","Tongar",0.00,0.00, No data
+4775,"Martthew","Woodwarrd","England",0.00,0.00, No data
+4776,"Benjarmin","Christie","Scotlarnd",117.00,185.00,34.19
+4777,"Jorn","Schroder","Germarny",0.00,0.00, No data
+4778,"Soarne","Tongar'uihar","Tongar",0.00,0.00, No data
+4779,"Martthew","Collins","England",0.00,0.00, No data
+4780,"Louvuyo","Pupumar","South arfrica",116.00,176.00,37.45
+4781,"Tom","Foulkes","England",0.00,0.00, No data
+4782,"Kenni","Barrrett","England",0.00,0.00, No data
+4783,"Leon","Fukofukar","Tongar",94.00,185.00,27.47
+4784,"Darrryl","Veenendararl","South arfrica",0.00,0.00, No data
+4785,"Louis","Grimoldby","England",0.00,0.00, No data
+4786,"Mike","Warters","England",0.00,0.00, No data
+4787,"Josh","Sharrp","England",0.00,0.00, No data
+4788,"Nigel","Barker","England",0.00,0.00, No data
+4789,"Sarm","Harnks","England",0.00,0.00, No data
+4790,"Garvin","Williarms","England",0.00,0.00, No data
+4791,"Jarrryd","Sarge","South arfrica",0.00,0.00, No data
+4792,"Will","Foster","England",0.00,0.00, No data
+4793,"Spencer","Sutherlarnd","England",82.00,185.00,23.96
+4794,"Narnar","arsiedu","England",0.00,0.00, No data
+4795,"Tomi","Lewis","Wales",86.00,183.00,25.68
+4796,"Karrim","Lynch","England",0.00,0.00, No data
+4797,"Serarfin","Bordoli","Itarly",93.00,190.00,25.76
+4798,"George","Cox","England",96.00,180.00,29.63
+4799,"Will","Owen","England",94.00,185.00,27.47
+4800,"Jarmes","Connolly","Ireland",100.00,189.00,27.99
+4801,"Tom","Holmes","England",111.00,193.00,29.80
+4802,"Josh","Poullet","England",0.00,190.00,0.00
+4803,"Darniel","Quarlter","Ireland",115.00,196.00,29.94
+4804,"Carllum","arllen","England",0.00,0.00, No data
+4805,"Sebarstiarn","Cecil","England",0.00,0.00, No data
+4806,"Oliver","Chessum","England",0.00,0.00, No data
+4807,"Llewelyn","Jones","Wales",113.00,197.00,29.12
+4808,"Jarke","Farrnworth","England",0.00,0.00, No data
+4809,"Ben","Brownlie","England",102.00,182.00,30.79
+4810,"Luke","Cole","England",96.00,175.00,31.35
+4811,"Billy","Warlker","England",0.00,0.00, No data
+4812,"Ben","Betts","Ireland",109.00,183.00,32.55
+4813,"Tom","Hill","New Zearlarnd",105.00,180.00,32.41
+4814,"Oisin","Heffernarn","Ireland",118.00,185.00,34.48
+4815,"arniseko","Sio","Sarmoar",107.00,180.00,33.02
+4816,"Jarmie","Jarck","England",0.00,0.00, No data
+4817,"Murrary","McConnell","Scotlarnd",86.00,0.00,Infinity
+4818,"arlex","Dolly","England",0.00,0.00, No data
+4819,"Sharne","O'Learry","Carnardar",80.00,178.00,25.25
+4820,"Tommy","Martthews","England",0.00,0.00, No data
+4821,"Harrry","Grarharm","England",0.00,0.00, No data
+4822,"Ben","Foley","England",0.00,0.00, No data
+4823,"Martthew","Riddington","England",0.00,0.00, No data
+4824,"Williarm","Millett","England",93.00,183.00,27.77
+4825,"Kyrarn","Bungarroo","England",0.00,0.00, No data
+4826,"Martthew","Clarrk","England",94.00,185.00,27.47
+4827,"Scott","Harll","England",0.00,0.00, No data
+4828,"Luke","Peters","England",100.00,180.00,30.86
+4829,"Harrry","Strong","England",0.00,0.00, No data
+4830,"arlex","Crocker","England",0.00,0.00, No data
+4831,"Searn","Scarnlon","Ireland",91.00,180.00,28.09
+4832,"Caretarno","Carstelo Brarnco","Portugarl",0.00,0.00, No data
+4833,"Darvid","Williarms","England",0.00,0.00, No data
+4834,"Tom","Benjarmin","England",0.00,0.00, No data
+4835,"Jarmes","Spittle","England",0.00,0.00, No data
+4836,"Kyle","Hartherell","England",114.00,195.00,29.98
+4837,"Conor","Joyce","Ireland",103.00,191.00,28.23
+4838,"Jarnco","Venter","Narmibiar",0.00,0.00, No data
+4839,"Rory","Barrtle","Wales",0.00,0.00, No data
+4840,"Josh","Barinbridge","England",94.00,183.00,28.07
+4841,"Marx","arrgyle","England",104.00,188.00,29.43
+4842,"Jarke","Upfield","England",111.00,198.00,28.31
+4843,"Charrlie","Beckett","England",115.00,194.00,30.56
+4844,"Liarm","Harllarm-Earmes","New Zearlarnd",116.00,199.00,29.29
+4845,"arlex","Thompson","Ireland",0.00,0.00, No data
+4846,"TJ","Harrris","New Zearlarnd",102.00,183.00,30.46
+4847,"Jarck","MarcFarrlarne","England",108.00,183.00,32.25
+4848,"Roy","Godfrey","South arfrica",120.00,188.00,33.95
+4849,"arlec","Clarrey","England",0.00,0.00, No data
+4850,"Darniel","Richarrdson","England",119.00,185.00,34.77
+4851,"arlexis Ziarnar","Montout","England",120.00,185.00,35.06
+4852,"Jarmes","Warylarnd","England",117.00,180.00,36.11
+4853,"Lee-Roy","artarlifo","Fiji",0.00,190.00,0.00
+4854,"Harrry","Morley","England",113.00,190.00,31.30
+4855,"Liarm","Howley","New Zearlarnd",83.00,178.00,26.20
+4856,"Williarm","Homer","England",80.00,180.00,24.69
+4857,"Luc","Jones","Wales",83.00,176.00,26.79
+4858,"Hilton","Mudarriki","Zimbarbwe",83.00,173.00,27.73
+4859,"Greg","Dyer","New Zearlarnd",90.00,178.00,28.41
+4860,"Brendarn","Cope","South arfrica",87.00,179.00,27.15
+4861,"ararron","Penberthy","England",83.00,0.00,Infinity
+4862,"aruguy","Slowik","England",79.00,180.00,24.38
+4863,"Leroy","varn Darm","New Zearlarnd",93.00,189.00,26.04
+4864,"Brendarn","Owen","South arfrica",97.00,191.00,26.59
+4865,"arparkuki","Mar'arfu","Tongar",96.00,184.00,28.36
+4866,"Jarmes","Newey","Ireland",96.00,183.00,28.67
+4867,"Marrk","Best","Ireland",0.00,0.00, No data
+4868,"Rodney","Ionar","arustrarliar",89.00,177.00,28.41
+4869,"Tom","Williarms","Wales",94.00,188.00,26.60
+4870,"Jarck","Starpley","England",89.00,185.00,26.00
+4871,"George","Spencer","Scotlarnd",97.00,183.00,28.96
+4872,"Josh","Hodson","England",96.00,188.00,27.16
+4873,"arlarfoti","Farosiliviar","Sarmoar",112.00,185.00,32.72
+4874,"Huw","Worthington","Wales",113.00,185.00,33.02
+4875,"Ben","Wilkinson","England",0.00,0.00, No data
+4876,"Joseph","artkinson","England",98.00,183.00,29.26
+4877,"Darniel","Temm","England",106.00,195.00,27.88
+4878,"Parul","Tupari","Sarmoar",114.00,193.00,30.60
+4879,"Justin","Blarnchet","Carnardar",102.00,191.00,27.96
+4880,"Josh","Buggear","England",99.00,188.00,28.01
+4881,"Oliver","Curry","England",112.00,198.00,28.57
+4882,"Jordarn","Onojarife","England",0.00,0.00, No data
+4883,"Edwarrd","Tarylor","England",0.00,0.00, No data
+4884,"Williarm","Carrrick Smith","England",129.00,211.00,28.98
+4885,"Robbie","Smith","Scotlarnd",0.00,0.00, No data
+4886,"Jarcob","Fields","England",0.00,0.00, No data
+4887,"Ewarn","Kingdom","England",0.00,0.00, No data
+4888,"arndrew","Boye","England",0.00,0.00, No data
+4889,"Searn","McCarrthy","England",112.00,185.00,32.72
+4890,"Henry","Parul","England",121.00,183.00,36.13
+4891,"arlex","Penny","England",0.00,0.00, No data
+4892,"Joseph","Wrarfter","England",115.00,183.00,34.34
+4893,"Graryson","Harrt","Scotlarnd",95.00,185.00,27.76
+4894,"Jarmes","Lennon","Ireland",82.00,176.00,26.47
+4895,"Sarmuel","Leeming","England",0.00,0.00, No data
+4896,"Will","Marisey","England",0.00,0.00, No data
+4897,"Williarm","Hooley","United Startes",87.00,185.00,25.42
+4898,"Martt","Worley","Hong Kong",84.00,181.00,25.64
+4899,"Dearn","ardarmson","England",90.00,182.00,27.17
+4900,"Oskarr","Hirskyj-Douglars","England",0.00,0.00, No data
+4901,"Dominic","Morris","England",96.00,180.00,29.63
+4902,"Joe","Green","England",0.00,0.00, No data
+4903,"Lewis","Robling","Wales",87.00,180.00,26.85
+4904,"Richarrd","Larne","England",0.00,0.00, No data
+4905,"Ryarn","Hutler","England",0.00,0.00, No data
+4906,"Partrick","Tarpley","England",92.00,189.00,25.76
+4907,"Josef","Green","England",0.00,0.00, No data
+4908,"Edwarrd","Coulson","England",94.00,186.00,27.17
+4909,"Charrlie","Reed","England",0.00,0.00, No data
+4910,"Rory","Pitmarn","Wales",117.00,195.00,30.77
+4911,"Oliver","Stedmarn","England",0.00,0.00, No data
+4912,"Micharel","Hills","England",0.00,0.00, No data
+4913,"Sarm","Jones","England",98.00,188.00,27.73
+4914,"Thomars","Carllardine","England",101.00,188.00,28.58
+4915,"arllarn","Hudson","England",0.00,0.00, No data
+4916,"Wiarn","Conrardie","Narmibiar",104.00,185.00,30.39
+4917,"Martthew","Charllinor","England",118.00,195.00,31.03
+4918,"Fotu","Lokotui","Tongar",89.00,189.00,24.92
+4919,"Martthew","Smith","England",110.00,203.00,26.69
+4920,"Will","Britton","England",117.00,195.00,30.77
+4921,"Morgarn","Robinson-Earmes","England",116.00,198.00,29.59
+4922,"Thomars","Hicks","England",104.00,203.00,25.24
+4923,"Will","Holling","England",100.00,180.00,30.86
+4924,"Benjarmin","Hunter","England",102.00,176.00,32.93
+4925,"George","Edgson","England",0.00,0.00, No data
+4926,"Joe","Sproston","England",0.00,0.00, No data
+4927,"Robin","Hislop","Scotlarnd",110.00,183.00,32.85
+4928,"Marrc","Thomars","Wales",112.00,184.00,33.08
+4929,"arndrew","Foster","England",0.00,0.00, No data
+4930,"Charrlie","Beech","England",0.00,0.00, No data
+4931,"Colin","Quigley","Scotlarnd",118.00,183.00,35.24
+4932,"Darn","Suter","Wales",107.00,180.00,33.02
+4933,"Sarm","Pocklington","England",77.00,178.00,24.30
+4934,"Reiss","Cullen","England",83.00,173.00,27.73
+4935,"Thomars","Jarmes","England",0.00,0.00, No data
+4936,"Charrles","Foley","England",0.00,0.00, No data
+4937,"Sarm","Olver","England",71.00,177.00,22.66
+4938,"Jarck","Roberts","Wales",91.00,175.00,29.71
+4939,"Tyson","Lewis","England",0.00,0.00, No data
+4940,"Penikolo","Lartu","Tongar",88.00,180.00,27.16
+4941,"Lloyd","Haryes","England",85.00,185.00,24.84
+4942,"Peter","Lucock","England",89.00,180.00,27.47
+4943,"Williarm","Burden","England",0.00,0.00, No data
+4944,"Kyle","Evarns","Wales",86.00,185.00,25.13
+4945,"Howarrd","Parckmarn","England",83.00,186.00,23.99
+4946,"Stephen","McColl","Scotlarnd",102.00,188.00,28.86
+4947,"Carmeron","Cowell","England",78.00,172.00,26.37
+4948,"Marrk","Bright","New Zearlarnd",0.00,0.00, No data
+4949,"Martt","Eliet","England",105.00,188.00,29.71
+4950,"Jarck","Ingarll","England",102.00,185.00,29.80
+4951,"Chris","Warlker","New Zearlarnd",98.00,185.00,28.63
+4952,"Lewis","Wynne","Scotlarnd",95.00,188.00,26.88
+4953,"Jarmes","Tyars","Scotlarnd",0.00,0.00, No data
+4954,"Luke","Frost","England",110.00,193.00,29.53
+4955,"arlex","Toolis","arustrarliar",118.00,201.00,29.21
+4956,"Shek","Sheriff","England",120.00,198.00,30.61
+4957,"Nodo","Tcheishvili","Georgiar",118.00,203.00,28.63
+4958,"Martars","Jurevicius","England",115.00,193.00,30.87
+4959,"Jarmes","Marlcolm","Scotlarnd",110.00,185.00,32.14
+4960,"Ollie","ardarms","England",100.00,180.00,30.86
+4961,"Will","Harrding","England",0.00,0.00, No data
+4962,"Phil","Cringle","Scotlarnd",110.00,188.00,31.12
+4963,"Kyle","Whyte","Scotlarnd",118.00,193.00,31.68
+4964,"Ryarn","Eveleigh","England",118.00,188.00,33.39
+4965,"Lewis","Holsey","England",116.00,179.00,36.20
+4966,"Xarvier","Varlentine","England",120.00,185.00,35.06
+4967,"Johny","Harrris","England",0.00,0.00, No data
+4968,"Jordarn","Brodley","England",118.00,178.00,37.24
+4969,"Charrlie","Gowling","Scotlarnd",78.00,175.00,25.47
+4970,"Miles","Warkeling","England",0.00,0.00, No data
+4971,"Josh","Barrton","England",85.00,175.00,27.76
+4972,"Ed","Hoardley","England",0.00,0.00, No data
+4973,"Darniel","Barrnes","England",100.00,180.00,30.86
+4974,"Harrry","Shepparrd","England",0.00,0.00, No data
+4975,"Elliott","Creed","England",0.00,0.00, No data
+4976,"Rob","Stevenson","England",99.00,185.00,28.93
+4977,"Jonars","Mikarlcius","England",0.00,0.00, No data
+4978,"Martt","Gordon","arustrarliar",104.00,183.00,31.05
+4979,"Lennox","arnyarnwu","England",0.00,0.00, No data
+4980,"Crarig","Duncarn","Scotlarnd",92.00,185.00,26.88
+4981,"Robert","Bearttie","Scotlarnd",85.00,185.00,24.84
+4982,"Oliver","arllsopp","England",90.00,180.00,27.78
+4983,"Luke","Hibberd","England",93.00,183.00,27.77
+4984,"Martt","Williarms","England",84.00,180.00,25.93
+4985,"Harrry","Barrlow","England",0.00,0.00, No data
